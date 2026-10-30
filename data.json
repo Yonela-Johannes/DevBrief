@@ -664594,5 +664594,11 @@
         "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
         "timestamp": "2026-10-30T23:25:09.075533",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+        "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+        "timestamp": "2026-10-30T23:25:09.075645",
+        "source": "Hacker News"
     }
 ]
