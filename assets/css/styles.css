@@ -1,55 +1,129 @@
-/* DevBrief - Design System & Base Styles */
+/* ==========================================================================
+   DevBrief - Serene Design System Tokens & Base Styles
+   ========================================================================== */
 
+/* --- Layer 1: Variables & Tokens --- */
 :root {
-    /* Color Palette - Modern Dark Editorial */
-    --bg-app: #090d16;
-    --bg-surface: #111726;
-    --bg-surface-elevated: #161e31;
-    --bg-surface-hover: #1c263d;
-    --bg-input: #121929;
+    color-scheme: dark;
 
-    --border-subtle: #1e293b;
-    --border-medium: #2d3d59;
-    --border-highlight: #38bdf8;
+    /* Brand Tokens (Warm Amber / Gold Accent) */
+    --brand: #f59e0b;
+    --brand-hover: #d97706;
+    --brand-ink: #fbbf24;
+    --brand-soft: rgba(245, 158, 11, 0.12);
+    --brand-soft-border: rgba(245, 158, 11, 0.25);
+    --brand-contrast: #0f0d0a;
 
-    --text-primary: #f8fafc;
-    --text-secondary: #94a3b8;
-    --text-muted: #64748b;
-    --text-inverse: #090d16;
+    /* Warm Neutral Ramp - Dark Mode Default */
+    --n-0: #0f0e0c;
+    --n-50: #161412;
+    --n-100: #1d1a17;
+    --n-200: #2a2622;
+    --n-300: #3a352f;
+    --n-400: #6a6258;
+    --n-500: #8a8275;
+    --n-600: #b5ad9e;
+    --n-700: #d6cfc2;
+    --n-800: #eae4d8;
+    --n-900: #f7f4ed;
 
-    /* Accents */
-    --accent-primary: #38bdf8;    /* Sky Blue */
-    --accent-primary-hover: #0284c7;
-    --accent-primary-subtle: rgba(56, 189, 248, 0.1);
+    /* Surfaces & Backgrounds */
+    --background: var(--n-0);
+    --background-secondary: var(--n-50);
+    --surface: var(--n-100);
+    --surface-soft: var(--n-50);
+    --surface-elevated: var(--n-100);
+    --surface-hover: var(--n-200);
+    --surface-inset: var(--n-50);
 
-    --accent-indigo: #818cf8;
-    --accent-emerald: #34d399;
-    --accent-rose: #f43f5e;
-    --accent-amber: #fbbf24;
-    --accent-purple: #a78bfa;
-    --accent-pink: #ec4899;
+    /* Text & Foregrounds */
+    --foreground: var(--n-900);
+    --foreground-soft: var(--n-700);
+    --foreground-muted: var(--n-500);
+    --foreground-subtle: var(--n-400);
 
-    /* Typography */
-    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    --font-mono: 'JetBrains Mono', 'Fira Code', Consolas, Monaco, monospace;
+    /* Borders & Dividers */
+    --border: var(--n-200);
+    --border-strong: var(--n-300);
 
-    /* Radius */
+    /* Category Semantic Accent Badges */
+    --cat-tech: #38bdf8;
+    --cat-dev: #34d399;
+    --cat-prod: #f43f5e;
+    --cat-startup: #fbbf24;
+    --cat-design: #ec4899;
+    --cat-research: #818cf8;
+    --cat-community: #a78bfa;
+
+    /* Typography Fonts */
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-serif: 'Source Serif Pro', 'Source Serif 4', Georgia, Cambria, 'Times New Roman', serif;
+    --font-mono: 'JetBrains Mono', Consolas, Monaco, monospace;
+
+    /* Radii */
+    --radius-xs: 4px;
     --radius-sm: 6px;
     --radius-md: 10px;
     --radius-lg: 14px;
+    --radius-xl: 20px;
+    --radius-2xl: 28px;
     --radius-full: 9999px;
 
-    /* Shadows */
-    --shadow-card: 0 4px 20px -2px rgba(0, 0, 0, 0.3);
-    --shadow-elevated: 0 12px 32px -4px rgba(0, 0, 0, 0.4);
-    --shadow-focus: 0 0 0 3px rgba(56, 189, 248, 0.25);
+    /* Shadows & Transitions */
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 12px 28px rgba(0, 0, 0, 0.4);
+    --ring-focus: 0 0 0 2px var(--brand);
 
-    /* Transitions */
     --transition-fast: 0.15s ease;
     --transition-base: 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-/* Reset & Box Sizing */
+/* Light Theme Overrides */
+[data-theme="light"] {
+    color-scheme: light;
+
+    --brand: #d97706;
+    --brand-hover: #b45309;
+    --brand-ink: #92400e;
+    --brand-soft: #fef3c7;
+    --brand-soft-border: #fcd34d;
+    --brand-contrast: #ffffff;
+
+    --n-0: #ffffff;
+    --n-50: #fbf9f5;
+    --n-100: #f3f0e8;
+    --n-200: #e6e1d5;
+    --n-300: #d4cebe;
+    --n-400: #9e9788;
+    --n-500: #787163;
+    --n-600: #575145;
+    --n-700: #38342c;
+    --n-800: #211f1a;
+    --n-900: #12110e;
+
+    --background: var(--n-0);
+    --background-secondary: var(--n-50);
+    --surface: var(--n-0);
+    --surface-soft: var(--n-50);
+    --surface-elevated: var(--n-0);
+    --surface-hover: var(--n-100);
+    --surface-inset: var(--n-100);
+
+    --foreground: var(--n-900);
+    --foreground-soft: var(--n-700);
+    --foreground-muted: var(--n-500);
+    --foreground-subtle: var(--n-400);
+
+    --border: var(--n-200);
+    --border-strong: var(--n-300);
+
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 12px 28px rgba(0, 0, 0, 0.12);
+}
+
+/* --- Layer 2: Resets & Base Styles --- */
 *, *::before, *::after {
     margin: 0;
     padding: 0;
@@ -64,50 +138,61 @@ html {
 
 body {
     font-family: var(--font-sans);
-    background-color: var(--bg-app);
-    color: var(--text-primary);
-    line-height: 1.5;
-    letter-spacing: -0.01em;
+    background-color: var(--background);
+    color: var(--foreground);
+    line-height: 1.6;
+    letter-spacing: -0.011em;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    transition: background-color var(--transition-base), color var(--transition-base);
 }
 
 /* Links */
 a {
-    color: var(--accent-primary);
+    color: inherit;
     text-decoration: none;
     transition: color var(--transition-fast);
 }
 
-a:hover {
-    color: var(--text-primary);
-}
-
-/* Focus Ring Accessibility */
+/* Focus Ring */
 :focus-visible {
     outline: none;
-    box-shadow: var(--shadow-focus);
-    border-color: var(--accent-primary) !important;
+    box-shadow: var(--ring-focus);
 }
 
-/* Container */
+/* Container Utilities */
 .app-container {
-    max-width: 1280px;
+    max-width: 1240px;
     width: 100%;
     margin: 0 auto;
     padding: 0 24px;
 }
 
-.main-content {
-    flex: 1;
-    padding: 24px 0 60px;
+.prose-container {
+    max-width: 68ch;
+    width: 100%;
+    margin: 0 auto;
 }
 
-/* Screen Reader Only Utility */
+.main-content {
+    flex: 1;
+    padding: 32px 0 80px;
+}
+
+/* Typography Classes */
+.font-serif {
+    font-family: var(--font-serif);
+}
+
+.font-mono {
+    font-family: var(--font-mono);
+}
+
+/* Accessibility */
 .sr-only {
     position: absolute;
     width: 1px;

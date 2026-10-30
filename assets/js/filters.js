@@ -1,11 +1,21 @@
 /**
- * DevBrief - Filtering & State Management Module
+ * DevBrief - Filtering & View State Management Module
  */
 
 const FilterService = {
     searchTerm: '',
     selectedSources: new Set(),
     activeCategory: 'all',
+    viewMode: localStorage.getItem('devbrief-view-mode') || 'grid', // 'grid' or 'list'
+    currentRoute: 'feed', // 'feed', 'article', 'about'
+    activeArticleSlug: null,
+
+    setViewMode(mode) {
+        if (mode === 'grid' || mode === 'list') {
+            this.viewMode = mode;
+            localStorage.setItem('devbrief-view-mode', mode);
+        }
+    },
 
     setSearchTerm(term) {
         this.searchTerm = (term || '').trim().toLowerCase();
@@ -51,12 +61,12 @@ const FilterService = {
                 return false;
             }
 
-            // Source filter (if any sources selected, must match one of them)
+            // Source filter
             if (this.selectedSources.size > 0 && !this.selectedSources.has(article.source)) {
                 return false;
             }
 
-            // Search filter (title or URL)
+            // Search filter
             if (this.searchTerm !== '') {
                 const titleMatch = article.title.toLowerCase().includes(this.searchTerm);
                 const urlMatch = article.url.toLowerCase().includes(this.searchTerm);

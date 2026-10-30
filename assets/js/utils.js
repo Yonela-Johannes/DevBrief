@@ -1,5 +1,5 @@
 /**
- * DevBrief - Utility Functions
+ * DevBrief - Serene Utility Functions
  */
 
 const Utils = {
@@ -11,6 +11,19 @@ const Utils = {
         const div = document.createElement('div');
         div.textContent = str;
         return div.innerHTML;
+    },
+
+    /**
+     * Create a URL-friendly slug from title
+     */
+    createSlug(text) {
+        if (!text) return 'story';
+        return text
+            .toLowerCase()
+            .replace(/[^\w\s-]/g, '')
+            .trim()
+            .replace(/\s+/g, '-')
+            .slice(0, 60);
     },
 
     /**
@@ -40,7 +53,16 @@ const Utils = {
     },
 
     /**
-     * Format timestamp to a human-readable relative time string
+     * Calculate estimated reading time for an article
+     */
+    calculateReadingTime(text = '') {
+        const words = text.trim().split(/\s+/).length || 1;
+        const minutes = Math.ceil(words / 200);
+        return `${Math.max(1, minutes)} min read`;
+    },
+
+    /**
+     * Format timestamp to a human-readable relative or formatted date
      */
     formatRelativeTime(dateInput) {
         if (!dateInput) return 'Recently';
@@ -51,8 +73,7 @@ const Utils = {
         const now = new Date();
         const diffInSeconds = Math.floor((now - date) / 1000);
 
-        if (diffInSeconds < 0) return 'Just now';
-        if (diffInSeconds < 60) return 'Just now';
+        if (diffInSeconds < 0 || diffInSeconds < 60) return 'Just now';
 
         const diffInMinutes = Math.floor(diffInSeconds / 60);
         if (diffInMinutes < 60) return `${diffInMinutes}m ago`;
@@ -67,15 +88,15 @@ const Utils = {
     },
 
     /**
-     * Format date to short readable date string (e.g. "Mar 8, 2026")
+     * Format date to short readable date string (e.g. "8 Mar 2026")
      */
     formatFullDate(dateInput) {
         const date = new Date(dateInput);
         if (isNaN(date.getTime())) return '—';
 
-        return date.toLocaleDateString('en-US', {
-            month: 'short',
+        return date.toLocaleDateString('en-ZA', {
             day: 'numeric',
+            month: 'short',
             year: 'numeric'
         });
     },
@@ -89,5 +110,17 @@ const Utils = {
             clearTimeout(timeoutId);
             timeoutId = setTimeout(() => fn.apply(this, args), delay);
         };
+    },
+
+    /**
+     * Theme management (Light vs Dark mode)
+     */
+    getSavedTheme() {
+        return localStorage.getItem('devbrief-theme') || 'dark';
+    },
+
+    setSavedTheme(theme) {
+        localStorage.setItem('devbrief-theme', theme);
+        document.documentElement.setAttribute('data-theme', theme);
     }
 };

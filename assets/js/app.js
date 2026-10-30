@@ -1,9 +1,13 @@
 /**
- * DevBrief - Main Application Controller
+ * DevBrief - Main Application Controller & Router (Serene Design System)
  */
 
 const App = {
     async init() {
+        // Apply saved theme (Light or Dark)
+        const savedTheme = Utils.getSavedTheme();
+        Utils.setSavedTheme(savedTheme);
+
         const feedContainer = document.getElementById('newsFeedContainer');
         ArticlesComponent.renderSkeletons(feedContainer, 6);
 
@@ -18,9 +22,72 @@ const App = {
         this.renderCategoryTabs();
         this.renderSourceDropdown();
         this.setupEventListeners();
+        this.setupRouter();
 
-        // Initial render pass
-        this.applyAndRender();
+        // Initial Route Render Pass
+        this.handleRoute();
+    },
+
+    /**
+     * Router state handling based on URL hash
+     */
+    setupRouter() {
+        window.addEventListener('hashchange', () => this.handleRoute());
+    },
+
+    handleRoute() {
+        const hash = window.location.hash || '#feed';
+        const heroSection = document.getElementById('featuredHeroContainer');
+        const controlSection = document.getElementById('controlBarSection');
+        const categorySection = document.getElementById('categoryNavSection');
+        const statsSection = document.getElementById('statsBannerSection');
+        const feedContainer = document.getElementById('newsFeedContainer');
+        const feedHeader = document.getElementById('feedHeaderBlock');
+
+        // Update Header Navigation Active State
+        document.querySelectorAll('.nav-link').forEach(link => {
+            const href = link.getAttribute('href');
+            const isActive = (hash === '#feed' && href === '#feed') ||
+                             (hash === '#about' && href === '#about') ||
+                             (hash.startsWith('#article/') && href === '#feed');
+            link.classList.toggle('active', isActive);
+        });
+
+        if (hash.startsWith('#article/')) {
+            const slug = hash.replace('#article/', '');
+            const article = DataService.getArticleBySlug(slug);
+            const related = DataService.getRelatedArticles(article, 3);
+
+            if (heroSection) heroSection.style.display = 'none';
+            if (controlSection) controlSection.style.display = 'none';
+            if (categorySection) categorySection.style.display = 'none';
+            if (statsSection) statsSection.style.display = 'none';
+            if (feedHeader) feedHeader.style.display = 'none';
+
+            if (article) {
+                ArticlesComponent.renderReaderView(feedContainer, article, related);
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            } else {
+                ArticlesComponent.renderErrorState(feedContainer, 'Story not found or removed.');
+            }
+        } else if (hash === '#about') {
+            if (heroSection) heroSection.style.display = 'none';
+            if (controlSection) controlSection.style.display = 'none';
+            if (categorySection) categorySection.style.display = 'none';
+            if (statsSection) statsSection.style.display = 'none';
+            if (feedHeader) feedHeader.style.display = 'none';
+
+            ArticlesComponent.renderAboutView(feedContainer);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        } else {
+            // Default Feed view
+            if (controlSection) controlSection.style.display = 'flex';
+            if (categorySection) categorySection.style.display = 'flex';
+            if (statsSection) statsSection.style.display = 'grid';
+            if (feedHeader) feedHeader.style.display = 'flex';
+
+            this.applyAndRender();
+        }
     },
 
     /**
@@ -203,9 +270,48 @@ const App = {
     },
 
     /**
-     * Wire search, dropdown, keyboard event listeners
+     * Wire search, view mode, theme, dropdown & keyboard event listeners
      */
     setupEventListeners() {
+        // Theme Toggle (Light / Dark)
+        const themeBtn = document.getElementById('themeToggleBtn');
+        if (themeBtn) {
+            themeBtn.addEventListener('click', () => {
+                const current = Utils.getSavedTheme();
+                const nextTheme = current === 'dark' ? 'light' : 'dark';
+                Utils.setSavedTheme(nextTheme);
+            });
+        }
+
+        // View Mode Toggle (Grid / List)
+        const gridViewBtn = document.getElementById('gridViewBtn');
+        const listViewBtn = document.getElementById('listViewBtn');
+
+        if (gridViewBtn && listViewBtn) {
+            gridViewBtn.addEventListener('click', () => {
+                FilterService.setViewMode('grid');
+                gridViewBtn.classList.add('active');
+                listViewBtn.classList.remove('active');
+                this.applyAndRender();
+            });
+
+            listViewBtn.addEventListener('click', () => {
+                FilterService.setViewMode('list');
+                listViewBtn.classList.add('active');
+                gridViewBtn.classList.remove('active');
+                this.applyAndRender();
+            });
+
+            // Set initial toggle active state
+            if (FilterService.viewMode === 'list') {
+                listViewBtn.classList.add('active');
+                gridViewBtn.classList.remove('active');
+            } else {
+                gridViewBtn.classList.add('active');
+                listViewBtn.classList.remove('active');
+            }
+        }
+
         // Search Input
         const searchInput = document.getElementById('searchInput');
         const searchClearBtn = document.getElementById('searchClearBtn');
@@ -273,7 +379,7 @@ const App = {
             });
         }
 
-        // Global Keyboard Shortcut: '/' to search, 'Esc' to clear/close
+        // Global Keyboard Shortcuts
         document.addEventListener('keydown', (e) => {
             if (e.key === '/' && document.activeElement !== searchInput) {
                 e.preventDefault();
@@ -292,7 +398,7 @@ const App = {
     },
 
     /**
-     * Reset all filters to default state
+     * Reset all filters
      */
     resetFilters() {
         FilterService.resetAll();
@@ -308,21 +414,33 @@ const App = {
     },
 
     /**
-     * Apply active filters, update stats, and re-render article feed
+     * Apply active filters, update stats, render Featured Hero and feed
      */
     applyAndRender() {
-        const filteredArticles = FilterService.applyFilters(DataService.articles);
+        if (window.location.hash.startsWith('#article/') || window.location.hash === '#about') {
+            return;
+        }
 
-        // Update Feed Title & Count
+        const filteredArticles = FilterService.applyFilters(DataService.articles);
+        const heroContainer = document.getElementById('featuredHeroContainer');
+
+        // Render Featured Hero if no active filters
+        if (!FilterService.hasActiveFilters() && DataService.articles.length > 0) {
+            ArticlesComponent.renderFeaturedHero(heroContainer, DataService.getFeaturedArticle());
+        } else if (heroContainer) {
+            heroContainer.style.display = 'none';
+        }
+
+        // Update Feed Header Count
         const feedCountElem = document.getElementById('feedCountText');
         if (feedCountElem) {
-            feedCountElem.textContent = `Showing ${filteredArticles.length.toLocaleString()} matching articles`;
+            feedCountElem.textContent = `Showing ${filteredArticles.length.toLocaleString()} stories`;
         }
 
         // Update Stats Component
         StatsComponent.update(DataService.articles, filteredArticles);
 
-        // Render Feed
+        // Render Feed (Grid or List)
         const feedContainer = document.getElementById('newsFeedContainer');
         ArticlesComponent.renderFeed(feedContainer, filteredArticles);
     }

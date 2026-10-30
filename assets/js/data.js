@@ -19,7 +19,7 @@ const DataService = {
 
     // Metadata for categories
     categoriesMeta: {
-        'all': { label: 'All Articles', icon: '📰' },
+        'all': { label: 'All Stories', icon: '📰' },
         'technology': { label: 'Technology', icon: '💻' },
         'development': { label: 'Development', icon: '⚙️' },
         'products': { label: 'Products', icon: '🚀' },
@@ -42,7 +42,7 @@ const DataService = {
         if (lower.includes('dev.to')) return 'Dev.to';
         if (lower.includes('hacker news')) return 'Hacker News';
         if (lower.includes('reddit')) return 'Reddit';
-        return s || 'Unknown Source';
+        return s || 'Tech Stream';
     },
 
     /**
@@ -78,18 +78,25 @@ const DataService = {
                 .map((item, id) => {
                     const sourceName = this.normalizeSourceName(item.source || '');
                     const category = item.category || this.inferCategory(sourceName);
+                    const cleanTitle = String(item.title).trim();
+                    const slug = `art-${id}-${Utils.createSlug(cleanTitle)}`;
+                    const excerpt = item.description || item.excerpt || `Latest story reported by ${sourceName}. Explore full context, discussion, and source code.`;
+                    const readingTime = Utils.calculateReadingTime(cleanTitle + ' ' + excerpt);
 
                     return {
                         id: `art-${id}`,
-                        title: String(item.title).trim(),
+                        slug: slug,
+                        title: cleanTitle,
                         url: String(item.url).trim(),
                         source: sourceName,
                         category: category,
+                        excerpt: excerpt,
+                        readingTime: readingTime,
                         timestamp: item.timestamp || new Date().toISOString()
                     };
                 });
 
-            // Sort articles newest first if valid timestamps exist
+            // Sort articles newest first
             this.articles.sort((a, b) => {
                 const timeA = new Date(a.timestamp).getTime() || 0;
                 const timeB = new Date(b.timestamp).getTime() || 0;
@@ -103,25 +110,32 @@ const DataService = {
         }
     },
 
-    /**
-     * Get list of unique available sources sorted alphabetically
-     */
+    getFeaturedArticle() {
+        return this.articles.length > 0 ? this.articles[0] : null;
+    },
+
+    getArticleBySlug(slugKey) {
+        if (!slugKey) return null;
+        return this.articles.find(a => a.slug === slugKey || a.id === slugKey) || null;
+    },
+
+    getRelatedArticles(currentArticle, limit = 3) {
+        if (!currentArticle) return [];
+        return this.articles
+            .filter(a => a.slug !== currentArticle.slug && (a.category === currentArticle.category || a.source === currentArticle.source))
+            .slice(0, limit);
+    },
+
     getUniqueSources() {
         const sources = new Set(this.articles.map(a => a.source));
         return Array.from(sources).sort();
     },
 
-    /**
-     * Get available category keys present in the current dataset
-     */
     getAvailableCategories() {
         const catSet = new Set(this.articles.map(a => a.category));
         return ['all', ...Array.from(catSet)];
     },
 
-    /**
-     * Get most recent timestamp from dataset
-     */
     getLatestTimestamp() {
         if (this.articles.length === 0) return null;
         return this.articles[0].timestamp || null;
