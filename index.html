@@ -1,244 +1,356 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-```html
-<head>
+  <head>
     <!-- Character Encoding & Viewport -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- SEO -->
     <title>DevBrief | Independent Developer & Technology Journal</title>
     <meta
-        name="description"
-        content="DevBrief is an independent technology journal covering software development, programming, web technologies, open source, developer tools, and the latest tech news."
-    >
-    <meta name="robots" content="index, follow">
-    <meta name="author" content="DevBrief">
-    <meta name="referrer" content="strict-origin-when-cross-origin">
+      name="description"
+      content="DevBrief is an independent technology journal covering software development, programming, web technologies, open source, developer tools, and the latest tech news."
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="DevBrief" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
 
     <!-- Canonical URL: Replace with the production URL -->
-    <link rel="canonical" href="https://your-domain.com/">
+    <link rel="canonical" href="https://yonela-johannes.github.io/DevBrief/" />
 
     <!-- Theme & Browser UI -->
-    <meta name="theme-color" content="#0f1117">
-    <meta name="color-scheme" content="dark light">
-    <meta name="application-name" content="DevBrief">
+    <meta name="theme-color" content="#0f1117" />
+    <meta name="color-scheme" content="dark light" />
+    <meta name="application-name" content="DevBrief" />
 
     <!-- Open Graph / Social Sharing -->
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="DevBrief">
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="DevBrief" />
     <meta
-        property="og:title"
-        content="DevBrief | Independent Developer & Technology Journal"
-    >
+      property="og:title"
+      content="DevBrief | Independent Developer & Technology Journal"
+    />
     <meta
-        property="og:description"
-        content="Independent coverage of software development, programming, open source, developer tools, and the technology shaping how we build."
-    >
-    <meta property="og:url" content="https://your-domain.com/">
-    <meta property="og:locale" content="en_US">
+      property="og:description"
+      content="Independent coverage of software development, programming, open source, developer tools, and the technology shaping how we build."
+    />
+    <meta property="og:url" content="https://your-domain.com/" />
+    <meta property="og:locale" content="en_US" />
 
     <!-- Social Sharing Image: Replace with your actual image -->
     <meta
-        property="og:image"
-        content="https://your-domain.com/assets/images/og-image.png"
-    >
+      property="og:image"
+      content="https://your-domain.com/assets/images/og-image.png"
+    />
     <meta
-        property="og:image:alt"
-        content="DevBrief | Independent technology and developer journalism"
-    >
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
+      property="og:image:alt"
+      content="DevBrief | Independent technology and developer journalism"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
     <!-- Twitter / X -->
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="summary_large_image" />
     <meta
-        name="twitter:title"
-        content="DevBrief | Independent Developer & Technology Journal"
-    >
+      name="twitter:title"
+      content="DevBrief | Independent Developer & Technology Journal"
+    />
     <meta
-        name="twitter:description"
-        content="Software development, open source, developer tools, and technology news. Independent coverage for people who build."
-    >
+      name="twitter:description"
+      content="Software development, open source, developer tools, and technology news. Independent coverage for people who build."
+    />
     <meta
-        name="twitter:image"
-        content="https://your-domain.com/assets/images/og-image.png"
-    >
+      name="twitter:image"
+      content="https://your-domain.com/assets/images/og-image.png"
+    />
     <meta
-        name="twitter:image:alt"
-        content="DevBrief | Independent technology and developer journalism"
-    >
+      name="twitter:image:alt"
+      content="DevBrief | Independent technology and developer journalism"
+    />
 
     <!-- Favicon -->
     <link
-        rel="icon"
-        type="image/svg+xml"
-        href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E"
-    >
-    <link rel="alternate icon" href="assets/favicon.ico">
-    <link
-        rel="apple-touch-icon"
-        href="assets/images/apple-touch-icon.png"
-    >
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="alternate icon" href="assets/favicon.ico" />
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png" />
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/components.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
-</head>
-```
-<body>
-
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="assets/css/components.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+  </head>
+  <body>
     <!-- Publication Header -->
     <header class="header">
-        <div class="app-container">
-            <div class="header-top">
-                <div class="brand" onclick="location.hash='#feed'">
-                    <span class="brand-title">DevBrief</span>
-                </div>
+      <div class="app-container">
+        <div class="header-top">
+          <div class="brand" onclick="location.hash = '#feed'">
+            <span class="brand-title">DevBrief</span>
+          </div>
 
-                <nav class="header-nav" aria-label="Main Navigation">
-                    <a href="#feed" class="nav-link active">Stories</a>
-                    <a href="#about" class="nav-link">About</a>
-                    <a href="https://github.com/Yonela-Johannes" target="_blank" rel="noopener noreferrer" class="nav-link">GitHub ↗</a>
-                </nav>
-            </div>
+          <nav class="header-nav" aria-label="Main Navigation">
+            <a href="#feed" class="nav-link active">Stories</a>
+            <a href="#about" class="nav-link">About</a>
+            <a
+              href="https://github.com/Yonela-Johannes"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="nav-link"
+              >GitHub ↗</a
+            >
+          </nav>
         </div>
+      </div>
     </header>
 
     <!-- Main Application Shell -->
     <main class="main-content">
-        <div class="app-container">
-
-            <!-- Lead Story Spotlight -->
-            <div id="leadStoryContainer" style="display: none;">
-                <!-- Rendered dynamically by JS -->
-            </div>
-
-            <!-- Control Bar (Search & Filter) -->
-            <section class="control-bar" id="controlBarSection" aria-label="Search and Filter Stories">
-                <div class="search-wrapper">
-                    <div class="search-icon" aria-hidden="true">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <circle cx="11" cy="11" r="8"></circle>
-                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                        </svg>
-                    </div>
-                    <input
-                        type="text"
-                        id="searchInput"
-                        class="search-input"
-                        placeholder="Search stories, titles, or domains... (Press '/' to focus)"
-                        aria-label="Search stories"
-                        autocomplete="off"
-                    >
-                    <button type="button" id="searchClearBtn" class="search-clear-btn" aria-label="Clear search">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <line x1="18" y1="6" x2="6" y2="18"></line>
-                            <line x1="6" y1="6" x2="18" y2="18"></line>
-                        </svg>
-                    </button>
-                </div>
-
-                <!-- Source Dropdown Filter -->
-                <div class="dropdown" id="sourceDropdownContainer">
-                    <button type="button" class="dropdown-toggle" id="sourceDropdownToggle" aria-haspopup="true" aria-expanded="false">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
-                        </svg>
-                        <span>Sources</span>
-                        <span class="dropdown-badge" id="sourceDropdownBadge" style="display: none;">0</span>
-                    </button>
-                    <div class="dropdown-menu" id="sourceDropdownMenu" role="menu">
-                        <div class="dropdown-header">
-                            <span>Filter Publications</span>
-                            <div>
-                                <button type="button" class="dropdown-action-btn" id="selectAllSourcesBtn">Select all</button>
-                                <span style="color: var(--border);">|</span>
-                                <button type="button" class="dropdown-action-btn" id="clearSourcesBtn">Clear</button>
-                            </div>
-                        </div>
-                        <div class="dropdown-body" id="sourceDropdownBody">
-                            <!-- Populated dynamically by JS -->
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Active Filter Chips -->
-            <div class="active-filters" id="activeFilterChips" style="display: none;">
-                <!-- Renders filter chips -->
-            </div>
-
-            <!-- Category Navigation Bar -->
-            <nav class="categories-nav" id="categoryNavSection" aria-label="Categories">
-                <div id="categoryTabsContainer" style="display: flex; gap: 16px;"></div>
-            </nav>
-
-            <!-- Main Feed Section -->
-            <section class="stories-section" aria-label="Stories Feed">
-                <div class="stories-header" id="storiesHeaderBlock">
-                    <h3 class="stories-title">Recent Stories</h3>
-                    <div style="font-size: 0.8rem; color: var(--text-dim); display: flex; gap: 12px; font-family: var(--font-mono);">
-                        <span id="storiesCountText">Loading stories...</span>
-                        <span>•</span>
-                        <span>Updated <strong id="statLastUpdated" style="color: var(--text-muted);">—</strong></span>
-                    </div>
-                </div>
-
-                <div id="newsFeedContainer">
-                    <!-- Rendered dynamically by JS -->
-                </div>
-            </section>
-
+      <div class="app-container">
+        <!-- Lead Story Spotlight -->
+        <div id="leadStoryContainer" style="display: none">
+          <!-- Rendered dynamically by JS -->
         </div>
+
+        <!-- Control Bar (Search & Filter) -->
+        <section
+          class="control-bar"
+          id="controlBarSection"
+          aria-label="Search and Filter Stories"
+        >
+          <div class="search-wrapper">
+            <div class="search-icon" aria-hidden="true">
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </div>
+            <input
+              type="text"
+              id="searchInput"
+              class="search-input"
+              placeholder="Search stories, titles, or domains... (Press '/' to focus)"
+              aria-label="Search stories"
+              autocomplete="off"
+            />
+            <button
+              type="button"
+              id="searchClearBtn"
+              class="search-clear-btn"
+              aria-label="Clear search"
+            >
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Source Dropdown Filter -->
+          <div class="dropdown" id="sourceDropdownContainer">
+            <button
+              type="button"
+              class="dropdown-toggle"
+              id="sourceDropdownToggle"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <polygon
+                  points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"
+                ></polygon>
+              </svg>
+              <span>Sources</span>
+              <span
+                class="dropdown-badge"
+                id="sourceDropdownBadge"
+                style="display: none"
+                >0</span
+              >
+            </button>
+            <div class="dropdown-menu" id="sourceDropdownMenu" role="menu">
+              <div class="dropdown-header">
+                <span>Filter Publications</span>
+                <div>
+                  <button
+                    type="button"
+                    class="dropdown-action-btn"
+                    id="selectAllSourcesBtn"
+                  >
+                    Select all
+                  </button>
+                  <span style="color: var(--border)">|</span>
+                  <button
+                    type="button"
+                    class="dropdown-action-btn"
+                    id="clearSourcesBtn"
+                  >
+                    Clear
+                  </button>
+                </div>
+              </div>
+              <div class="dropdown-body" id="sourceDropdownBody">
+                <!-- Populated dynamically by JS -->
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Active Filter Chips -->
+        <div
+          class="active-filters"
+          id="activeFilterChips"
+          style="display: none"
+        >
+          <!-- Renders filter chips -->
+        </div>
+
+        <!-- Category Navigation Bar -->
+        <nav
+          class="categories-nav"
+          id="categoryNavSection"
+          aria-label="Categories"
+        >
+          <div
+            id="categoryTabsContainer"
+            style="display: flex; gap: 16px"
+          ></div>
+        </nav>
+
+        <!-- Main Feed Section -->
+        <section class="stories-section" aria-label="Stories Feed">
+          <div class="stories-header" id="storiesHeaderBlock">
+            <h3 class="stories-title">Recent Stories</h3>
+            <div
+              style="
+                font-size: 0.8rem;
+                color: var(--text-dim);
+                display: flex;
+                gap: 12px;
+                font-family: var(--font-mono);
+              "
+            >
+              <span id="storiesCountText">Loading stories...</span>
+              <span>•</span>
+              <span
+                >Updated
+                <strong id="statLastUpdated" style="color: var(--text-muted)"
+                  >—</strong
+                ></span
+              >
+            </div>
+          </div>
+
+          <div id="newsFeedContainer">
+            <!-- Rendered dynamically by JS -->
+          </div>
+        </section>
+      </div>
     </main>
 
     <!-- Multi-Column Footer (CodingWithYonela Footer) -->
     <footer class="footer">
-        <div class="app-container">
-            <div class="footer-grid">
-                <!-- Identity Column -->
-                <div>
-                    <div style="font-size: 1.15rem; font-weight: 700; color: var(--text-main); margin-bottom: 8px;">DevBrief</div>
-                    <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; max-width: 280px;">
-                        A living record of what developers build, write, and ship across the web.
-                    </p>
-                </div>
+      <div class="app-container">
+        <div class="footer-grid">
+          <!-- Identity Column -->
+          <div>
+            <div
+              style="
+                font-size: 1.15rem;
+                font-weight: 700;
+                color: var(--text-main);
+                margin-bottom: 8px;
+              "
+            >
+              DevBrief
+            </div>
+            <p
+              style="
+                font-size: 0.85rem;
+                color: var(--text-muted);
+                line-height: 1.6;
+                max-width: 280px;
+              "
+            >
+              A living record of what developers build, write, and ship across
+              the web.
+            </p>
+          </div>
 
-                <!-- Footer Columns -->
-                <div class="footer-cols">
-                    <div>
-                        <div class="footer-col-title">INFORMATION</div>
-                        <ul class="footer-links">
-                            <li><span class="footer-link">Cape Town</span></li>
-                            <li><span class="footer-link">South Africa</span></li>
-                            <li><span class="footer-link">johannesyonela@gmail.com</span></li>
-                        </ul>
-                    </div>
-
-                    <div>
-                        <div class="footer-col-title">ABOUT</div>
-                        <ul class="footer-links">
-                            <li><a href="#feed" class="footer-link">Stories</a></li>
-                            <li><a href="#about" class="footer-link">About DevBrief</a></li>
-                        </ul>
-                    </div>
-
-                    <div>
-                        <div class="footer-col-title">DEVELOPER</div>
-                        <ul class="footer-links">
-                            <li><a href="https://github.com/Yonela-Johannes" target="_blank" rel="noopener noreferrer" class="footer-link">GitHub ↗</a></li>
-                        </ul>
-                    </div>
-                </div>
+          <!-- Footer Columns -->
+          <div class="footer-cols">
+            <div>
+              <div class="footer-col-title">INFORMATION</div>
+              <ul class="footer-links">
+                <li><span class="footer-link">Cape Town</span></li>
+                <li><span class="footer-link">South Africa</span></li>
+                <li>
+                  <span class="footer-link">johannesyonela@gmail.com</span>
+                </li>
+              </ul>
             </div>
 
-            <div class="footer-bottom">
-                <div>&copy; 2026 DevBrief. All rights reserved.</div>
-                <div class="footer-attribution">Built with ❤️ by <a href="https://github.com/Yonela-Johannes" target="_blank" rel="noopener noreferrer">Yonela Johannes</a>.</div>
+            <div>
+              <div class="footer-col-title">ABOUT</div>
+              <ul class="footer-links">
+                <li><a href="#feed" class="footer-link">Stories</a></li>
+                <li><a href="#about" class="footer-link">About DevBrief</a></li>
+              </ul>
             </div>
+
+            <div>
+              <div class="footer-col-title">DEVELOPER</div>
+              <ul class="footer-links">
+                <li>
+                  <a
+                    href="https://github.com/Yonela-Johannes"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="footer-link"
+                    >GitHub ↗</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
+
+        <div class="footer-bottom">
+          <div>&copy; 2026 DevBrief. All rights reserved.</div>
+          <div class="footer-attribution">
+            Built with ❤️ by
+            <a
+              href="https://github.com/Yonela-Johannes"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Yonela Johannes</a
+            >.
+          </div>
+        </div>
+      </div>
     </footer>
 
     <!-- Application Scripts -->
@@ -248,6 +360,5 @@
     <script src="assets/js/stats.js"></script>
     <script src="assets/js/articles.js"></script>
     <script src="assets/js/app.js"></script>
-
-</body>
+  </body>
 </html>
