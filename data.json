@@ -664762,5 +664762,11 @@
         "url": "https://tylerflex.github.io/photon-doodle/",
         "timestamp": "2026-10-30T21:22:13.900467",
         "source": "Hacker News"
+    },
+    {
+        "title": "Solving the JSON Schema dialect fragmentation problem with auto-upgrades",
+        "url": "https://www.sourcemeta.com/blog/json-schema-dialect-auto-upgrade/",
+        "timestamp": "2026-10-30T21:22:13.900484",
+        "source": "Hacker News"
     }
 ]
