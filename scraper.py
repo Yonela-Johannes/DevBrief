@@ -53,13 +53,12 @@ SOURCES = [
 DATA_FILE = "data.json"
 
 def fetch_data(url, headers=None):
-    """Fetch data from URL with proper user agent"""
+    """Fetch data from URL with proper user agent and timeout"""
     try:
         default_headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.5',
-            'Referer': 'https://www.google.com/',
             'Connection': 'keep-alive'
         }
         if headers:
@@ -72,7 +71,6 @@ def fetch_data(url, headers=None):
         print(f"Error fetching {url}: {e}")
         return None
 
-
 def parse_hn(soup, base_url):
     """Parse Hacker News articles"""
     articles = []
@@ -82,8 +80,8 @@ def parse_hn(soup, base_url):
         try:
             title_element = row.find('span', class_='titleline').find('a')
             if title_element:
-                title = title_element.get_text()
-                link = title_element['href']
+                title = title_element.get_text().strip()
+                link = title_element['href'].strip()
                 
                 # Handle relative URLs
                 if not link.startswith('http'):
@@ -95,7 +93,7 @@ def parse_hn(soup, base_url):
                     "timestamp": datetime.now().isoformat(),
                     "source": "Hacker News" 
                 })
-        except AttributeError:
+        except (AttributeError, KeyError, TypeError):
             continue
     return articles
 
@@ -104,16 +102,16 @@ def parse_reddit(json_data):
     articles = []
     try:
         data = json.loads(json_data)
-        posts = data['data']['children']
+        posts = data.get('data', {}).get('children', [])
         
         for post in posts:
             try:
                 post_data = post['data']
                 articles.append({
-                    "title": post_data['title'],
+                    "title": post_data['title'].strip(),
                     "url": f"https://reddit.com{post_data['permalink']}",
                     "timestamp": datetime.now().isoformat(),
-                    "source": f"Reddit - {post_data['subreddit']}"
+                    "source": f"Reddit - {post_data.get('subreddit', 'programming')}"
                 })
             except (KeyError, TypeError):
                 continue
@@ -131,9 +129,9 @@ def parse_devto(json_data):
         for article in data:
             try:
                 articles.append({
-                    "title": article['title'],
-                    "url": article['url'],
-                    "timestamp": datetime.now().isoformat(),
+                    "title": article['title'].strip(),
+                    "url": article['url'].strip(),
+                    "timestamp": article.get('published_at') or datetime.now().isoformat(),
                     "source": "Dev.to"
                 })
             except (KeyError, TypeError):
@@ -148,14 +146,22 @@ def parse_rss(rss_content):
     articles = []
     try:
         feed = feedparser.parse(rss_content)
-        
-        for entry in feed.entries[:15]:  # Limit to 15 items
+        feed_title = feed.feed.get('title', 'RSS Feed').strip()
+
+        for entry in feed.entries[:15]:  # Limit to 15 items per feed
             try:
+                title = entry.get('title', '').strip()
+                link = entry.get('link', '').strip()
+                if not title or not link:
+                    continue
+
+                pub_time = entry.get('published') or entry.get('updated') or datetime.now().isoformat()
+
                 articles.append({
-                    "title": entry.get('title', 'No title'),
-                    "url": entry.get('link', ''),
-                    "timestamp": datetime.now().isoformat(),
-                    "source": feed.feed.get('title', 'RSS Feed')
+                    "title": title,
+                    "url": link,
+                    "timestamp": pub_time,
+                    "source": feed_title
                 })
             except (KeyError, TypeError, AttributeError):
                 continue
@@ -163,7 +169,6 @@ def parse_rss(rss_content):
         print(f"Error parsing RSS: {e}")
     
     return articles
-
 
 def parse_html(html_content, parser_type, url):
     """Route parsing based on parser type"""
@@ -186,60 +191,68 @@ def load_existing_data():
     if os.path.exists(DATA_FILE):
         try:
             with open(DATA_FILE, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except json.JSONDecodeError:
+                data = json.load(f)
+                return data if isinstance(data, list) else []
+        except (json.JSONDecodeError, OSError):
             return []
     return []
 
 def process_and_save(fetched_articles):
-    """Process and save articles, committing each new one"""
+    """Process, deduplicate, save articles, and handle git commits efficiently"""
     print(f"\n[*] Processing {len(fetched_articles)} articles...")
     
     existing_data = load_existing_data()
-    existing_urls = {item['url'] for item in existing_data}
+    existing_urls = {item['url'].strip() for item in existing_data if 'url' in item}
     
-    new_items_count = 0
+    new_articles = []
     duplicate_count = 0
-    commits_made = False
-    
+
     for article in fetched_articles:
-        if article['url'] not in existing_urls:
-            # Add to memory
+        clean_url = article['url'].strip()
+        if clean_url not in existing_urls:
             existing_data.append(article)
-            existing_urls.add(article['url'])
-            
-            # Save to file immediately
-            with open(DATA_FILE, 'w', encoding='utf-8') as f:
-                json.dump(existing_data, f, indent=4, ensure_ascii=False)
-            
-            # Commit immediately
-            try:
-                short_title = article['title'][:50] + "..." if len(article['title']) > 50 else article['title']
-                print(f"    [+] Committing: [{article['source']}] {short_title}")
-                subprocess.run(["git", "add", DATA_FILE], check=True)
-                subprocess.run(["git", "commit", "-m", f"Add article: {article['title'][:60]}"], check=True)
-                commits_made = True
-                new_items_count += 1
-            except subprocess.CalledProcessError as e:
-                print(f"    [-] Git commit failed: {e}")
+            existing_urls.add(clean_url)
+            new_articles.append(article)
         else:
             duplicate_count += 1
 
+    new_items_count = len(new_articles)
     print(f"\n[RESULTS] {new_items_count} new articles, {duplicate_count} duplicates")
-    
-    if commits_made:
-        print(f"\n[*] Pushing {new_items_count} new commits...")
+
+    if new_items_count > 0:
+        # Save updated data.json to disk atomically
         try:
-            subprocess.run(["git", "push"], check=True)
-            print("[+] Push successful!")
-        except subprocess.CalledProcessError as e:
-            print(f"[-] Git push failed: {e}")
+            with open(DATA_FILE, 'w', encoding='utf-8') as f:
+                json.dump(existing_data, f, indent=4, ensure_ascii=False)
+            print(f"[+] Saved {len(existing_data)} total articles to {DATA_FILE}")
+        except OSError as e:
+            print(f"[-] Failed to write {DATA_FILE}: {e}")
+            return
+
+        # Handle Git integration safely
+        try:
+            subprocess.run(["git", "add", DATA_FILE], check=True, capture_output=True)
+            commit_msg = f"Add {new_items_count} new articles from aggregator"
+            if new_items_count == 1:
+                commit_msg = f"Add article: {new_articles[0]['title'][:60]}"
+
+            subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
+            print(f"[+] Committed {new_items_count} new articles to Git.")
+
+            # Try git push if remote exists
+            push_res = subprocess.run(["git", "push"], capture_output=True, text=True)
+            if push_res.returncode == 0:
+                print("[+] Git push successful!")
+            else:
+                print("[i] Git push skipped or rejected (local commit preserved).")
+        except (subprocess.CalledProcessError, FileNotFoundError) as e:
+            print(f"[i] Git integration step completed or skipped: {e}")
     else:
-        print("[i] No new items to commit.")
+        print("[i] No new items to save or commit.")
 
 def main():
     print("=" * 60)
-    print(">>> Multi-Source News Scraper Started")
+    print(">>> DevBrief News Scraper Started")
     print("=" * 60)
     
     all_articles = []

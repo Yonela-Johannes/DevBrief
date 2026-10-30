@@ -8,22 +8,23 @@ DevBrief aggregates technology and software development news into a single, sear
 
 ### News Discovery
 - **Aggregated Feed** — Browse articles collected from multiple developer-focused sources.
-- **Live Search** — Find articles by title or URL as you type.
-- **Source Filtering** — Filter the feed by individual publications, including Hacker News, DEV Community, and other configured sources.
+- **Live Search** — Find articles by title, URL, or domain as you type (with shortcut `/`).
+- **Source Filtering** — Multi-select dropdown filtering for individual publications (Hacker News, DEV Community, TechCrunch, Product Hunt, Smashing Magazine, CSS-Tricks, etc.).
+- **Category Navigation** — Tabbed navigation for Technology, Development, Products, Startups, Web & Design, Research & AI, and Community.
 - **Publication Times** — See when articles were published, with relative timestamps.
-- **Direct Access** — Open original articles in a new tab.
+- **Direct Access** — Open original articles securely in a new tab.
 
 ### Overview & Statistics
-- **Article Count** — See the total number of collected articles.
-- **Source Overview** — Track the number of unique publications represented in the feed.
+- **Article Count** — Track total and matching article counts dynamically.
+- **Source Overview** — See active sources represented in the current selection.
 - **Last Updated** — Check when the underlying dataset was last refreshed.
 
 ### Interface & Experience
-- Minimal, content-first interface.
-- Clean typography and generous spacing.
-- Responsive layouts for desktop, tablet, and mobile.
-- Subtle transitions and interactive feedback.
-- Lightweight implementation using vanilla HTML, CSS, and JavaScript.
+- Modern, dark-first editorial interface with clean typography and comfortable spacing.
+- High-contrast, legible headlines and metadata badges.
+- Keyboard navigation (Press `/` to search, `Esc` to clear/close).
+- Responsive layout optimized for desktop, tablet, and mobile viewports.
+- Lightweight implementation using vanilla HTML, CSS, and modular JavaScript.
 
 ## Getting Started
 
@@ -75,14 +76,26 @@ Once the website is running, you can search articles, filter by source, explore 
 
 ```text
 DevBrief/
-├── index.html       # Main website and interface
-├── data.json        # Aggregated news dataset
-├── scraper.py       # News collection and data generation
-├── server.py        # Local development server
-└── README.md        # Project documentation
+├── index.html            # Main website application shell
+├── assets/
+│   ├── css/
+│   │   ├── styles.css    # Design tokens, variables & base layout
+│   │   ├── components.css# Header, controls, stats, categories, cards & states
+│   │   └── responsive.css# Mobile & tablet breakpoints
+│   └── js/
+│       ├── utils.js      # Escaping, relative dates, domain parsing
+│       ├── data.js       # Data fetching, normalization & category rules
+│       ├── filters.js    # Search & multi-select filtering logic
+│       ├── stats.js      # Dynamic metrics calculations
+│       ├── articles.js   # Feed grid, card rendering & state views
+│       └── app.js        # Main app initialization & event wiring
+├── data.json             # Aggregated news dataset
+├── scraper.py            # News collection and data generation
+├── server.py             # Local development server
+├── requirements.txt      # Python scraper dependencies
+├── WEBSITE_README.md     # Website documentation
+└── README.md             # Project overview
 ```
-
-*The structure above represents the expected core files. Additional project files may exist.*
 
 ## How It Works
 
@@ -98,49 +111,47 @@ News Sources
   data.json
      │
      ▼
-  index.html
+  index.html (Vanilla JS & Modular CSS)
      │
      ▼
- Search · Filter · Read
+ Search · Filter · Categorize · Read
 ```
 
 1. **Collect** — The scraper retrieves articles from configured news sources.
 2. **Store** — Collected articles are written to `data.json`.
-3. **Display** — The website loads and renders the dataset.
-4. **Explore** — Search, filtering, and article navigation happen directly in the browser.
+3. **Display** — The website loads and normalizes the dataset.
+4. **Explore** — Search, source filtering, category navigation, and article reading happen directly in the browser.
 
 To refresh the feed, run the scraper again and reload the website.
 
 ## Customization
 
-DevBrief uses CSS variables to keep its visual styling easy to maintain.
-
-To customize the theme, edit the variables defined in `index.html`:
+DevBrief uses CSS variables defined in `assets/css/styles.css` to manage theme styling:
 
 ```css
 :root {
-  --primary: #1a1a1a;
-  --accent: #0066ff;
-  --text-dark: #1a1a1a;
-  --text-light: #666666;
-  --border: #e5e5e5;
+    --bg-app: #090d16;
+    --bg-surface: #111726;
+    --accent-primary: #38bdf8;
+    --text-primary: #f8fafc;
+    --border-subtle: #1e293b;
 }
 ```
 
-Adjust these values to change the interface's colors and visual identity.
+Adjust these values to change the interface's color scheme and visual identity.
 
 ## Technical Overview
 
 | Area | Implementation |
 |---|---|
-| Structure | HTML5 |
-| Styling | CSS3 |
-| Functionality | Vanilla JavaScript |
-| Data format | JSON |
-| Collection | Python |
-| Local server | Python |
-| Dependencies | No frontend dependencies |
-| Build process | Not required |
+| Structure | HTML5 Semantic Markup |
+| Styling | Modular CSS3 |
+| Logic | Vanilla Modular JavaScript (ES6+) |
+| Data format | Structured JSON |
+| Collection | Python 3 (requests, BeautifulSoup, feedparser) |
+| Local server | Python SimpleHTTPRequestHandler |
+| Dependencies | Zero frontend dependencies |
+| Build process | None required |
 
 ## Troubleshooting
 
@@ -173,20 +184,6 @@ python -m http.server 8081
 ### Changes to the dataset are not appearing
 
 Run the scraper again and refresh the browser. If necessary, perform a hard refresh with `Ctrl + Shift + R`.
-
-## Design Principles
-
-DevBrief is built around a few straightforward principles:
-
-- **Simplicity** — Make discovering technology news effortless.
-- **Clarity** — Keep the interface focused on the content.
-- **Speed** — Avoid unnecessary dependencies and processing.
-- **Accessibility** — Keep the experience usable across screen sizes.
-- **Ownership** — Keep the data and reading experience under your control.
-
-## License
-
-See the repository's license file for usage and distribution terms.
 
 ---
 
