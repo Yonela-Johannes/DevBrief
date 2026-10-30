@@ -664768,5 +664768,11 @@
         "url": "https://www.sourcemeta.com/blog/json-schema-dialect-auto-upgrade/",
         "timestamp": "2026-10-30T21:22:13.900484",
         "source": "Hacker News"
+    },
+    {
+        "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+        "url": "https://github.com/facebookresearch/programbench",
+        "timestamp": "2026-10-30T21:22:13.900501",
+        "source": "Hacker News"
     }
 ]
