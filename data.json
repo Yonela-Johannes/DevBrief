@@ -664678,5 +664678,11 @@
         "url": "https://text.npr.org/nx-s1-6022556",
         "timestamp": "2026-10-30T23:25:10.043586",
         "source": "Hacker News"
+    },
+    {
+        "title": "GitLab Orbit",
+        "url": "https://about.gitlab.com/blog/find-vulnerability-blast-radius-with-gitlab-orbit/",
+        "timestamp": "2026-10-30T23:25:10.043626",
+        "source": "Hacker News"
     }
 ]
