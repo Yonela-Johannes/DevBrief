@@ -1,81 +1,34 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="DevBrief — A curated, developer-focused technology news & editorial publication.">
-    <title>DevBrief — Tech News & Developer Journal</title>
+    <meta name="description" content="DevBrief — An independent, developer-focused technology journal & news feed.">
+    <title>DevBrief — Independent Tech Journal</title>
 
     <!-- Favicon -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📰</text></svg>">
 
-    <!-- Stylesheets (Serene Design System) -->
+    <!-- Stylesheets (Editorial Light Mode Edition) -->
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/components.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 <body>
 
-    <!-- Header & Serene Navigation -->
+    <!-- Publication Header -->
     <header class="header">
         <div class="app-container">
             <div class="header-inner">
                 <div class="brand" onclick="location.hash='#feed'">
-                    <div class="brand-icon" aria-hidden="true">DB</div>
-                    <div class="brand-text-group">
-                        <h1 class="brand-title">DevBrief</h1>
-                        <span class="brand-tagline">Curated tech & engineering journal</span>
-                    </div>
+                    <span class="brand-title">DevBrief</span>
+                    <span class="brand-tagline">Independent Tech Journal</span>
                 </div>
 
                 <nav class="header-nav" aria-label="Main Navigation">
-                    <a href="#feed" class="nav-link active">Feed</a>
+                    <a href="#feed" class="nav-link active">Stories</a>
                     <a href="#about" class="nav-link">About</a>
                 </nav>
-
-                <div class="header-actions">
-                    <!-- View Toggle (Grid / List) -->
-                    <div class="view-toggle" aria-label="Layout toggle">
-                        <button type="button" class="view-toggle-btn active" id="gridViewBtn" title="Grid View" aria-label="Grid view">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <rect x="3" y="3" width="7" height="7"></rect>
-                                <rect x="14" y="3" width="7" height="7"></rect>
-                                <rect x="14" y="14" width="7" height="7"></rect>
-                                <rect x="3" y="14" width="7" height="7"></rect>
-                            </svg>
-                        </button>
-                        <button type="button" class="view-toggle-btn" id="listViewBtn" title="List View" aria-label="List view">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <line x1="8" y1="6" x2="21" y2="6"></line>
-                                <line x1="8" y1="12" x2="21" y2="12"></line>
-                                <line x1="8" y1="18" x2="21" y2="18"></line>
-                                <line x1="3" y1="6" x2="3.01" y2="6"></line>
-                                <line x1="3" y1="12" x2="3.01" y2="12"></line>
-                                <line x1="3" y1="18" x2="3.01" y2="18"></line>
-                            </svg>
-                        </button>
-                    </div>
-
-                    <!-- Theme Toggle -->
-                    <button type="button" class="theme-toggle-btn" id="themeToggleBtn" title="Toggle Theme" aria-label="Toggle dark/light theme">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <circle cx="12" cy="12" r="5"></circle>
-                            <line x1="12" y1="1" x2="12" y2="3"></line>
-                            <line x1="12" y1="21" x2="12" y2="23"></line>
-                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                            <line x1="1" y1="12" x2="3" y2="12"></line>
-                            <line x1="21" y1="12" x2="23" y2="12"></line>
-                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                        </svg>
-                    </button>
-
-                    <div class="live-badge">
-                        <span class="live-dot" aria-hidden="true"></span>
-                        <span id="headerLiveText">Live Feed</span>
-                    </div>
-                </div>
             </div>
         </div>
     </header>
@@ -84,110 +37,79 @@
     <main class="main-content">
         <div class="app-container">
 
-            <!-- Editorial Hero Head -->
-            <div class="editorial-head" id="editorialHeadBlock">
-                <h2 class="editorial-head-title">Tech Journal</h2>
-                <p class="editorial-head-desc">Thoughts, technology releases, engineering ideas, and stories worth writing down.</p>
-            </div>
-
-            <!-- Featured Spotlight Story Hero -->
-            <div id="featuredHeroContainer" style="display: none;">
+            <!-- Lead Story Spotlight -->
+            <div id="leadStoryContainer" style="display: none;">
                 <!-- Rendered dynamically by JS -->
             </div>
 
-            <!-- Stats Overview Banner -->
-            <section class="stats-banner" id="statsBannerSection" aria-label="Key Statistics">
-                <div class="stat-item">
-                    <span class="stat-label">Total Stories</span>
-                    <span class="stat-value" id="statTotalCount">0</span>
-                    <span class="stat-subtext">Collected publications</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-label">Active Sources</span>
-                    <span class="stat-value" id="statSourceCount">0</span>
-                    <span class="stat-subtext">Configured channels</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-label">Last Sync</span>
-                    <span class="stat-value" id="statLastUpdated">—</span>
-                    <span class="stat-subtext">Most recent update</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-label">Layout</span>
-                    <span class="stat-value">Serene Editorial</span>
-                    <span class="stat-subtext">Keyboard enabled</span>
-                </div>
-            </section>
-
-            <!-- Control Bar (Search & Source Filters) -->
-            <section class="control-bar" id="controlBarSection" aria-label="Filter Controls">
-                <div class="control-main">
-                    <!-- Search Input -->
-                    <div class="search-wrapper">
-                        <div class="search-icon" aria-hidden="true">
-                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <circle cx="11" cy="11" r="8"></circle>
-                                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                            </svg>
-                        </div>
-                        <input
-                            type="text"
-                            id="searchInput"
-                            class="search-input"
-                            placeholder="Search articles, titles, or domain hosts... (Press '/' to focus)"
-                            aria-label="Search articles"
-                            autocomplete="off"
-                        >
-                        <button type="button" id="searchClearBtn" class="search-clear-btn" aria-label="Clear search">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <line x1="18" y1="6" x2="6" y2="18"></line>
-                                <line x1="6" y1="6" x2="18" y2="18"></line>
-                            </svg>
-                        </button>
+            <!-- Control Bar (Search & Filter) -->
+            <section class="control-bar" id="controlBarSection" aria-label="Search and Filter Stories">
+                <div class="search-wrapper">
+                    <div class="search-icon" aria-hidden="true">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
                     </div>
+                    <input
+                        type="text"
+                        id="searchInput"
+                        class="search-input"
+                        placeholder="Search stories, titles, or domains... (Press '/' to focus)"
+                        aria-label="Search stories"
+                        autocomplete="off"
+                    >
+                    <button type="button" id="searchClearBtn" class="search-clear-btn" aria-label="Clear search">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
 
-                    <!-- Source Multi-Select Dropdown -->
-                    <div class="dropdown" id="sourceDropdownContainer">
-                        <button type="button" class="dropdown-toggle" id="sourceDropdownToggle" aria-haspopup="true" aria-expanded="false">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
-                            </svg>
-                            <span>Sources</span>
-                            <span class="dropdown-badge" id="sourceDropdownBadge" style="display: none;">0</span>
-                        </button>
-                        <div class="dropdown-menu" id="sourceDropdownMenu" role="menu">
-                            <div class="dropdown-header">
-                                <span>Filter Channels</span>
-                                <div>
-                                    <button type="button" class="dropdown-action-btn" id="selectAllSourcesBtn">Select all</button>
-                                    <span style="color: var(--border);">|</span>
-                                    <button type="button" class="dropdown-action-btn" id="clearSourcesBtn">Clear</button>
-                                </div>
+                <!-- Source Dropdown Filter -->
+                <div class="dropdown" id="sourceDropdownContainer">
+                    <button type="button" class="dropdown-toggle" id="sourceDropdownToggle" aria-haspopup="true" aria-expanded="false">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+                        </svg>
+                        <span>Sources</span>
+                        <span class="dropdown-badge" id="sourceDropdownBadge" style="display: none;">0</span>
+                    </button>
+                    <div class="dropdown-menu" id="sourceDropdownMenu" role="menu">
+                        <div class="dropdown-header">
+                            <span>Filter Publications</span>
+                            <div>
+                                <button type="button" class="dropdown-action-btn" id="selectAllSourcesBtn">Select all</button>
+                                <span style="color: var(--border);">|</span>
+                                <button type="button" class="dropdown-action-btn" id="clearSourcesBtn">Clear</button>
                             </div>
-                            <div class="dropdown-body" id="sourceDropdownBody">
-                                <!-- Populated dynamically by JS -->
-                            </div>
+                        </div>
+                        <div class="dropdown-body" id="sourceDropdownBody">
+                            <!-- Populated dynamically by JS -->
                         </div>
                     </div>
                 </div>
-
-                <!-- Active Filter Chips Bar -->
-                <div class="active-filters" id="activeFilterChips" style="display: none;">
-                    <!-- Filter chips rendered dynamically -->
-                </div>
             </section>
 
-            <!-- Category Tabs Navigation -->
-            <nav class="categories-nav" id="categoryNavSection" aria-label="Article Categories">
-                <div id="categoryTabsContainer" style="display: flex; gap: 8px;"></div>
+            <!-- Active Filter Chips -->
+            <div class="active-filters" id="activeFilterChips" style="display: none;">
+                <!-- Renders filter chips -->
+            </div>
+
+            <!-- Category Navigation Bar -->
+            <nav class="categories-nav" id="categoryNavSection" aria-label="Categories">
+                <div id="categoryTabsContainer" style="display: flex; gap: 16px;"></div>
             </nav>
 
-            <!-- Article Feed / Reader Section -->
-            <section class="feed-section" aria-label="Main Feed Content">
-                <div class="feed-header" id="feedHeaderBlock">
-                    <div class="feed-title-group">
-                        <h3 class="feed-title">Latest Publications</h3>
-                        <span class="feed-count" id="feedCountText">Loading stories...</span>
+            <!-- Main Feed Section -->
+            <section class="stories-section" aria-label="Stories Feed">
+                <div class="stories-header" id="storiesHeaderBlock">
+                    <h3 class="stories-title">Recent Stories</h3>
+                    <div style="font-size: 0.8rem; color: var(--text-dim); display: flex; gap: 12px;">
+                        <span id="storiesCountText">Loading stories...</span>
+                        <span>•</span>
+                        <span>Updated <strong id="statLastUpdated" style="color: var(--text-muted); font-family: var(--font-mono);">—</strong></span>
                     </div>
                 </div>
 
@@ -199,55 +121,11 @@
         </div>
     </main>
 
-    <!-- Multi-column Serene Footer -->
+    <!-- Footer -->
     <footer class="footer">
         <div class="app-container">
-            <div class="footer-grid">
-                <!-- Identity Column -->
-                <div>
-                    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-                        <div class="brand-icon" style="width: 26px; height: 26px; font-size: 0.85rem;">DB</div>
-                        <span style="font-size: 1rem; font-weight: 700; color: var(--foreground);">DevBrief</span>
-                    </div>
-                    <p style="font-size: 0.875rem; color: var(--foreground-soft); line-height: 1.6; max-width: 280px;">
-                        A living record of what developers build, write, and ship across the web.
-                    </p>
-                </div>
-
-                <!-- Navigation Column -->
-                <div>
-                    <div class="footer-col-title">Navigation</div>
-                    <ul class="footer-links">
-                        <li><a href="#feed" class="footer-link">Latest Feed</a></li>
-                        <li><a href="#about" class="footer-link">About DevBrief</a></li>
-                        <li><a href="https://github.com/Yonela-Johannes/DevBrief" target="_blank" rel="noopener noreferrer" class="footer-link">GitHub Repo ↗</a></li>
-                    </ul>
-                </div>
-
-                <!-- Channels Column -->
-                <div>
-                    <div class="footer-col-title">Channels</div>
-                    <ul class="footer-links">
-                        <li><span class="footer-link">Hacker News</span></li>
-                        <li><span class="footer-link">DEV Community</span></li>
-                        <li><span class="footer-link">Product Hunt</span></li>
-                        <li><span class="footer-link">TechCrunch</span></li>
-                    </ul>
-                </div>
-
-                <!-- Architecture Column -->
-                <div>
-                    <div class="footer-col-title">Platform</div>
-                    <ul class="footer-links">
-                        <li><span class="footer-link">Serene Design System</span></li>
-                        <li><span class="footer-link">Lightweight Vanilla JS</span></li>
-                        <li><span class="footer-link">Python Aggregator Engine</span></li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="footer-bottom">
-                <span>© 2026 DevBrief — Serene Tech Journal</span>
+            <div class="footer-inner">
+                <span>DevBrief — Independent Technology Aggregator</span>
                 <span>Press <kbd class="footer-kbd">/</kbd> to search, <kbd class="footer-kbd">Esc</kbd> to clear</span>
             </div>
         </div>

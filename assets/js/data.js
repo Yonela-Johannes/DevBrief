@@ -1,11 +1,11 @@
 /**
- * DevBrief - Data Fetching & Normalization Module
+ * DevBrief — Data Management Module
  */
 
 const DataService = {
     articles: [],
 
-    // Static category mapping rules based on source keyword
+    // Category mapping rules
     categoryRules: [
         { key: 'Hacker News', category: 'technology' },
         { key: 'Dev.to', category: 'development' },
@@ -17,20 +17,20 @@ const DataService = {
         { key: 'arXiv', category: 'research-ai' }
     ],
 
-    // Metadata for categories
+    // Metadata labels for categories
     categoriesMeta: {
-        'all': { label: 'All Stories', icon: '📰' },
-        'technology': { label: 'Technology', icon: '💻' },
-        'development': { label: 'Development', icon: '⚙️' },
-        'products': { label: 'Products', icon: '🚀' },
-        'startups': { label: 'Startups', icon: '🏢' },
-        'web-design': { label: 'Web & Design', icon: '🎨' },
-        'community': { label: 'Community', icon: '💬' },
-        'research-ai': { label: 'Research & AI', icon: '🔬' }
+        'all': { label: 'All Stories' },
+        'technology': { label: 'Technology' },
+        'development': { label: 'Development' },
+        'products': { label: 'Products' },
+        'startups': { label: 'Startups' },
+        'web-design': { label: 'Web & Design' },
+        'community': { label: 'Community' },
+        'research-ai': { label: 'Research & AI' }
     },
 
     /**
-     * Normalize source names for clean display
+     * Normalize source names
      */
     normalizeSourceName(rawSource = '') {
         const s = rawSource.trim();
@@ -46,7 +46,7 @@ const DataService = {
     },
 
     /**
-     * Infer category based on source name
+     * Infer category from source
      */
     inferCategory(sourceStr = '') {
         for (const rule of this.categoryRules) {
@@ -54,11 +54,11 @@ const DataService = {
                 return rule.category;
             }
         }
-        return 'technology'; // Default category fallback
+        return 'technology';
     },
 
     /**
-     * Fetch data.json from the server and normalize entries
+     * Load data.json and normalize records
      */
     async loadArticles() {
         try {
@@ -72,7 +72,6 @@ const DataService = {
                 throw new Error('Data format error: expected array of articles');
             }
 
-            // Normalize each article item safely
             this.articles = rawData
                 .filter(item => item && typeof item === 'object' && item.title && item.url)
                 .map((item, id) => {
@@ -80,8 +79,7 @@ const DataService = {
                     const category = item.category || this.inferCategory(sourceName);
                     const cleanTitle = String(item.title).trim();
                     const slug = `art-${id}-${Utils.createSlug(cleanTitle)}`;
-                    const excerpt = item.description || item.excerpt || `Latest story reported by ${sourceName}. Explore full context, discussion, and source code.`;
-                    const readingTime = Utils.calculateReadingTime(cleanTitle + ' ' + excerpt);
+                    const excerpt = item.description || item.excerpt || `Story reported by ${sourceName}. Explore original context and discussions.`;
 
                     return {
                         id: `art-${id}`,
@@ -91,12 +89,11 @@ const DataService = {
                         source: sourceName,
                         category: category,
                         excerpt: excerpt,
-                        readingTime: readingTime,
                         timestamp: item.timestamp || new Date().toISOString()
                     };
                 });
 
-            // Sort articles newest first
+            // Sort newest first
             this.articles.sort((a, b) => {
                 const timeA = new Date(a.timestamp).getTime() || 0;
                 const timeB = new Date(b.timestamp).getTime() || 0;
@@ -110,7 +107,7 @@ const DataService = {
         }
     },
 
-    getFeaturedArticle() {
+    getLeadStory() {
         return this.articles.length > 0 ? this.articles[0] : null;
     },
 
@@ -119,7 +116,7 @@ const DataService = {
         return this.articles.find(a => a.slug === slugKey || a.id === slugKey) || null;
     },
 
-    getRelatedArticles(currentArticle, limit = 3) {
+    getRelatedStories(currentArticle, limit = 3) {
         if (!currentArticle) return [];
         return this.articles
             .filter(a => a.slug !== currentArticle.slug && (a.category === currentArticle.category || a.source === currentArticle.source))

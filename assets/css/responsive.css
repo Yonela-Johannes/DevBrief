@@ -1,33 +1,8 @@
 /* ==========================================================================
-   DevBrief - Responsive Styles
+   DevBrief — Responsive Styles
    ========================================================================== */
 
-/* Medium Devices (Tablets & Small Laptops) */
-@media (max-width: 1024px) {
-    .featured-hero-card {
-        grid-template-columns: 1fr;
-    }
-
-    .featured-visual {
-        display: none;
-    }
-
-    .stats-banner {
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-    .article-grid,
-    .skeleton-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-    .footer-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 24px;
-    }
-}
-
-/* Small Devices (Mobile Phones) */
+/* Mobile Phones (< 640px) */
 @media (max-width: 640px) {
     .app-container {
         padding: 0 16px;
@@ -44,34 +19,11 @@
         justify-content: space-between;
     }
 
-    .header-actions {
-        width: 100%;
-        justify-content: space-between;
-    }
-
-    .editorial-head-title {
-        font-size: 1.75rem;
-    }
-
-    .featured-content {
-        padding: 20px;
-    }
-
-    .featured-title {
-        font-size: 1.35rem;
-    }
-
-    .stats-banner {
-        grid-template-columns: 1fr;
-        gap: 10px;
+    .lead-title {
+        font-size: 1.4rem;
     }
 
     .control-bar {
-        padding: 12px;
-        gap: 10px;
-    }
-
-    .control-main {
         flex-direction: column;
         align-items: stretch;
     }
@@ -91,52 +43,22 @@
 
     .dropdown-menu {
         width: 100%;
-        right: 0;
         left: 0;
-    }
-
-    .categories-nav {
-        margin-bottom: 16px;
-    }
-
-    .category-tab {
-        padding: 6px 12px;
-        font-size: 0.8rem;
-    }
-
-    .article-grid,
-    .skeleton-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .article-card-list {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 10px;
-    }
-
-    .article-list-right {
-        align-items: flex-start;
-        width: 100%;
+        right: 0;
     }
 
     .reader-title {
-        font-size: 1.65rem;
+        font-size: 1.6rem;
     }
 
-    .reader-callout-box {
+    .reader-callout {
         flex-direction: column;
         align-items: flex-start;
     }
 
-    .footer-grid {
-        grid-template-columns: 1fr;
-        gap: 20px;
-    }
-
-    .footer-bottom {
+    .footer-inner {
         flex-direction: column;
         text-align: center;
-        gap: 10px;
+        gap: 8px;
     }
 }

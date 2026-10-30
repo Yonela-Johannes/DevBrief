@@ -1,35 +1,31 @@
 /**
- * DevBrief - Main Application Controller & Router (Serene Design System)
+ * DevBrief — Main Application Controller & Router (Light Mode Edition)
  */
 
 const App = {
     async init() {
-        // Apply saved theme (Light or Dark)
-        const savedTheme = Utils.getSavedTheme();
-        Utils.setSavedTheme(savedTheme);
-
         const feedContainer = document.getElementById('newsFeedContainer');
-        ArticlesComponent.renderSkeletons(feedContainer, 6);
+        ArticlesComponent.renderSkeletons(feedContainer, 5);
 
-        // Fetch articles from DataService
+        // Load dataset
         const result = await DataService.loadArticles();
         if (!result.success) {
             ArticlesComponent.renderErrorState(feedContainer, result.error);
             return;
         }
 
-        // Initialize UI Components
+        // Initialize UI
         this.renderCategoryTabs();
         this.renderSourceDropdown();
         this.setupEventListeners();
         this.setupRouter();
 
-        // Initial Route Render Pass
+        // Initial Route Render
         this.handleRoute();
     },
 
     /**
-     * Router state handling based on URL hash
+     * Hash Router
      */
     setupRouter() {
         window.addEventListener('hashchange', () => this.handleRoute());
@@ -37,14 +33,13 @@ const App = {
 
     handleRoute() {
         const hash = window.location.hash || '#feed';
-        const heroSection = document.getElementById('featuredHeroContainer');
+        const leadSection = document.getElementById('leadStoryContainer');
         const controlSection = document.getElementById('controlBarSection');
         const categorySection = document.getElementById('categoryNavSection');
-        const statsSection = document.getElementById('statsBannerSection');
         const feedContainer = document.getElementById('newsFeedContainer');
-        const feedHeader = document.getElementById('feedHeaderBlock');
+        const feedHeader = document.getElementById('storiesHeaderBlock');
 
-        // Update Header Navigation Active State
+        // Update Nav Link Active State
         document.querySelectorAll('.nav-link').forEach(link => {
             const href = link.getAttribute('href');
             const isActive = (hash === '#feed' && href === '#feed') ||
@@ -56,34 +51,31 @@ const App = {
         if (hash.startsWith('#article/')) {
             const slug = hash.replace('#article/', '');
             const article = DataService.getArticleBySlug(slug);
-            const related = DataService.getRelatedArticles(article, 3);
+            const related = DataService.getRelatedStories(article, 3);
 
-            if (heroSection) heroSection.style.display = 'none';
+            if (leadSection) leadSection.style.display = 'none';
             if (controlSection) controlSection.style.display = 'none';
             if (categorySection) categorySection.style.display = 'none';
-            if (statsSection) statsSection.style.display = 'none';
             if (feedHeader) feedHeader.style.display = 'none';
 
             if (article) {
                 ArticlesComponent.renderReaderView(feedContainer, article, related);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             } else {
-                ArticlesComponent.renderErrorState(feedContainer, 'Story not found or removed.');
+                ArticlesComponent.renderErrorState(feedContainer, 'Story not found.');
             }
         } else if (hash === '#about') {
-            if (heroSection) heroSection.style.display = 'none';
+            if (leadSection) leadSection.style.display = 'none';
             if (controlSection) controlSection.style.display = 'none';
             if (categorySection) categorySection.style.display = 'none';
-            if (statsSection) statsSection.style.display = 'none';
             if (feedHeader) feedHeader.style.display = 'none';
 
             ArticlesComponent.renderAboutView(feedContainer);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         } else {
-            // Default Feed view
+            // Main Feed View
             if (controlSection) controlSection.style.display = 'flex';
             if (categorySection) categorySection.style.display = 'flex';
-            if (statsSection) statsSection.style.display = 'grid';
             if (feedHeader) feedHeader.style.display = 'flex';
 
             this.applyAndRender();
@@ -91,16 +83,16 @@ const App = {
     },
 
     /**
-     * Render category tab navigation
+     * Category Navigation
      */
     renderCategoryTabs() {
         const container = document.getElementById('categoryTabsContainer');
         if (!container) return;
 
-        const availableCategories = DataService.getAvailableCategories();
+        const categories = DataService.getAvailableCategories();
 
-        container.innerHTML = availableCategories.map(catKey => {
-            const meta = DataService.categoriesMeta[catKey] || { label: catKey, icon: '📌' };
+        container.innerHTML = categories.map(catKey => {
+            const meta = DataService.categoriesMeta[catKey] || { label: catKey };
             const count = catKey === 'all'
                 ? DataService.articles.length
                 : DataService.articles.filter(a => a.category === catKey).length;
@@ -109,17 +101,15 @@ const App = {
 
             return `
                 <button type="button" class="category-tab ${isActive ? 'active' : ''}" data-category="${catKey}">
-                    <span>${meta.icon} ${meta.label}</span>
-                    <span class="category-count">${count.toLocaleString()}</span>
+                    <span>${meta.label}</span>
+                    <span class="category-tab-count">${count.toLocaleString()}</span>
                 </button>
             `;
         }).join('');
 
-        // Wire category click handlers
         container.querySelectorAll('.category-tab').forEach(tab => {
             tab.addEventListener('click', () => {
-                const cat = tab.dataset.category;
-                FilterService.setCategory(cat);
+                FilterService.setCategory(tab.dataset.category);
                 this.updateCategoryTabsUI();
                 this.applyAndRender();
             });
@@ -137,7 +127,7 @@ const App = {
     },
 
     /**
-     * Render sources multi-select dropdown
+     * Source Filter Dropdown
      */
     renderSourceDropdown() {
         const bodyContainer = document.getElementById('sourceDropdownBody');
@@ -158,7 +148,6 @@ const App = {
             `;
         }).join('');
 
-        // Wire checkbox changes
         bodyContainer.querySelectorAll('.source-checkbox').forEach(chk => {
             chk.addEventListener('change', (e) => {
                 FilterService.toggleSource(e.target.value, e.target.checked);
@@ -186,7 +175,7 @@ const App = {
     },
 
     /**
-     * Render active filter chips bar under controls
+     * Active Filter Chips
      */
     renderActiveFilterChips() {
         const container = document.getElementById('activeFilterChips');
@@ -216,13 +205,12 @@ const App = {
 
         if (chips.length > 0) {
             container.innerHTML = `
-                <span class="active-filters-label">Active Filters:</span>
+                <span class="active-filters-label">Active:</span>
                 ${chips.join('')}
                 <button type="button" class="clear-all-filters-btn" id="clearAllFiltersBtn">Clear all</button>
             `;
             container.style.display = 'flex';
 
-            // Wire remove buttons
             container.querySelectorAll('[data-remove-source]').forEach(btn => {
                 btn.addEventListener('click', (e) => {
                     const src = e.currentTarget.dataset.removeSource;
@@ -270,48 +258,9 @@ const App = {
     },
 
     /**
-     * Wire search, view mode, theme, dropdown & keyboard event listeners
+     * Event Listeners
      */
     setupEventListeners() {
-        // Theme Toggle (Light / Dark)
-        const themeBtn = document.getElementById('themeToggleBtn');
-        if (themeBtn) {
-            themeBtn.addEventListener('click', () => {
-                const current = Utils.getSavedTheme();
-                const nextTheme = current === 'dark' ? 'light' : 'dark';
-                Utils.setSavedTheme(nextTheme);
-            });
-        }
-
-        // View Mode Toggle (Grid / List)
-        const gridViewBtn = document.getElementById('gridViewBtn');
-        const listViewBtn = document.getElementById('listViewBtn');
-
-        if (gridViewBtn && listViewBtn) {
-            gridViewBtn.addEventListener('click', () => {
-                FilterService.setViewMode('grid');
-                gridViewBtn.classList.add('active');
-                listViewBtn.classList.remove('active');
-                this.applyAndRender();
-            });
-
-            listViewBtn.addEventListener('click', () => {
-                FilterService.setViewMode('list');
-                listViewBtn.classList.add('active');
-                gridViewBtn.classList.remove('active');
-                this.applyAndRender();
-            });
-
-            // Set initial toggle active state
-            if (FilterService.viewMode === 'list') {
-                listViewBtn.classList.add('active');
-                gridViewBtn.classList.remove('active');
-            } else {
-                gridViewBtn.classList.add('active');
-                listViewBtn.classList.remove('active');
-            }
-        }
-
         // Search Input
         const searchInput = document.getElementById('searchInput');
         const searchClearBtn = document.getElementById('searchClearBtn');
@@ -355,7 +304,7 @@ const App = {
             });
         }
 
-        // Dropdown Select All & Clear All
+        // Dropdown Actions
         const selectAllBtn = document.getElementById('selectAllSourcesBtn');
         const clearSourcesBtn = document.getElementById('clearSourcesBtn');
 
@@ -398,7 +347,7 @@ const App = {
     },
 
     /**
-     * Reset all filters
+     * Reset Filters
      */
     resetFilters() {
         FilterService.resetAll();
@@ -414,7 +363,7 @@ const App = {
     },
 
     /**
-     * Apply active filters, update stats, render Featured Hero and feed
+     * Apply active filters & re-render
      */
     applyAndRender() {
         if (window.location.hash.startsWith('#article/') || window.location.hash === '#about') {
@@ -422,29 +371,29 @@ const App = {
         }
 
         const filteredArticles = FilterService.applyFilters(DataService.articles);
-        const heroContainer = document.getElementById('featuredHeroContainer');
+        const leadContainer = document.getElementById('leadStoryContainer');
 
-        // Render Featured Hero if no active filters
+        // Render Lead Story if no active filters
         if (!FilterService.hasActiveFilters() && DataService.articles.length > 0) {
-            ArticlesComponent.renderFeaturedHero(heroContainer, DataService.getFeaturedArticle());
-        } else if (heroContainer) {
-            heroContainer.style.display = 'none';
+            ArticlesComponent.renderLeadStory(leadContainer, DataService.getLeadStory());
+        } else if (leadContainer) {
+            leadContainer.style.display = 'none';
         }
 
         // Update Feed Header Count
-        const feedCountElem = document.getElementById('feedCountText');
+        const feedCountElem = document.getElementById('storiesCountText');
         if (feedCountElem) {
-            feedCountElem.textContent = `Showing ${filteredArticles.length.toLocaleString()} stories`;
+            feedCountElem.textContent = `${filteredArticles.length.toLocaleString()} stories`;
         }
 
         // Update Stats Component
         StatsComponent.update(DataService.articles, filteredArticles);
 
-        // Render Feed (Grid or List)
+        // Render Feed
         const feedContainer = document.getElementById('newsFeedContainer');
         ArticlesComponent.renderFeed(feedContainer, filteredArticles);
     }
 };
 
-// Initialize App when DOM is ready
+// Initialize App
 document.addEventListener('DOMContentLoaded', () => App.init());

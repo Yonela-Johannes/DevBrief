@@ -1,10 +1,10 @@
 /**
- * DevBrief - Serene Utility Functions
+ * DevBrief — Editorial Utilities
  */
 
 const Utils = {
     /**
-     * Escape HTML special characters to prevent XSS
+     * Escape HTML special characters
      */
     escapeHTML(str) {
         if (!str) return '';
@@ -14,7 +14,7 @@ const Utils = {
     },
 
     /**
-     * Create a URL-friendly slug from title
+     * Create a URL slug from title
      */
     createSlug(text) {
         if (!text) return 'story';
@@ -27,7 +27,7 @@ const Utils = {
     },
 
     /**
-     * Extract host/domain name from a URL cleanly
+     * Extract host/domain name cleanly
      */
     getDomainHost(urlStr) {
         if (!urlStr) return '';
@@ -40,7 +40,7 @@ const Utils = {
     },
 
     /**
-     * Validate if a string is a safe external http/https URL
+     * Validate if string is safe external URL
      */
     isValidUrl(urlStr) {
         if (!urlStr) return false;
@@ -53,16 +53,7 @@ const Utils = {
     },
 
     /**
-     * Calculate estimated reading time for an article
-     */
-    calculateReadingTime(text = '') {
-        const words = text.trim().split(/\s+/).length || 1;
-        const minutes = Math.ceil(words / 200);
-        return `${Math.max(1, minutes)} min read`;
-    },
-
-    /**
-     * Format timestamp to a human-readable relative or formatted date
+     * Format timestamp to a relative time
      */
     formatRelativeTime(dateInput) {
         if (!dateInput) return 'Recently';
@@ -88,21 +79,21 @@ const Utils = {
     },
 
     /**
-     * Format date to short readable date string (e.g. "8 Mar 2026")
+     * Format date string (e.g. "Mar 8, 2026")
      */
     formatFullDate(dateInput) {
         const date = new Date(dateInput);
         if (isNaN(date.getTime())) return '—';
 
-        return date.toLocaleDateString('en-ZA', {
-            day: 'numeric',
+        return date.toLocaleDateString('en-US', {
             month: 'short',
+            day: 'numeric',
             year: 'numeric'
         });
     },
 
     /**
-     * Debounce function calls for search inputs
+     * Debounce function calls
      */
     debounce(fn, delay = 200) {
         let timeoutId;
@@ -110,17 +101,5 @@ const Utils = {
             clearTimeout(timeoutId);
             timeoutId = setTimeout(() => fn.apply(this, args), delay);
         };
-    },
-
-    /**
-     * Theme management (Light vs Dark mode)
-     */
-    getSavedTheme() {
-        return localStorage.getItem('devbrief-theme') || 'dark';
-    },
-
-    setSavedTheme(theme) {
-        localStorage.setItem('devbrief-theme', theme);
-        document.documentElement.setAttribute('data-theme', theme);
     }
 };
