@@ -1,5 +1,5 @@
 /**
- * DevBrief — Editorial Rendering Component
+ * DevBrief — CodingWithYonela Shared Editorial Rendering Component
  */
 
 const ArticlesComponent = {
@@ -52,12 +52,15 @@ const ArticlesComponent = {
                 </h2>
                 <p class="lead-excerpt">${Utils.escapeHTML(story.excerpt)}</p>
                 <div class="lead-footer">
-                    <span class="lead-footer-source">${sourceSafe}</span>
-                    ${hostName ? `<span>(${Utils.escapeHTML(hostName)})</span>` : ''}
-                    <span>•</span>
-                    <span>${relTime}</span>
-                    <span>•</span>
-                    <a href="#article/${story.slug}" style="color: var(--accent); font-weight: 600;">Read story →</a>
+                    <div>
+                        <span class="lead-footer-source">${sourceSafe}</span>
+                        ${hostName ? `<span>(${Utils.escapeHTML(hostName)})</span>` : ''}
+                        <span>•</span>
+                        <span>${relTime}</span>
+                    </div>
+                    <a href="#article/${story.slug}" class="primary-btn" style="padding: 6px 14px; font-size: 0.8rem;">
+                        Read Story →
+                    </a>
                 </div>
             </div>
         `;
@@ -87,7 +90,7 @@ const ArticlesComponent = {
             const remaining = articles.length - this.displayedCount;
             loadMoreHTML = `
                 <div style="text-align: center; margin-top: 32px;">
-                    <button type="button" class="state-btn" id="loadMoreBtn">
+                    <button type="button" class="primary-btn" id="loadMoreBtn">
                         Load More Stories (${remaining.toLocaleString()} remaining)
                     </button>
                 </div>
@@ -185,7 +188,7 @@ const ArticlesComponent = {
                         <div style="font-weight: 700; color: var(--text-main); margin-bottom: 4px;">Read Full Publication on ${sourceSafe}</div>
                         <div style="font-size: 0.85rem; color: var(--text-muted);">Opens original external story in a new tab.</div>
                     </div>
-                    <a href="${urlSafe}" target="_blank" rel="noopener noreferrer" class="btn-read-external">
+                    <a href="${urlSafe}" target="_blank" rel="noopener noreferrer" class="primary-btn">
                         Open Original Story ↗
                     </a>
                 </div>
@@ -196,7 +199,7 @@ const ArticlesComponent = {
     },
 
     /**
-     * About Page View
+     * About Page View with Creator Attribution
      */
     renderAboutView(container) {
         if (!container) return;
@@ -220,6 +223,13 @@ const ArticlesComponent = {
                     <h2 class="about-subtitle">Source attribution</h2>
                     <p class="about-text">Every story on DevBrief links directly to its original publisher. We preserve original titles, sources, and publication dates without replacing original content or hiding sources behind redirects.</p>
                 </div>
+
+                <div class="about-attribution-box">
+                    <div style="font-weight: 700; color: var(--text-main); margin-bottom: 4px;">Created & Designed by</div>
+                    <div style="font-size: 1rem; color: var(--text-main);">
+                        Built by <a href="https://github.com/Yonela-Johannes" target="_blank" rel="noopener noreferrer" style="color: var(--text-main); font-weight: 700; text-decoration: underline;">Yonela Johannes</a>.
+                    </div>
+                </div>
             </div>
         `;
     },
@@ -229,7 +239,7 @@ const ArticlesComponent = {
             <div class="state-box">
                 <div class="state-title">No stories found</div>
                 <div class="state-desc">No articles match your search or active filter selections.</div>
-                <button type="button" class="state-btn" id="resetFiltersBtn">Reset Filters</button>
+                <button type="button" class="primary-btn" id="resetFiltersBtn">Reset Filters</button>
             </div>
         `;
 
@@ -246,7 +256,7 @@ const ArticlesComponent = {
             <div class="state-box">
                 <div class="state-title">Unable to load news feed</div>
                 <div class="state-desc">${Utils.escapeHTML(message || 'Failed to fetch article data.')} Please verify that <code>data.json</code> exists.</div>
-                <button type="button" class="state-btn" onclick="location.reload()">Reload Page</button>
+                <button type="button" class="primary-btn" onclick="location.reload()">Reload Page</button>
             </div>
         `;
     }
