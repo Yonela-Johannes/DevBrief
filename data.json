@@ -665350,5 +665350,311 @@
         "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
         "timestamp": "Sat, 31 Oct 2026 01:20:05 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Serbia just elected the world's brainiest parliament",
+        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "timestamp": "2026-10-31T13:29:05.378743",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+        "url": "https://piefed.world/post/1503394",
+        "timestamp": "2026-10-31T13:29:05.378798",
+        "source": "Hacker News"
+    },
+    {
+        "title": "We Took over ChatGPT Accounts",
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "timestamp": "2026-10-31T13:29:05.378837",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Switch Lowering in GCC",
+        "url": "https://xoranth.net/gcc-switch/",
+        "timestamp": "2026-10-31T13:29:05.378874",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+        "url": "https://zebra.rodeo/en/blog/marelleo/",
+        "timestamp": "2026-10-31T13:29:05.378947",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Prospero: A new coding harness for a more civilized age",
+        "url": "https://nullprogram.com/blog/2026/10/31/",
+        "timestamp": "2026-10-31T13:29:05.379145",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Simple circuits can create complex behaviors",
+        "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+        "timestamp": "2026-10-31T13:29:05.379401",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why Anthropic's Filing Crushed Tech Stocks",
+        "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+        "timestamp": "2026-10-31T13:29:05.379465",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ace K2: The Second Major Capability Era – Governed Autonomous Engineering",
+        "url": "https://zenodo.org/records/23836829",
+        "timestamp": "2026-10-31T13:29:05.540503",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I build one small site per TikTok trend – here's the latest",
+        "url": "https://tiramisufridgeai.com",
+        "timestamp": "2026-10-31T13:29:05.540549",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "timestamp": "2026-10-31T13:29:05.540585",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+        "timestamp": "2026-10-31T13:29:05.540628",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pika H3 Flex Technical Deep Dive",
+        "url": "https://pika.art/blog/pika-h3-flex-research",
+        "timestamp": "2026-10-31T13:29:05.540666",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Built an Android simulator with businesses, investing, and real estate",
+        "url": "https://play.google.com/store/apps/details?id=com.bbelnexgames.businesssimulator.entrepreneur_tycoon&hl=en_US",
+        "timestamp": "2026-10-31T13:29:05.540707",
+        "source": "Hacker News"
+    },
+    {
+        "title": "List of Pedestrian Circumnavigators",
+        "url": "https://en.wikipedia.org/wiki/List_of_pedestrian_circumnavigators",
+        "timestamp": "2026-10-31T13:29:05.540741",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+        "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+        "timestamp": "2026-10-31T13:29:05.540781",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Rejoice, leap seconds are dead",
+        "url": "https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/",
+        "timestamp": "2026-10-31T13:29:05.540815",
+        "source": "Hacker News"
+    },
+    {
+        "title": "To Bin or Not to Bin: A Tutorial on Fast Feedback Loops for AI Capabilities",
+        "url": "https://alexhans.github.io/posts/to-bin-or-not-to-bin.html",
+        "timestamp": "2026-10-31T13:29:05.540885",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Getting traffic from aocr.org? That's ByteDance crawling your website",
+        "url": "https://tin.computer/blog/aocr-org-referrer-bot",
+        "timestamp": "2026-10-31T13:29:05.540917",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Obtainium Get Android app updates straight from the source",
+        "url": "https://github.com/ImranR98/Obtainium",
+        "timestamp": "2026-10-31T13:29:05.540951",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Semgrep and SonarQube found zero of 232 access-control bugs",
+        "url": "https://medium.com/meetcyber/semgrep-and-sonarqube-found-zero-of-232-access-control-bugs-1c17c6b76395",
+        "timestamp": "2026-10-31T13:29:05.540983",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: If AI agents can run 24/7, why is almost nothing shipped overnight?",
+        "url": "https://news.ycombinator.com/item?id=50315898",
+        "timestamp": "2026-10-31T13:29:05.541020",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Printed cells to create everything from bone marrow to lab meat",
+        "url": "https://english.elpais.com/science-tech/2026-10-01/a-living-tissue-factory-printed-cells-to-create-everything-from-bone-marrow-to-lab-meat.html",
+        "timestamp": "2026-10-31T13:29:05.541054",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Prompt caching: same agent, same rules, about a quarter of the bill",
+        "url": "https://blog.getwerk.ai/posts/prompt-caching-a-quarter-of-the-bill",
+        "timestamp": "2026-10-31T13:29:05.541086",
+        "source": "Hacker News"
+    },
+    {
+        "title": "MS Reality Check – Try hobbies before spending money",
+        "url": "https://msrealitycheck.mihaidraghici023.workers.dev/",
+        "timestamp": "2026-10-31T13:29:05.541118",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Beating the compiler at signed 32-bit division",
+        "url": "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
+        "timestamp": "2026-10-31T13:29:05.541150",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Defrag the UK Economy",
+        "url": "https://britains-disk.pages.dev/",
+        "timestamp": "2026-10-31T13:29:05.541186",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Harvard Clones Its Faculty",
+        "url": "https://english.elpais.com/education/2026-10-19/the-time-of-avatars-in-the-classroom-has-arrived-harvard-clones-its-faculty.html",
+        "timestamp": "2026-10-31T13:29:05.541219",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What is Blocus how have the calls that worry merchants and police reached Spain",
+        "url": "https://www.democrata.es/en/current-events/what-is-blocus-and-how-have-the-calls-that-worry-merchants-and-police-arrived-in-spain/amp/",
+        "timestamp": "2026-10-31T13:29:05.541270",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tiny Hand",
+        "url": "https://tinyhand.app/",
+        "timestamp": "2026-10-31T13:29:05.541307",
+        "source": "Hacker News"
+    },
+    {
+        "title": "MCP server resource benchmark: RAM, startup time and tool counts for 11 servers",
+        "url": "https://techfuelhq.com/data/mcp-server-bench/",
+        "timestamp": "2026-10-31T13:29:05.541340",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Is It the Code or the Program?",
+        "url": "https://itanium-cxx-abi.github.io/cxx-abi/abi.html#POD",
+        "timestamp": "2026-10-31T13:29:05.541372",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I helped fix sleep-wake hangs on Linux with AMD GPUs (2025)",
+        "url": "https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/",
+        "timestamp": "2026-10-31T13:29:05.541405",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A language model that lives in a boot sector",
+        "url": "https://github.com/kerlenton/bootgpt",
+        "timestamp": "2026-10-31T13:29:05.541437",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to free your email from the clutches of Google or Microsoft",
+        "url": "https://manualdousuario.net/en/email-big-tech-purelymail-migadu/",
+        "timestamp": "2026-10-31T13:29:05.541469",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
+        "url": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+        "timestamp": "2026-10-31T13:29:05.541501",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hands-On Embedded Software Design – 21 progressive steps on STM32F7",
+        "url": "https://github.com/dysgn/Embedded_guide_publish",
+        "timestamp": "2026-10-31T13:29:05.541534",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Singularity News :: CCG",
+        "url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
+        "timestamp": "2026-10-31T02:18:22Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "telemetry.dev",
+        "url": "https://www.producthunt.com/products/telemetry-dev",
+        "timestamp": "2026-10-28T17:13:46-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "AwaitIO",
+        "url": "https://www.producthunt.com/products/awaitio",
+        "timestamp": "2026-10-30T17:15:52-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Godwit",
+        "url": "https://www.producthunt.com/products/godwit",
+        "timestamp": "2026-10-30T20:45:26-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Agnos",
+        "url": "https://www.producthunt.com/products/agnos",
+        "timestamp": "2026-10-30T13:02:49-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "LumaFold: Screen Light",
+        "url": "https://www.producthunt.com/products/lumafold-screen-light",
+        "timestamp": "2026-10-26T07:34:31-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "WinnerAdSpy",
+        "url": "https://www.producthunt.com/products/winneradspy",
+        "timestamp": "2026-09-22T01:35:26-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "BaseTab AI",
+        "url": "https://www.producthunt.com/products/basetab-ai",
+        "timestamp": "2026-10-29T10:41:03-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Hemmed",
+        "url": "https://www.producthunt.com/products/hemmed",
+        "timestamp": "2026-10-29T17:50:28-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Secret Key",
+        "url": "https://www.producthunt.com/products/secret-key",
+        "timestamp": "2026-10-30T11:54:54-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Mo",
+        "url": "https://www.producthunt.com/products/mo-5",
+        "timestamp": "2026-10-28T04:39:29-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "CubbyPad",
+        "url": "https://www.producthunt.com/products/cubbypad",
+        "timestamp": "2026-10-19T05:08:31-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Knucklebop",
+        "url": "https://www.producthunt.com/products/knucklebop",
+        "timestamp": "2026-10-28T04:02:13-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+        "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+        "timestamp": "Sat, 31 Oct 2026 08:00:00 GMT",
+        "source": "Articles on Smashing Magazine — For Web Designers And Developers"
     }
 ]
