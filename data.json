@@ -665944,5 +665944,281 @@
         "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
         "timestamp": "Sat, 31 Oct 2026 14:00:00 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "timestamp": "2026-10-31T21:15:32.645724",
+        "source": "Hacker News"
+    },
+    {
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "timestamp": "2026-10-31T21:15:32.645781",
+        "source": "Hacker News"
+    },
+    {
+        "title": "It's the Memory Latency, Stupid",
+        "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+        "timestamp": "2026-10-31T21:15:32.645822",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Duty of a Scholar",
+        "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+        "timestamp": "2026-10-31T21:15:32.645868",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+        "timestamp": "2026-10-31T21:15:32.645908",
+        "source": "Hacker News"
+    },
+    {
+        "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+        "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+        "timestamp": "2026-10-31T21:15:32.645947",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Much Ado About None: Sentinel Values in Python",
+        "url": "https://florianwilhelm.info/2026/10/sentinel_values/",
+        "timestamp": "2026-10-31T21:15:32.645982",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+        "url": "https://epoyraz.github.io/nes-contra-us/",
+        "timestamp": "2026-10-31T21:15:32.646052",
+        "source": "Hacker News"
+    },
+    {
+        "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+        "url": "https://oqtadrive.org/10.other/5-years/",
+        "timestamp": "2026-10-31T21:15:32.646152",
+        "source": "Hacker News"
+    },
+    {
+        "title": "William Nordhaus has died",
+        "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+        "timestamp": "2026-10-31T21:15:32.646219",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Distributed Proofreaders",
+        "url": "https://www.pgdp.net/c/",
+        "timestamp": "2026-10-31T21:15:32.646252",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+        "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+        "timestamp": "2026-10-31T21:15:32.646285",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Surviving \"The Graduate\"",
+        "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+        "timestamp": "2026-10-31T21:15:32.646416",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic blocks users for anything touching training larger models",
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "timestamp": "2026-10-31T21:15:32.646521",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I post trained a model on Demoscenes",
+        "url": "https://datavorous.com/writing/demoscener/",
+        "timestamp": "2026-10-31T21:15:32.646654",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+        "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+        "timestamp": "2026-10-31T21:15:32.646688",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Will AI take your job? You have more agency than you think",
+        "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
+        "timestamp": "2026-10-31T21:15:32.735573",
+        "source": "Hacker News"
+    },
+    {
+        "title": "clc-wiki",
+        "url": "https://clc-wiki.net/wiki/Main_Page",
+        "timestamp": "2026-10-31T21:15:32.735638",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+        "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+        "timestamp": "2026-10-31T21:15:32.735678",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Alternativ to Miro Board",
+        "url": "https://wytboard.com",
+        "timestamp": "2026-10-31T21:15:32.735715",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Terence Tao: Algebra helps us navigate hard realities by making them abstract",
+        "url": "https://www.sciencefriday.com/articles/six-math-essentials-book-excerpt/",
+        "timestamp": "2026-10-31T21:15:32.735758",
+        "source": "Hacker News"
+    },
+    {
+        "title": "One Durable Object per room, and a rule that stranded a lecture hall",
+        "url": "https://davidmashiah.com/notes/the-room-filled-after-i-pressed-start",
+        "timestamp": "2026-10-31T21:15:32.735796",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Benchma(R)king: Making Chairs with LLMs",
+        "url": "https://emergencemagazine.org/essay/benchmarking/",
+        "timestamp": "2026-10-31T21:15:32.735833",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Recycling ANSI Art: Tracing the Origins of BBS Logon Screens",
+        "url": "https://games.slashdot.org/story/26/10/31/2038237/recycling-ansi-art-tracing-the-origins-of-bbs-logon-screens",
+        "timestamp": "2026-10-31T21:15:32.735871",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Ludwig Wittgenstein Project",
+        "url": "https://wittgensteinproject.org/w/index.php?title=Main_Page",
+        "timestamp": "2026-10-31T21:15:32.735907",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Point-Contact Transistor",
+        "url": "https://en.wikipedia.org/wiki/Point-contact_transistor",
+        "timestamp": "2026-10-31T21:15:32.735985",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Loudest Stories Were Missing from the Map: Learning Topics on Hacker News",
+        "url": "https://medium.com/@yastrebovks/the-loudest-stories-were-missing-from-the-map-learning-topics-on-hacker-news-f2b10a3255c9",
+        "timestamp": "2026-10-31T21:15:32.736022",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Where do you see software engineering careers heading?",
+        "url": "https://news.ycombinator.com/item?id=50320118",
+        "timestamp": "2026-10-31T21:15:32.736062",
+        "source": "Hacker News"
+    },
+    {
+        "title": "'What Were You Thinking?' – Scott McNeely, Founder of Sun Microsystems",
+        "url": "https://app.hedgeye.com/insights/86557-what-were-you-thinking-part-deux/print",
+        "timestamp": "2026-10-31T21:15:32.736101",
+        "source": "Hacker News"
+    },
+    {
+        "title": "OqtaNet – Sinclair Network over the Internet",
+        "url": "https://codeberg.org/xelalexv/oqtadrive/src/branch/master/doc/network.md",
+        "timestamp": "2026-10-31T21:15:32.736138",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gitmsg – A messenger where every message is a Git commit",
+        "url": "https://www.gitmsg.fun",
+        "timestamp": "2026-10-31T21:15:32.736176",
+        "source": "Hacker News"
+    },
+    {
+        "title": "From $2.30 to $230: A Lifetime of Broadway Musicals and Their Movies",
+        "url": "https://conradkottak.substack.com/p/from-230-to-230-a-lifetime-of-broadway",
+        "timestamp": "2026-10-31T21:15:32.736247",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Common Desktop Environment available now as open-source",
+        "url": "https://sourceforge.net/projects/cdesktopenv/",
+        "timestamp": "2026-10-31T21:15:32.736331",
+        "source": "Hacker News"
+    },
+    {
+        "title": "People are the hard part of AI",
+        "url": "https://keithbrown.com/proton-ai-manifesto",
+        "timestamp": "2026-10-31T21:15:32.736414",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Free AI",
+        "url": "https://cloudy.chat/",
+        "timestamp": "2026-10-31T21:15:32.736457",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Haskell processor running on an FPGA",
+        "url": "https://bathtub-01.github.io/technical/ouros-demo/",
+        "timestamp": "2026-10-31T21:15:32.736492",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Chemical Hunger (2021)",
+        "url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
+        "timestamp": "2026-10-31T21:15:32.736529",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GPT-6.1 Terra",
+        "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+        "timestamp": "2026-10-31T21:15:32.736562",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+        "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
+        "timestamp": "2026-10-31T21:15:32.736595",
+        "source": "Hacker News"
+    },
+    {
+        "title": "NASA's Voyager 1 Conserves Power, Resolves Brief Communications Pause",
+        "url": "https://www.jpl.nasa.gov/news/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/",
+        "timestamp": "2026-10-31T21:15:32.736629",
+        "source": "Hacker News"
+    },
+    {
+        "title": "macOS 27 Golden Gate does not support CoreStorage or HFS+ volumes",
+        "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+        "timestamp": "2026-10-31T21:15:32.736663",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Report from the Vatican",
+        "url": "https://garymarcus.substack.com/p/report-from-the-vatican",
+        "timestamp": "2026-10-31T21:15:32.736696",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Othismo, a Runtime for Sandboxed Objects",
+        "url": "https://othismo.com",
+        "timestamp": "2026-10-31T21:15:32.736730",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Bidirectional Charging During Grid Outages",
+        "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+        "timestamp": "2026-10-31T21:15:32.736763",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Two-Line Function Caught AI Collusion Better Than the AI Did",
+        "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd",
+        "timestamp": "2026-10-31T04:17:26Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Coding Wrapped",
+        "url": "https://www.producthunt.com/products/coding-wrapped",
+        "timestamp": "2026-10-20T01:53:03-07:00",
+        "source": "Product Hunt — The best new products, every day"
     }
 ]
