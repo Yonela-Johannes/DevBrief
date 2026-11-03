@@ -669634,5 +669634,377 @@
         "url": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
         "timestamp": "Tue, 03 Nov 2026 14:50:32 +0000",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "Safari introduces Adaptive Dark Mode in 27.3",
+        "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+        "timestamp": "2026-11-03T21:55:52.664210",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "timestamp": "2026-11-03T21:55:52.664383",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+        "timestamp": "2026-11-03T21:55:52.664413",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Introduction to Programming in ATS",
+        "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+        "timestamp": "2026-11-03T21:55:52.664494",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "url": "https://arxiv.org/abs/2605.29713",
+        "timestamp": "2026-11-03T21:55:52.664547",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+        "url": "https://flipper.net/pages/flipper-one",
+        "timestamp": "2026-11-03T21:55:52.664573",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+        "url": "https://github.com/finic-ai/kairos",
+        "timestamp": "2026-11-03T21:55:52.664600",
+        "source": "Hacker News"
+    },
+    {
+        "title": "We're Training a Figma-Fluent Editing Model",
+        "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+        "timestamp": "2026-11-03T21:55:52.664627",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+        "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+        "timestamp": "2026-11-03T21:55:52.664653",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ashby (YC W19) Is Hiring EMs",
+        "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+        "timestamp": "2026-11-03T21:55:52.664705",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I dumped Apple’s word list",
+        "url": "https://helgesver.re/articles/macos-vulgar-word-flags",
+        "timestamp": "2026-11-03T21:55:52.664731",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pratt parsing is a black box",
+        "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+        "timestamp": "2026-11-03T21:55:52.664784",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Curiosity Traps",
+        "url": "https://www.autodidacts.io/curiosity-traps/",
+        "timestamp": "2026-11-03T21:55:52.664885",
+        "source": "Hacker News"
+    },
+    {
+        "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+        "url": "https://arxiv.org/abs/2611.02618",
+        "timestamp": "2026-11-03T21:55:52.664964",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+        "timestamp": "2026-11-03T21:55:52.664990",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Gitbook Breached",
+        "url": "https://news.ycombinator.com/item?id=50354336",
+        "timestamp": "2026-11-03T21:55:52.665018",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How I use AI (Oct 2026)",
+        "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+        "timestamp": "2026-11-03T21:55:52.665045",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Queen of the Bagel Business",
+        "url": "https://thehustle.co/originals/the-unlikely-queen-of-the-bagel-business",
+        "timestamp": "2026-11-03T21:55:52.665072",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Flarum 2.0 is released. Go upgrade your forum",
+        "url": "https://discuss.flarum.org/d/40026-flarum-20-is-released-go-upgrade-your-forum",
+        "timestamp": "2026-11-03T21:55:52.881814",
+        "source": "Hacker News"
+    },
+    {
+        "title": "High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch",
+        "url": "https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/",
+        "timestamp": "2026-11-03T21:55:52.881858",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic's annualized revenue run rate peaked back in July 2026",
+        "url": "https://twitter.com/FinanceLancelot/status/2109024272572182722",
+        "timestamp": "2026-11-03T21:55:52.881902",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google reCAPTCHA on archive.is asking to scan a QR with a mobile device",
+        "url": "https://news.ycombinator.com/item?id=50358743",
+        "timestamp": "2026-11-03T21:55:52.881932",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Technological Threat (1988) [video]",
+        "url": "https://www.youtube.com/watch?v=t-IbidkpD74",
+        "timestamp": "2026-11-03T21:55:52.881960",
+        "source": "Hacker News"
+    },
+    {
+        "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+        "url": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+        "timestamp": "2026-11-03T21:55:52.881987",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Internals of PostgreSQL",
+        "url": "https://www.interdb.jp/pg/index.html",
+        "timestamp": "2026-11-03T21:55:52.882023",
+        "source": "Hacker News"
+    },
+    {
+        "title": "More daily API calls than Google searches, now applied to LLM inference",
+        "url": "https://inference.alchemy.com",
+        "timestamp": "2026-11-03T21:55:52.882050",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Lotse: AI Coding Agent – iOS",
+        "url": "https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136",
+        "timestamp": "2026-11-03T21:55:52.882076",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Zod: TypeScript-first schema validation with static type inference",
+        "url": "https://zod.dev/",
+        "timestamp": "2026-11-03T21:55:52.882105",
+        "source": "Hacker News"
+    },
+    {
+        "title": "TanStack Query: The server-state standard for modern front end apps",
+        "url": "https://tanstack.com/query/latest",
+        "timestamp": "2026-11-03T21:55:52.882131",
+        "source": "Hacker News"
+    },
+    {
+        "title": "TanStack: Headless, type-safe, composable tools for building modern web apps",
+        "url": "https://tanstack.com/",
+        "timestamp": "2026-11-03T21:55:52.882158",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Can Julia Land on the Moon?",
+        "url": "https://arxiv.org/abs/2609.03843",
+        "timestamp": "2026-11-03T21:55:52.882185",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Is it normal to be excited for a Steve Yegge keynote?",
+        "url": "https://news.ycombinator.com/item?id=50358661",
+        "timestamp": "2026-11-03T21:55:52.882212",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Protocol Explorer",
+        "url": "https://protocol-explorer-alpha.vercel.app/",
+        "timestamp": "2026-11-03T21:55:52.882239",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Fal raises Series E and F",
+        "url": "https://fal.ai/blog/series-e-f",
+        "timestamp": "2026-11-03T21:55:52.882270",
+        "source": "Hacker News"
+    },
+    {
+        "title": "IONNA bent charger pin update",
+        "url": "https://www.ionna.com/blog/an-update/",
+        "timestamp": "2026-11-03T21:55:52.882298",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Startup Red Flags",
+        "url": "https://endlessfootnote.substack.com/p/startup-red-flags",
+        "timestamp": "2026-11-03T21:55:52.882350",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Chainlet – a daily word-chain game scored by how rare your answer is",
+        "url": "https://chainlet.online/",
+        "timestamp": "2026-11-03T21:55:52.882376",
+        "source": "Hacker News"
+    },
+    {
+        "title": "We're all bad at writing software",
+        "url": "https://blog.senko.net/were-all-bad-at-writing-software",
+        "timestamp": "2026-11-03T21:55:52.882406",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Small Print, see when an MCP server changes what it tells your agent",
+        "url": "https://smallprint.dev",
+        "timestamp": "2026-11-03T21:55:52.882459",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Topographically",
+        "url": "https://topographically.vercel.app/",
+        "timestamp": "2026-11-03T21:55:52.882486",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Books and YouTube HN Library",
+        "url": "https://vektormemory.com/blog/v2-0-4-hacker-news-books-videos-added-node-js-and-sqlite",
+        "timestamp": "2026-11-03T21:55:52.882516",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Superscalar Loop Processors",
+        "url": "https://arxiv.org/abs/2611.01904",
+        "timestamp": "2026-11-03T21:55:52.882543",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hedge Fund Presentations by Renowned Activist Investors",
+        "url": "https://www.10xebitda.com/hedge-fund-presentations/",
+        "timestamp": "2026-11-03T21:55:52.882569",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Linux 7.3: Color format control, Tyr progress, and more",
+        "url": "https://www.collabora.com/news-and-blog/news-and-events/linux-73-color-format-control-tyr-progress-and-more.html",
+        "timestamp": "2026-11-03T21:55:52.882625",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Algorithms for Optimization",
+        "url": "https://algorithmsbook.com/optimization/",
+        "timestamp": "2026-11-03T21:55:52.882652",
+        "source": "Hacker News"
+    },
+    {
+        "title": "One Last Post, and a Proper Goodbye",
+        "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+        "timestamp": "2026-11-03T16:08:07Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Let's see where you code!",
+        "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+        "timestamp": "2026-11-03T20:18:40Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "asklog",
+        "url": "https://www.producthunt.com/products/asklog",
+        "timestamp": "2026-11-02T01:03:18-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "VinSage",
+        "url": "https://www.producthunt.com/products/vinsage",
+        "timestamp": "2026-11-01T05:59:30-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "timestamp": "Tue, 03 Nov 2026 21:43:08 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "timestamp": "Tue, 03 Nov 2026 21:05:55 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+        "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+        "timestamp": "Tue, 03 Nov 2026 20:57:17 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+        "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+        "timestamp": "Tue, 03 Nov 2026 19:45:48 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "timestamp": "Tue, 03 Nov 2026 19:34:43 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+        "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+        "timestamp": "Tue, 03 Nov 2026 19:24:37 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+        "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+        "timestamp": "Tue, 03 Nov 2026 19:04:52 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+        "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+        "timestamp": "Tue, 03 Nov 2026 18:51:33 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+        "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+        "timestamp": "Tue, 03 Nov 2026 18:42:16 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+        "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+        "timestamp": "Tue, 03 Nov 2026 17:56:52 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Anthropic is still grappling with the economics of compute",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+        "timestamp": "Tue, 03 Nov 2026 17:07:01 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+        "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+        "timestamp": "Tue, 03 Nov 2026 16:49:09 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+        "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+        "timestamp": "Tue, 03 Nov 2026 16:30:34 +0000",
+        "source": "TechCrunch"
     }
 ]
