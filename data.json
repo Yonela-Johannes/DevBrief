@@ -668830,5 +668830,389 @@
         "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
         "timestamp": "Mon, 02 Nov 2026 19:11:49 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+        "url": "https://hackertimes.ca/",
+        "timestamp": "2026-11-03T08:27:26.477292",
+        "source": "Hacker News"
+    },
+    {
+        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+        "timestamp": "2026-11-03T08:27:26.477317",
+        "source": "Hacker News"
+    },
+    {
+        "title": "European RISC-V Industrial Computing Initiative",
+        "url": "https://erici.eu",
+        "timestamp": "2026-11-03T08:27:26.477339",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia – open-source auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "timestamp": "2026-11-03T08:27:26.477385",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Toit v2.0.0",
+        "url": "https://toit.io/blog/toit-v2-0-0/",
+        "timestamp": "2026-11-03T08:27:26.477427",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+        "url": "https://www.argmin.net/p/galactus-the-devourer",
+        "timestamp": "2026-11-03T08:27:26.477447",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: ReBirth 338 in Browser",
+        "url": "https://margeux.com/rb338.html",
+        "timestamp": "2026-11-03T08:27:26.477510",
+        "source": "Hacker News"
+    },
+    {
+        "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+        "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+        "timestamp": "2026-11-03T08:27:26.477530",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai/",
+        "timestamp": "2026-11-03T08:27:26.477551",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+        "url": "https://arxiv.org/abs/2608.25820",
+        "timestamp": "2026-11-03T08:27:26.477633",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+        "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+        "timestamp": "2026-11-03T08:27:26.477674",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a little browser game to practice Vim commands",
+        "url": "https://hjkl.duy.run",
+        "timestamp": "2026-11-03T08:27:26.477734",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Cloudflare experiencing multiple active incidents",
+        "url": "https://www.cloudflarestatus.com/",
+        "timestamp": "2026-11-03T08:27:26.477754",
+        "source": "Hacker News"
+    },
+    {
+        "title": "V100 SXM2 pinout and NVLink reference",
+        "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+        "timestamp": "2026-11-03T08:27:26.477876",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Smart glasses promise to turn your silent mouth movements into text (YC)",
+        "url": "https://www.theregister.com/offbeat/2026/11/02/these-smart-glasses-promise-to-turn-your-silent-mouth-movements-into-text/5307070",
+        "timestamp": "2026-11-03T08:27:26.542051",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tab Organizer – sweep away duplicate and stale Chrome tabs (free, local-first)",
+        "url": "https://chromewebstore.google.com/detail/tab-organizer-close-dupli/hgpmljkifpgkocgllffnndheblnfkcfn",
+        "timestamp": "2026-11-03T08:27:26.542086",
+        "source": "Hacker News"
+    },
+    {
+        "title": "FTC orders Delta, Uber and others to hand over data on algorithmic pricing",
+        "url": "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing",
+        "timestamp": "2026-11-03T08:27:26.542110",
+        "source": "Hacker News"
+    },
+    {
+        "title": "U.S. Pushes to Restore Russian Gas Sales to Europe via Ukraine",
+        "url": "https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7",
+        "timestamp": "2026-11-03T08:27:26.542132",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Grow your social media reach with BuyLikesServices",
+        "url": "https://news.ycombinator.com/item?id=50349435",
+        "timestamp": "2026-11-03T08:27:26.542156",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+        "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+        "timestamp": "2026-11-03T08:27:26.542180",
+        "source": "Hacker News"
+    },
+    {
+        "title": "China plans a manned lunar landing before 2030",
+        "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+        "timestamp": "2026-11-03T08:27:26.542200",
+        "source": "Hacker News"
+    },
+    {
+        "title": "DocMaker AI – Free AI Document Generator, PDF Maker and Online Editor",
+        "url": "https://docmaker.ai",
+        "timestamp": "2026-11-03T08:27:26.542220",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Behavioral evidence for two-stage sleep in spiders",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2618030123",
+        "timestamp": "2026-11-03T08:27:26.542240",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Memory Tree Map Visualizer",
+        "url": "https://github.com/thehesiod/memmap",
+        "timestamp": "2026-11-03T08:27:26.542271",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ad free, privacy-first email from Thunderbird",
+        "url": "https://www.tb.pro/en-US/",
+        "timestamp": "2026-11-03T08:27:26.542292",
+        "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-58115 – CVSS-B 10 CRITICAL – Siemens SIMATIC IoT2050 devices Node-RED",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-58115",
+        "timestamp": "2026-11-03T08:27:26.542312",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Clarpex – Free AI photo fixer, no sign-up needed",
+        "url": "https://clarpex.ai/",
+        "timestamp": "2026-11-03T08:27:26.542331",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Unbubble – a free, open-source iMessage exporter for iPhone",
+        "url": "https://thegreymirror.com/grey-mirror/unbubble",
+        "timestamp": "2026-11-03T08:27:26.542351",
+        "source": "Hacker News"
+    },
+    {
+        "title": "High-Concurrency Crawler Optimization Notes – From 1 to 10000 QPS",
+        "url": "https://blog.lyc8503.net/en/post/high-performance-crawler/",
+        "timestamp": "2026-11-03T08:27:26.542371",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AXA 2026 Future Risks Report [pdf]",
+        "url": "https://www-axa-com.cdn.prismic.io/www-axa-com/eMEnYiKwHj5OU0wX_axa_futurerisksreport_2026_va.pdf",
+        "timestamp": "2026-11-03T08:27:26.542394",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Who controls the technology we depend on?",
+        "url": "https://www.computerweekly.com/opinion/Who-controls-the-technology-we-depend-on",
+        "timestamp": "2026-11-03T08:27:26.542414",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pay-per-use APIs for AI agents",
+        "url": "https://adagasolutions.lu/toolbox/",
+        "timestamp": "2026-11-03T08:27:26.542434",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+        "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+        "timestamp": "2026-11-03T08:27:26.542454",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google patched a zero day I found and has not paid me",
+        "url": "https://github.com/jegly/jegly",
+        "timestamp": "2026-11-03T08:27:26.542474",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic IPO",
+        "url": "https://ipo.anthropic.com/us/",
+        "timestamp": "2026-11-03T08:27:26.542498",
+        "source": "Hacker News"
+    },
+    {
+        "title": "SUSE to cut one in ten employees because of AI",
+        "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+        "timestamp": "2026-11-03T08:27:26.542518",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Open models can do 90 percent of agentic work at a twentieth of the cost",
+        "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+        "timestamp": "2026-11-03T08:27:26.542538",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Who lost my lap infant?",
+        "url": "https://jtibs.substack.com/p/who-lost-my-lap-infant",
+        "timestamp": "2026-11-03T08:27:26.542558",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The software industry: annealing, but wrong",
+        "url": "https://apenwarr.ca/log/20260531-the-software-industry-annealing-but-wrong",
+        "timestamp": "2026-11-03T08:27:26.542578",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Future Maintenance of Mbed TLS",
+        "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+        "timestamp": "2026-11-03T08:27:26.542598",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GTA 6",
+        "url": "https://news.ycombinator.com/item?id=50349148",
+        "timestamp": "2026-11-03T08:27:26.542639",
+        "source": "Hacker News"
+    },
+    {
+        "title": "NIST: Small Business Cybersecurity Corner",
+        "url": "https://www.nist.gov/itl/smallbusinesscyber",
+        "timestamp": "2026-11-03T08:27:26.542660",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tempo Match – find a Spotify song at any BPM",
+        "url": "https://tempo-match.hadalin.me/",
+        "timestamp": "2026-11-03T08:27:26.542681",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I built a 3D game about my Nigerian childhood (and I'm not a game developer)",
+        "url": "https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g",
+        "timestamp": "2026-11-02T13:31:20Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.",
+        "url": "https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij",
+        "timestamp": "2026-11-02T13:18:42Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Two Truths and a Lie: Developer Edition.",
+        "url": "https://dev.to/elsie-rainee/two-truths-and-a-lie-developer-edition-k8n",
+        "timestamp": "2026-11-02T11:35:22Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Testifly",
+        "url": "https://www.producthunt.com/products/testifly-launch",
+        "timestamp": "2026-10-28T08:09:07-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "AgentKit (by Scalekit)",
+        "url": "https://www.producthunt.com/products/scalekit",
+        "timestamp": "2026-10-13T07:16:55-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Teamily AI",
+        "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+        "timestamp": "2026-06-02T18:43:42-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Wavefunction",
+        "url": "https://www.producthunt.com/products/wavefunction",
+        "timestamp": "2026-10-31T19:32:59-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "HoldTalk",
+        "url": "https://www.producthunt.com/products/holdtalk",
+        "timestamp": "2026-11-01T13:18:13-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Scrawl",
+        "url": "https://www.producthunt.com/products/scrawl-2",
+        "timestamp": "2026-11-02T08:16:17-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Testera",
+        "url": "https://www.producthunt.com/products/testera-3",
+        "timestamp": "2026-11-02T05:52:38-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "One Roof",
+        "url": "https://www.producthunt.com/products/one-roof",
+        "timestamp": "2026-11-02T17:06:08-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "MagicaLCore",
+        "url": "https://www.producthunt.com/products/magical-core-image-classifier",
+        "timestamp": "2026-10-20T12:48:02-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Flockbay",
+        "url": "https://www.producthunt.com/products/flockbay",
+        "timestamp": "2026-11-02T11:12:01-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Infino AI",
+        "url": "https://www.producthunt.com/products/infino-ai",
+        "timestamp": "2026-11-02T02:28:29-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Akema",
+        "url": "https://www.producthunt.com/products/akema",
+        "timestamp": "2026-11-02T09:06:41-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "NEXUPIRA",
+        "url": "https://www.producthunt.com/products/nexupira",
+        "timestamp": "2026-11-02T22:48:10-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Videco",
+        "url": "https://www.producthunt.com/products/videco",
+        "timestamp": "2026-10-22T03:55:05-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+        "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+        "timestamp": "Tue, 03 Nov 2026 08:01:00 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+        "timestamp": "Tue, 03 Nov 2026 07:20:00 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "timestamp": "Tue, 03 Nov 2026 03:30:00 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "timestamp": "Tue, 03 Nov 2026 01:49:52 +0000",
+        "source": "TechCrunch"
     }
 ]
