@@ -671590,5 +671590,293 @@
         "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
         "timestamp": "Wed, 04 Nov 2026 22:45:09 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Lemmings CSS Animation",
+        "url": "https://markblah.github.io/lemmings/",
+        "timestamp": "2026-11-05T10:37:25.284799",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Baidu dropped ERNIE 5.5 Flash Base",
+        "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+        "timestamp": "2026-11-05T10:37:25.284821",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Spreading Liquid with Three.js",
+        "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+        "timestamp": "2026-11-05T10:37:25.284939",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+        "url": "https://www.altera.com/newsroom/agilex-2x",
+        "timestamp": "2026-11-05T10:37:25.284994",
+        "source": "Hacker News"
+    },
+    {
+        "title": "TextEdit vs. Pages",
+        "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+        "timestamp": "2026-11-05T10:37:25.285013",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Replacing homepage demo media with looping HTML and CSS",
+        "url": "https://stepshots.com/css-feature-clips",
+        "timestamp": "2026-11-05T10:37:25.285139",
+        "source": "Hacker News"
+    },
+    {
+        "title": "So my ISP was hijacking my DNS",
+        "url": "https://www.karthihegde.dev/posts/dns_tampering",
+        "timestamp": "2026-11-05T10:37:25.285157",
+        "source": "Hacker News"
+    },
+    {
+        "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+        "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+        "timestamp": "2026-11-05T10:37:25.285286",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Patching the PHP and Node.js Vulnerabilities",
+        "url": "https://laravel.com/blog/php-nodejs-vulnerabilities-post-mortem",
+        "timestamp": "2026-11-05T10:37:25.489791",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How do you use AI to learn complex new topics?",
+        "url": "https://news.ycombinator.com/item?id=50377523",
+        "timestamp": "2026-11-05T10:37:25.489824",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Agent Delegability Index: How much of the work can AI agents take over?",
+        "url": "https://balamlabs.org/adi",
+        "timestamp": "2026-11-05T10:37:25.489846",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Simon Glass removed from U-Boot community",
+        "url": "https://lore.kernel.org/u-boot/CALeDE9Pu2rzu_zaWr=XAux88nV-LJ9_AYfLB8D6EECgm-BbeCg@mail.gmail.com/",
+        "timestamp": "2026-11-05T10:37:25.489866",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Master of Puppets: Voice-Driven Agent Development",
+        "url": "https://xlii.space/eng/master-of-puppets-voice-driven-agent-development/",
+        "timestamp": "2026-11-05T10:37:25.489886",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+        "url": "https://www.reddit.com/r/vivaldibrowser/comments/1xocy1w/vivaldi_83_for_desktop_make_bad_ads_sad/",
+        "timestamp": "2026-11-05T10:37:25.489905",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Distill anyone's writing style into a skill",
+        "url": "https://github.com/xatuke/mimic",
+        "timestamp": "2026-11-05T10:37:25.489926",
+        "source": "Hacker News"
+    },
+    {
+        "title": "KVGuard: A KV Cache Safety Checker for LLM Serving Systems",
+        "url": "https://arxiv.org/abs/2611.06138",
+        "timestamp": "2026-11-05T10:37:25.489946",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Kinference: Open-source inference control plane for vLLM",
+        "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+        "timestamp": "2026-11-05T10:37:25.489965",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Grasmere: Markdown for Writers and Researchers",
+        "url": "https://grasmere.app/",
+        "timestamp": "2026-11-05T10:37:25.489983",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Cert-In flags vulnerability in Tata Motors' mobile apps",
+        "url": "https://www.thehindubusinessline.com/companies/cert-in-flags-vulnerability-in-tata-motors-mobile-apps-ira-20-iraev/article71669300.ece",
+        "timestamp": "2026-11-05T10:37:25.490001",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MyArc, an open-source Chromium browser that works like Arc",
+        "url": "https://myarc.dev/",
+        "timestamp": "2026-11-05T10:37:25.490020",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Secret Geography of UK Philanthropy",
+        "url": "https://data.useplinth.com/uk/reports/secret-geography",
+        "timestamp": "2026-11-05T10:37:25.490038",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pcap-Diagnose – SIP/VoIP trace analysis that masks PII locally first",
+        "url": "https://pcap-diagnose.de/demo/en",
+        "timestamp": "2026-11-05T10:37:25.490058",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Nexa",
+        "url": "https://nexa-social-platform-buzi.bolt.host/",
+        "timestamp": "2026-11-05T10:37:25.490076",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: FranklyMail, business email and workspace tools for $9/year",
+        "url": "https://franklymail.com/",
+        "timestamp": "2026-11-05T10:37:25.490095",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+        "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+        "timestamp": "2026-11-05T10:37:25.490134",
+        "source": "Hacker News"
+    },
+    {
+        "title": "HN: Envelox: Secure en Private PGP email",
+        "url": "https://testflight.apple.com/join/upeNtXP7",
+        "timestamp": "2026-11-05T10:37:25.490152",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Craft Anything: understand how any software works, and craft your own",
+        "url": "https://github.com/storytold/craft-anything",
+        "timestamp": "2026-11-05T10:37:25.490170",
+        "source": "Hacker News"
+    },
+    {
+        "title": "One in 20 UK adults now pays for an AI assistant",
+        "url": "https://whopaysfor.ai/",
+        "timestamp": "2026-11-05T10:37:25.490188",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Experiments trying to push the boundaries of Amiga Games with AI [video]",
+        "url": "https://www.youtube.com/watch?v=JoeP7mhcq3A",
+        "timestamp": "2026-11-05T10:37:25.490208",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A History of Backdoors (2015)",
+        "url": "https://blog.cryptographyengineering.com/2015/07/20/a-history-of-backdoors/",
+        "timestamp": "2026-11-05T10:37:25.490226",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Number Parsing at a Gigabyte per Second",
+        "url": "https://arxiv.org/abs/2101.11408",
+        "timestamp": "2026-11-05T10:37:25.490244",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Machine Learning – A First Course for Engineers and Scientists",
+        "url": "https://smlbook.org/",
+        "timestamp": "2026-11-05T10:37:25.490262",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Oleshky Ceasefire Shows That Russia Can, but Won't End Civilian Suffering in Ukr",
+        "url": "https://understandingwar.org/research/russia-ukraine/oleshky-ceasefire-demonstrates-that-russia-has-the-capability-but-not-the-will-to-end-civilian-suffering-in-ukraine/",
+        "timestamp": "2026-11-05T10:37:25.490280",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Review Lens – review pull requests inside your JetBrains IDE",
+        "url": "https://github.com/vatsarishabh22/review-lens",
+        "timestamp": "2026-11-05T10:37:25.490298",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Unreal Engine 6 at Unreal Fest Tokyo 2026 – No C++, No Blueprints [video]",
+        "url": "https://www.youtube.com/watch?v=i0wZCIhqveQ",
+        "timestamp": "2026-11-05T10:37:25.490335",
+        "source": "Hacker News"
+    },
+    {
+        "title": "StreetComplete is now available in the iOS AppStore",
+        "url": "https://apps.apple.com/de/app/streetcomplete/id6808344816",
+        "timestamp": "2026-11-05T10:37:25.490357",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How Hackers Weaponized DEV.to's Mention System to Spread a Phishing Scam",
+        "url": "https://dev.to/ggle_in/how-hackers-weaponized-devtos-mention-system-to-spread-a-phishing-scam-1j7c",
+        "timestamp": "2026-11-04T20:27:26Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "\"Mandatory user verification\" on DEV is a scam. Here's how to spot it in 30 seconds.",
+        "url": "https://dev.to/ayoub_hammoudi/mandatory-user-verification-on-dev-is-a-scam-heres-how-to-spot-it-in-30-seconds-1594",
+        "timestamp": "2026-11-04T19:09:50Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "AI Employees by Easy-Peasy.AI",
+        "url": "https://www.producthunt.com/products/easy-peasy-ai",
+        "timestamp": "2026-11-03T22:19:49-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Living Brain",
+        "url": "https://www.producthunt.com/products/chatandbuild",
+        "timestamp": "2026-11-02T07:07:36-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Clocknext",
+        "url": "https://www.producthunt.com/products/clocknext",
+        "timestamp": "2026-11-02T03:41:56-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "SafetyClip",
+        "url": "https://www.producthunt.com/products/safetyclip",
+        "timestamp": "2026-11-04T00:40:49-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "ChatGPT Images 2.6",
+        "url": "https://www.producthunt.com/products/chatgpt-images-2-6",
+        "timestamp": "2026-11-04T16:41:38-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Rainbrand",
+        "url": "https://www.producthunt.com/products/rainbrand",
+        "timestamp": "2026-10-26T03:25:50-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "SnapTiles",
+        "url": "https://www.producthunt.com/products/snaptiles",
+        "timestamp": "2026-10-28T06:06:04-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Bambu Lab H3C",
+        "url": "https://www.producthunt.com/products/bambu-lab-h3c",
+        "timestamp": "2026-11-03T18:19:41-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Glasshand",
+        "url": "https://www.producthunt.com/products/glasshand",
+        "timestamp": "2026-11-02T12:28:39-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Seamcult",
+        "url": "https://www.producthunt.com/products/seamcult",
+        "timestamp": "2026-11-03T03:42:12-08:00",
+        "source": "Product Hunt — The best new products, every day"
     }
 ]
