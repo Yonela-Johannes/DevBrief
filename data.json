@@ -672358,5 +672358,293 @@
         "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
         "timestamp": "Thu, 05 Nov 2026 14:55:31 +0000",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "Search for everyone",
+        "url": "https://kagi.com/changelog#11820",
+        "timestamp": "2026-11-05T23:43:52.114805",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "timestamp": "2026-11-05T23:43:52.114865",
+        "source": "Hacker News"
+    },
+    {
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "timestamp": "2026-11-05T23:43:52.114906",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Hackintosh Reborn",
+        "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+        "timestamp": "2026-11-05T23:43:52.115035",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+        "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+        "timestamp": "2026-11-05T23:43:52.115071",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Goodbye from Salon",
+        "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+        "timestamp": "2026-11-05T23:43:52.115180",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Cost of Blogging",
+        "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+        "timestamp": "2026-11-05T23:43:52.115215",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+        "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+        "timestamp": "2026-11-05T23:43:52.115678",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+        "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+        "timestamp": "2026-11-05T23:43:52.115839",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Video.js: The Documentary",
+        "url": "https://www.youtube.com/watch?v=Kpka8SYbosg",
+        "timestamp": "2026-11-05T23:43:52.359682",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LLMBrake – Per-customer dollar caps for OpenAI/Anthropic API calls",
+        "url": "https://github.com/llmbrake/llmbrake",
+        "timestamp": "2026-11-05T23:43:52.359734",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Bruster – Rust browser automation tool and MCP",
+        "url": "https://github.com/aliilyas/bruster",
+        "timestamp": "2026-11-05T23:43:52.359770",
+        "source": "Hacker News"
+    },
+    {
+        "title": "X-ray measurements confirm altermagnetism, a third form of magnetism",
+        "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70510.php",
+        "timestamp": "2026-11-05T23:43:52.359805",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
+        "url": "https://www.nytimes.com/2026/11/05/business/letterboxd-new-york-times-company.html",
+        "timestamp": "2026-11-05T23:43:52.359840",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Algospeak",
+        "url": "https://en.wikipedia.org/wiki/Algospeak",
+        "timestamp": "2026-11-05T23:43:52.359880",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+        "url": "https://www.fgc.org.br/comunicado",
+        "timestamp": "2026-11-05T23:43:52.359913",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lab Canary – Rating AI labs on whether their staff can speak up",
+        "url": "https://labcanary.com/",
+        "timestamp": "2026-11-05T23:43:52.359946",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Exo: An Architecture for Self-Improving Systems at Runtime",
+        "url": "https://arxiv.org/abs/2611.00463",
+        "timestamp": "2026-11-05T23:43:52.359986",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to Train a Swarm",
+        "url": "https://www.gr.inc/blog/how-to-train-a-swarm",
+        "timestamp": "2026-11-05T23:43:52.360054",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Stenvakt, a server hardening and patching tool",
+        "url": "https://stenvakt.com/",
+        "timestamp": "2026-11-05T23:43:52.360090",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Formally verifying agent-written full-stack apps with Proof-Driven Development",
+        "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+        "timestamp": "2026-11-05T23:43:52.360124",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What They Don't Tell You About Autoimmune Disorders",
+        "url": "https://www.midwesterndoctor.com/p/what-they-dont-tell-you-about-autoimmune",
+        "timestamp": "2026-11-05T23:43:52.360157",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Boolean PII Flag Is Not Enough",
+        "url": "https://kore-nordmann.de/blog/a-boolean-pii-flag-is-not-enough.html",
+        "timestamp": "2026-11-05T23:43:52.360190",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: HackerRepos – HackerTube for repos mentioned on HN",
+        "url": "https://HackerRepos.fyi/",
+        "timestamp": "2026-11-05T23:43:52.360223",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Data Science Weekly – Issue 676",
+        "url": "https://datascienceweekly.substack.com/p/data-science-weekly-issue-676",
+        "timestamp": "2026-11-05T23:43:52.360256",
+        "source": "Hacker News"
+    },
+    {
+        "title": "HN movies picks as a Stremio addon",
+        "url": "https://hn-stremio.alen.ro/",
+        "timestamp": "2026-11-05T23:43:52.360287",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Founder to Investor Map: South Africa",
+        "url": "https://substack.com/profile/227905418-tiru-naidu/note/c-379902591",
+        "timestamp": "2026-11-05T23:43:52.360324",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ads in popular apps give police a powerful tool to spy on users",
+        "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+        "timestamp": "2026-11-05T23:43:52.360357",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Does a team of coding agents beat one agent?",
+        "url": "https://programmingtheloop.com/experiments/swarm-tax/",
+        "timestamp": "2026-11-05T23:43:52.360392",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Radar – offline peer-to-peer chat and live situational map for Android",
+        "url": "https://www.radar-chat.app",
+        "timestamp": "2026-11-05T23:43:52.360459",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Data scientist David Shor on how his party won a historic landslide",
+        "url": "https://www.vox.com/politics/509476/midterm-elections-2026-trump-democrats-david-shor-iran",
+        "timestamp": "2026-11-05T23:43:52.360492",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why the search for particle dark matter is hopeless, part 2",
+        "url": "https://tritonstation.com/2026/11/05/why-the-search-for-particle-dark-matter-is-really-hopeless-part-2/",
+        "timestamp": "2026-11-05T23:43:52.360525",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Rename the World",
+        "url": "https://renamethe.world/",
+        "timestamp": "2026-11-05T23:43:52.360557",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open-world text adventure played through AI agents",
+        "url": "https://eremoterra.com/",
+        "timestamp": "2026-11-05T23:43:52.360589",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Mid-Air Encounter: F-16 Rams Plane Near Mar-a-Lago [video]",
+        "url": "https://www.youtube.com/watch?v=5Y7lTEUA2hk",
+        "timestamp": "2026-11-05T23:43:52.360620",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Sweet Spot: How One Brain and Thousands of Micro-Adapters Could Save Open AI",
+        "url": "https://operator0x.com/field-notes/smaller-memory-bill/",
+        "timestamp": "2026-11-05T23:43:52.360653",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Post-AI Computer Science",
+        "url": "https://thingspool.net/shards-of-sanity/list.html",
+        "timestamp": "2026-11-05T23:43:52.360685",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Thursday's $3T tech sell-off, and what it means if you build AI products",
+        "url": "https://vithushansylvester.com/writing/the-3-trillion-thursday",
+        "timestamp": "2026-11-05T23:43:52.360718",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+        "url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
+        "timestamp": "2026-11-05T21:12:11Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
+        "url": "https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00",
+        "timestamp": "2026-11-05T11:29:41Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "CC Auto Review",
+        "url": "https://www.producthunt.com/products/cc-auto-review",
+        "timestamp": "2026-11-04T20:54:13-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Wingmen",
+        "url": "https://www.producthunt.com/products/wingmen",
+        "timestamp": "2026-10-29T13:59:23-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "timestamp": "Thu, 05 Nov 2026 22:40:55 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Serve Robotics launches new business to become the AWS for robots",
+        "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+        "timestamp": "Thu, 05 Nov 2026 21:15:00 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+        "timestamp": "Thu, 05 Nov 2026 19:48:28 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+        "timestamp": "Thu, 05 Nov 2026 19:12:39 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+        "timestamp": "Thu, 05 Nov 2026 19:06:12 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+        "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+        "timestamp": "Thu, 05 Nov 2026 18:48:34 +0000",
+        "source": "TechCrunch"
     }
 ]
