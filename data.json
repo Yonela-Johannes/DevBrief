@@ -672874,5 +672874,335 @@
         "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
         "timestamp": "Fri, 06 Nov 2026 00:01:38 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+        "url": "https://github.com/ppmpreetham/BUI",
+        "timestamp": "2026-11-06T11:37:49.358956",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+        "timestamp": "2026-11-06T11:37:49.359011",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+        "url": "https://jhr.pensoft.net/articles.php?id=9096",
+        "timestamp": "2026-11-06T11:37:49.359050",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+        "url": "https://apps.metaebene.me/en/kugelblitz",
+        "timestamp": "2026-11-06T11:37:49.359122",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hardcoded credentials and other issues in Tata Motors App",
+        "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+        "timestamp": "2026-11-06T11:37:49.359259",
+        "source": "Hacker News"
+    },
+    {
+        "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+        "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+        "timestamp": "2026-11-06T11:37:49.359292",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+        "url": "https://worldstrike.fun/",
+        "timestamp": "2026-11-06T11:37:49.359359",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I struggle to believe that AI R&D is ingenious",
+        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "timestamp": "2026-11-06T11:37:49.359489",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Britain to make salary disclosure in job ads mandatory",
+        "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+        "timestamp": "2026-11-06T11:37:49.359520",
+        "source": "Hacker News"
+    },
+    {
+        "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+        "url": "https://obelisk.club/research/app-store-2026",
+        "timestamp": "2026-11-06T11:37:49.359615",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Together Compiler: Continual Compilation for AI Inference",
+        "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+        "timestamp": "2026-11-06T11:37:49.577699",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The True Story of Audion",
+        "url": "https://www.panic.com/extras/audionstory/",
+        "timestamp": "2026-11-06T11:37:49.577843",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Building a messenger without phone numbers: the hard problems",
+        "url": "https://www.joinmorse.com/blog/messenger-without-phone-numbers",
+        "timestamp": "2026-11-06T11:37:49.577877",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Detecting signs of hypertension using wearable sensors",
+        "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+        "timestamp": "2026-11-06T11:37:49.577911",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Breath Harbor",
+        "url": "https://breathharbor.com/tools",
+        "timestamp": "2026-11-06T11:37:49.577943",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Lockdown Mode Bypassed in New iPhone Exploit",
+        "url": "https://www.privacyguides.org/news/2026/11/06/lockdown-mode-bypassed-in-new-iphone-exploit/",
+        "timestamp": "2026-11-06T11:37:49.577974",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Missing Lessons about Life",
+        "url": "https://sekor.eu.org/x/mem/",
+        "timestamp": "2026-11-06T11:37:49.578005",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Software Line Specialist",
+        "url": "https://lovro-bikic.github.io/software-line-specialist/",
+        "timestamp": "2026-11-06T11:37:49.578037",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Xenharmonic Wiki of Tuning Systems",
+        "url": "https://en.xen.wiki/w/Main_Page",
+        "timestamp": "2026-11-06T11:37:49.578068",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Rindraw – drawing and animation app for iPad, iPhone and Mac",
+        "url": "https://rindraw.com/",
+        "timestamp": "2026-11-06T11:37:49.578100",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Linux-use – agent-first GUI control for Linux",
+        "url": "https://javimosch.github.io/linux-use/",
+        "timestamp": "2026-11-06T11:37:49.578131",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Firms told to publish salaries in job adverts ahead of new law",
+        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+        "timestamp": "2026-11-06T11:37:49.578167",
+        "source": "Hacker News"
+    },
+    {
+        "title": "NYSE Expands Network of Transfer Agents",
+        "url": "https://x.com/NYSE/article/2117306527149125871/media/2117301041519525888",
+        "timestamp": "2026-11-06T11:37:49.578199",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Unraveling the complexity of climate change hidden underground",
+        "url": "https://worldsensorium.com/what-lies-beneath-the-climate-story/",
+        "timestamp": "2026-11-06T11:37:49.578231",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic is rapidly accelerating AI development amid slowdown calls",
+        "url": "https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23",
+        "timestamp": "2026-11-06T11:37:49.578265",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tesla to axe Cybertruck as Musk shifts focus to robotics and AI",
+        "url": "https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98",
+        "timestamp": "2026-11-06T11:37:49.578296",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+        "url": "https://blue-continuum.com/branching-beyond-leonardo",
+        "timestamp": "2026-11-06T11:37:49.578327",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Black Pixel – 69-byte inverse of the Million Dollar Homepage",
+        "url": "https://black-pixel-1x1.vercel.app",
+        "timestamp": "2026-11-06T11:37:49.578358",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Media manager that connects to your streaming services and connected speakers",
+        "url": "https://www.music-assistant.io/",
+        "timestamp": "2026-11-06T11:37:49.578389",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Homomorphic Encryption for Pseudonymization – privacy enabled data-sharing",
+        "url": "https://belfortlabs.com/blog/smals-blind-pseudonymization",
+        "timestamp": "2026-11-06T11:37:49.578424",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Docker group is root access, my agent used it to write to /etc.",
+        "url": "https://jeena.net/notes/1497",
+        "timestamp": "2026-11-06T11:37:49.578455",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Open Source Spotify client library",
+        "url": "https://github.com/librespot-org/librespot",
+        "timestamp": "2026-11-06T11:37:49.578487",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Designing Rust APIs around KEM, AEAD and key derivation workflows",
+        "url": "https://github.com/lecodev-26/nexus-q",
+        "timestamp": "2026-11-06T11:37:49.578518",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Denmark to rule on 'parallel societies' after 'non-western' people evicted",
+        "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
+        "timestamp": "2026-11-06T11:37:49.578550",
+        "source": "Hacker News"
+    },
+    {
+        "title": "\"The AI Bubble Lesson Is Coming\" – NYU Professor Aswath Damodaran [video]",
+        "url": "https://www.youtube.com/watch?v=dOIFazFlvlc",
+        "timestamp": "2026-11-06T11:37:49.578581",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Irish national broadcaster RTÉ, other media groups evacuated after bomb threat",
+        "url": "https://www.rte.ie/news/ireland/2026/1106/1598241-rte-evacuation/",
+        "timestamp": "2026-11-06T11:37:49.578614",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ostdb, an open database of official video game soundtrack",
+        "url": "https://ostdb.net/",
+        "timestamp": "2026-11-06T11:37:49.578677",
+        "source": "Hacker News"
+    },
+    {
+        "title": "An AI Testing Presentation Became the Final Push for Organizational Change at My Company",
+        "url": "https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag",
+        "timestamp": "2026-11-06T01:27:32Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "One Markdown File Can Hijack Your AI Coding Agent: The Hidden Cost of Blindly Trusting AGENTS.md",
+        "url": "https://dev.to/johnnylemonny/one-markdown-file-can-hijack-your-ai-coding-agent-the-hidden-cost-of-blindly-trusting-agentsmd-167n",
+        "timestamp": "2026-11-05T15:30:00Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
+        "url": "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5",
+        "timestamp": "2026-11-05T07:29:16Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "crystl",
+        "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+        "timestamp": "2026-11-05T18:44:33-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Thunderduck Inc.",
+        "url": "https://www.producthunt.com/products/thunderduck-inc",
+        "timestamp": "2026-11-04T21:38:06-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Cloptima",
+        "url": "https://www.producthunt.com/products/cloptima",
+        "timestamp": "2026-11-05T15:40:34-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "axel.md",
+        "url": "https://www.producthunt.com/products/axel-3",
+        "timestamp": "2026-11-03T14:39:14-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "EdgeBar",
+        "url": "https://www.producthunt.com/products/edgebar",
+        "timestamp": "2026-11-02T03:39:27-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Openroster",
+        "url": "https://www.producthunt.com/products/openroster",
+        "timestamp": "2026-11-05T06:19:55-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Earth Stats",
+        "url": "https://www.producthunt.com/products/earth-stats",
+        "timestamp": "2026-11-05T05:18:56-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Royak",
+        "url": "https://www.producthunt.com/products/royak",
+        "timestamp": "2026-10-23T10:32:53-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Moatly",
+        "url": "https://www.producthunt.com/products/moatly-2",
+        "timestamp": "2026-11-05T03:51:41-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Vakilat",
+        "url": "https://www.producthunt.com/products/vakilat",
+        "timestamp": "2026-11-03T11:34:46-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Plainmail",
+        "url": "https://www.producthunt.com/products/plainmail",
+        "timestamp": "2026-11-05T10:55:10-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Mechvibes 3",
+        "url": "https://www.producthunt.com/products/mechvibes",
+        "timestamp": "2026-10-30T09:02:11-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "SafeGrd",
+        "url": "https://www.producthunt.com/products/safegrd",
+        "timestamp": "2026-11-02T03:51:56-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+        "url": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+        "timestamp": "Fri, 06 Nov 2026 07:18:44 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "timestamp": "Fri, 06 Nov 2026 06:28:32 +0000",
+        "source": "TechCrunch"
     }
 ]
