@@ -674482,5 +674482,269 @@
         "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
         "timestamp": "Sat, 07 Nov 2026 04:16:43 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "The $8 Linux Computer (2022)",
+        "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+        "timestamp": "2026-11-07T16:32:26.409211",
+        "source": "Hacker News"
+    },
+    {
+        "title": "British Library Legal deposit and web archiving",
+        "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+        "timestamp": "2026-11-07T16:32:26.409349",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tasfer: a text editor drawn on a 2D canvas",
+        "url": "https://www.hamza.se/blog/tasfer",
+        "timestamp": "2026-11-07T16:32:26.409403",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Building the NBC News Big Board",
+        "url": "https://ejfox.com/projects/nbc-big-board",
+        "timestamp": "2026-11-07T16:32:26.409454",
+        "source": "Hacker News"
+    },
+    {
+        "title": "ToothPaste",
+        "url": "https://brisk4t.github.io/blog/toothpaste/",
+        "timestamp": "2026-11-07T16:32:26.409480",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+        "url": "https://github.com/hyphatech/spindle",
+        "timestamp": "2026-11-07T16:32:26.409506",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+        "url": "https://news.ycombinator.com/item?id=50405250",
+        "timestamp": "2026-11-07T16:32:26.409702",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
+        "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+        "timestamp": "2026-11-07T16:32:26.409754",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Upload Your RAM",
+        "url": "https://uploadyourram.org",
+        "timestamp": "2026-11-07T16:32:26.409909",
+        "source": "Hacker News"
+    },
+    {
+        "title": "US sanctions Canadian money-exchange firms over Iran ties",
+        "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties",
+        "timestamp": "2026-11-07T16:32:26.633801",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What's My ΔE? – Chromatic Census",
+        "url": "https://muldoon.design/playground/whats-my-delta-e",
+        "timestamp": "2026-11-07T16:32:26.633849",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Postgres 19 Tackles One of Its Oldest Problems: Table Bloat",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "timestamp": "2026-11-07T16:32:26.633879",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Scrutinize Our Assessments",
+        "url": "https://daniel.haxx.se/blog/2026/11/03/scrutinize-our-assessments/",
+        "timestamp": "2026-11-07T16:32:26.633908",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+        "timestamp": "2026-11-07T16:32:26.633935",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Just 3 grams of creatine a day improved measures of cognitive function",
+        "url": "https://twitter.com/foundmyfitness/status/2119101382594609303",
+        "timestamp": "2026-11-07T16:32:26.633961",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The US let Nvidia sell chips to an empty office in China",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "timestamp": "2026-11-07T16:32:26.633987",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Native Shell (NSH) is a native UI framework. Build once, native everywhere",
+        "url": "https://github.com/longbridge/nsh",
+        "timestamp": "2026-11-07T16:32:26.634013",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How Long Can Life Wait?",
+        "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+        "timestamp": "2026-11-07T16:32:26.634038",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Every processor die anyone has photographed and given away",
+        "url": "https://sheets.works/data-viz/cpu-dies",
+        "timestamp": "2026-11-07T16:32:26.634064",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Computing Without Processors (2011)",
+        "url": "https://dl.acm.org/doi/epdf/10.1145/1978542.1978558",
+        "timestamp": "2026-11-07T16:32:26.634089",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Monitoring a VPS without opening a single inbound port",
+        "url": "https://vpspilot.dev/blog/no-inbound-ports/",
+        "timestamp": "2026-11-07T16:32:26.634115",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Etch Lab",
+        "url": "https://kharelpk.github.io/etch-lab/",
+        "timestamp": "2026-11-07T16:32:26.634140",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Reusing Exploits to Hijack Tower of Fantasy Accounts",
+        "url": "https://hunio.org/security/tof-account-takeover/",
+        "timestamp": "2026-11-07T16:32:26.634169",
+        "source": "Hacker News"
+    },
+    {
+        "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "url": "https://0rwx.com/",
+        "timestamp": "2026-11-07T16:32:26.634194",
+        "source": "Hacker News"
+    },
+    {
+        "title": "BYD Yangwang U9 Xtreme electric car – 503 km/h Top speed World Record [video]",
+        "url": "https://www.youtube.com/watch?v=F0ZbbVUAx3c",
+        "timestamp": "2026-11-07T16:32:26.634222",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I built Winbux, a shared 4-digit code puzzle with a gift card prize",
+        "url": "https://winbux.xyz/?lang=en",
+        "timestamp": "2026-11-07T16:32:26.634248",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Datastructures-JS – The JavaScript data structures project",
+        "url": "https://github.com/datastructures-js",
+        "timestamp": "2026-11-07T16:32:26.634274",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Echoloc: A minimalist echolocation horror videogame",
+        "url": "https://level102.itch.io/echoloc",
+        "timestamp": "2026-11-07T16:32:26.634300",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Web support is coming back to Unreal in preview next week",
+        "url": "https://ixbt.games/en/news/2026/11/04/unreal-engine-59-vyidet-na-sleduiushhei-nedele-epic-gotovit-spornoe-novovvedenie-s-ii.html",
+        "timestamp": "2026-11-07T16:32:26.634325",
+        "source": "Hacker News"
+    },
+    {
+        "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+        "url": "https://kevinboone.me/tpwin.html",
+        "timestamp": "2026-11-07T16:32:26.634350",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Terry Pratchett's Study",
+        "url": "https://www.sussi.dk/terry-pratchetts-study",
+        "timestamp": "2026-11-07T16:32:26.634376",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Iyi: A friendly, fast programming language for people and their agents",
+        "url": "https://github.com/iyilang/iyi",
+        "timestamp": "2026-11-07T16:32:26.634402",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Selective Mutism",
+        "url": "https://en.wikipedia.org/wiki/Selective_mutism",
+        "timestamp": "2026-11-07T16:32:26.634428",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A 1:12 scale model of Terry Pratchett's study",
+        "url": "https://hachyderm.io/@datarama/117574934175467021",
+        "timestamp": "2026-11-07T16:32:26.634452",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
+        "url": "https://antonau.tech/posts/2026/11/agents-microvm-firecracker/",
+        "timestamp": "2026-11-07T16:32:26.634478",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why the 300-year-old novel Gulliver's Travels is so misunderstood",
+        "url": "https://www.bbc.com/culture/article/20261106-why-the-300-year-old-novel-gullivers-travels-is-so-misunderstood",
+        "timestamp": "2026-11-07T16:32:26.634503",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I'm Done with Google (2022)",
+        "url": "https://deijin.bearblog.dev/im-done-with-google/",
+        "timestamp": "2026-11-07T16:32:26.634528",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New Ways to Read Ebooks",
+        "url": "https://ironicsans.ghost.io/plex-but-make-it-books/",
+        "timestamp": "2026-11-07T16:32:26.634552",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Plug for the Spartan Protocol",
+        "url": "https://kevinboone.me/plugging_spartan.html",
+        "timestamp": "2026-11-07T16:32:26.634577",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+        "url": "https://dev.to/wasp/a-maintainers-advice-on-contributing-to-open-source-in-2026-4ea1",
+        "timestamp": "2026-11-05T09:21:35Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "PacerTrip",
+        "url": "https://www.producthunt.com/products/pacertrip",
+        "timestamp": "2026-10-22T04:54:24-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Google Omni 1.2 Flash",
+        "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
+        "timestamp": "2026-11-05T09:10:35-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Rex (Beta)",
+        "url": "https://www.producthunt.com/products/superlogical",
+        "timestamp": "2026-11-06T06:50:09-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Fleeep",
+        "url": "https://www.producthunt.com/products/fleeep",
+        "timestamp": "2026-11-03T04:41:45-08:00",
+        "source": "Product Hunt — The best new products, every day"
     }
 ]
