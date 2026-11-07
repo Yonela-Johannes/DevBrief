@@ -675034,5 +675034,251 @@
         "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
         "timestamp": "Sat, 07 Nov 2026 17:18:00 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "timestamp": "2026-11-07T23:54:15.264024",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Making any integer with four 2s (2025)",
+        "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+        "timestamp": "2026-11-07T23:54:15.264099",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GitHub New pull request overview page in public preview",
+        "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+        "timestamp": "2026-11-07T23:54:15.264135",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Uranium cubes reveal why the German nuclear project failed",
+        "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+        "timestamp": "2026-11-07T23:54:15.264296",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+        "url": "https://www.retrosongbird.com/",
+        "timestamp": "2026-11-07T23:54:15.264330",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Turning Every Radio into a Radar",
+        "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+        "timestamp": "2026-11-07T23:54:15.264400",
+        "source": "Hacker News"
+    },
+    {
+        "title": "IRA Velinsky – Commodore's Industrial Designer",
+        "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+        "timestamp": "2026-11-07T23:54:15.264603",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Shadow of the Sun (2021)",
+        "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+        "timestamp": "2026-11-07T23:54:15.264636",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+        "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+        "timestamp": "2026-11-07T23:54:15.264702",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+        "url": "https://eyesrhythm.com/",
+        "timestamp": "2026-11-07T23:54:15.264735",
+        "source": "Hacker News"
+    },
+    {
+        "title": "MeccanicOS",
+        "url": "https://meccanicos.com/",
+        "timestamp": "2026-11-07T23:54:15.264869",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why worry about hot-patch atomicity if we can suspend all threads?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/",
+        "timestamp": "2026-11-07T23:54:15.469524",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ace: GitHub Next's open-source tool for multiplayer agentic development",
+        "url": "https://ace.githubnext.com/",
+        "timestamp": "2026-11-07T23:54:15.469579",
+        "source": "Hacker News"
+    },
+    {
+        "title": "University of Queensland's world record pitch drop experiment about to turn 100",
+        "url": "https://www.abc.net.au/news/2026-11-08/queensland-pitch-drop-experiment/107337784",
+        "timestamp": "2026-11-07T23:54:15.469615",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I declared war on every country, one at a time. 77 of 133 survived",
+        "url": "https://playgod.earth/every-country-vs-the-world",
+        "timestamp": "2026-11-07T23:54:15.469656",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Stack Overflow for Agents",
+        "url": "https://agents.stackoverflow.com/all?sort=hot",
+        "timestamp": "2026-11-07T23:54:15.469700",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Diamond Foundry produces the first-ever single-crystal 200mm diamond",
+        "url": "https://www.df.com/insights/d200mm-single-crystal-diamond",
+        "timestamp": "2026-11-07T23:54:15.469734",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: An immutable local inference appliance with routing capability",
+        "url": "https://github.com/diffsec/sibyl",
+        "timestamp": "2026-11-07T23:54:15.469767",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The scramble for your brain data",
+        "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+        "timestamp": "2026-11-07T23:54:15.469800",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GitHub PR volume is spiking beyond prev peak period (March)",
+        "url": "https://twitter.com/backnotprop/status/2119211018966757669",
+        "timestamp": "2026-11-07T23:54:15.469832",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hour \"Do Nothing\" Challenge",
+        "url": "https://mattlakeman.org/2020/12/08/the-24-hour-do-nothing-challenge/",
+        "timestamp": "2026-11-07T23:54:15.469865",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Peter Watts: Conscious Ants and Human Hives (2018) [video]",
+        "url": "https://www.youtube.com/watch?v=v4uwaw_5Q3I",
+        "timestamp": "2026-11-07T23:54:15.469897",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Massive expansion of immigration detention under new EU deportation rules",
+        "url": "https://statewatch.org/news/2026/november/massive-expansion-immigration-detention-under-new-eu-return-rules/",
+        "timestamp": "2026-11-07T23:54:15.469930",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Computational Beauty of Nature",
+        "url": "https://flake.org/site/index.html",
+        "timestamp": "2026-11-07T23:54:15.469964",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ugh Fields",
+        "url": "https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields",
+        "timestamp": "2026-11-07T23:54:15.469996",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box",
+        "url": "https://nosaka.ai/sentient/",
+        "timestamp": "2026-11-07T23:54:15.470036",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Nobuild TypeScript web framework with zero dependencies",
+        "url": "https://ohne.dev/",
+        "timestamp": "2026-11-07T23:54:15.470069",
+        "source": "Hacker News"
+    },
+    {
+        "title": "California governor to grant clemency to all 548 death row inmates",
+        "url": "https://www.reuters.com/world/us/california-governor-grant-clemency-all-548-death-row-inmates-state-2026-11-05/",
+        "timestamp": "2026-11-07T23:54:15.470133",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Remote Parents",
+        "url": "https://www.jaymehoffman.com/writing/remote-parents/",
+        "timestamp": "2026-11-07T23:54:15.470165",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to Read Hex Colors and Build Better CSS Palettes",
+        "url": "https://palettevault.github.io/blog/understanding-css-colors/",
+        "timestamp": "2026-11-07T23:54:15.470214",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Commodore PET – The Worlds First Personal Computer",
+        "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+        "timestamp": "2026-11-07T23:54:15.470248",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tesla's quiet EV software update is unplugging Australian homes",
+        "url": "https://thedriven.io/2026/11/07/teslas-quiet-ev-software-update-is-unplugging-australian-homes/",
+        "timestamp": "2026-11-07T23:54:15.470281",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Flowers for Algernon: Daniel Keyes [pdf]",
+        "url": "https://www.sdfo.org/gj/stories/flowersforalgernon.pdf",
+        "timestamp": "2026-11-07T23:54:15.470347",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Hardest Tarball",
+        "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+        "timestamp": "2026-11-07T23:54:15.470381",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Starter homes cost $1M in a record 242 U.S. cities–proof of unaffordability",
+        "url": "https://fortune.com/article/starter-homes-cost-1-million-in-a-record-242-us-cities-affordability-crisis-younger-buyers/",
+        "timestamp": "2026-11-07T23:54:15.470414",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Responsible Use of Artificial Intelligence",
+        "url": "https://www.nature.com/articles/s41561-026-02149-0",
+        "timestamp": "2026-11-07T23:54:15.470447",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Editing at the Speed of Thought in Emacs",
+        "url": "https://joshblais.com/blog/editing-at-the-speed-of-thought-in-emacs/",
+        "timestamp": "2026-11-07T23:54:15.470481",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: No sign-ups, no ads. Just 20 free webmaster tools",
+        "url": "https://sitetoolsbox.com/",
+        "timestamp": "2026-11-07T23:54:15.470514",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Exception Excursions (a new zero-cost exception model)",
+        "url": "https://jamsilva.github.io/posts/exciting-exception-excursions/",
+        "timestamp": "2026-11-07T23:54:15.470549",
+        "source": "Hacker News"
+    },
+    {
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "timestamp": "Sat, 07 Nov 2026 22:07:22 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "timestamp": "Sat, 07 Nov 2026 21:17:08 +0000",
+        "source": "TechCrunch"
     }
 ]
