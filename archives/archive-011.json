@@ -46246,5 +46246,263 @@
         "url": "https://www.economist.com/leaders/2026/10/15/what-if-the-machines-take-over-science",
         "timestamp": "2026-10-19T01:17:43.235894",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
+        "url": "https://apistack.online/mcp",
+        "timestamp": "2026-10-19T01:17:43.235952",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hypereffect, a hypermedia protocol that renders reactive UIs everywhere",
+        "url": "https://hypereffect.dev",
+        "timestamp": "2026-10-19T01:17:43.236007",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The AI industry's gigantic debts are making investors nervous",
+        "url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
+        "timestamp": "2026-10-19T01:17:43.236056",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Series Summation Methods",
+        "url": "https://jslandy.com/series-summation/",
+        "timestamp": "2026-10-19T01:17:43.236096",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+        "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+        "timestamp": "2026-10-19T06:16:38.419884",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Agent-Skills.market",
+        "url": "https://agent-skills.market/",
+        "timestamp": "2026-10-19T06:16:38.419954",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Superlite: A Faster Alternatie to Superpowers",
+        "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+        "timestamp": "2026-10-19T06:16:38.419988",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Verisign .com Domain Name Registry Consumer Class Action",
+        "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+        "timestamp": "2026-10-19T06:16:38.420022",
+        "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek V4.1 Flash 1017 (Max)",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+        "timestamp": "2026-10-19T06:16:38.420183",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The DNS Museum",
+        "url": "https://dns.museum",
+        "timestamp": "2026-10-19T06:16:38.420247",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+        "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+        "timestamp": "2026-10-19T06:16:38.420501",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+        "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+        "timestamp": "2026-10-19T06:16:38.420622",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Persistence Identity and the Possibility of Artificial Culture",
+        "url": "https://vlattko.substack.com/p/persistence-identity-and-the-possibility",
+        "timestamp": "2026-10-19T06:16:38.510754",
+        "source": "Hacker News"
+    },
+    {
+        "title": "OpenCode and OpenAI issue refunds after security breach of OpenCode console",
+        "url": "https://news.ycombinator.com/item?id=50148946",
+        "timestamp": "2026-10-19T06:16:38.510808",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: What are you working on? (October 2026)",
+        "url": "https://news.ycombinator.com/item?id=50148925",
+        "timestamp": "2026-10-19T06:16:38.510846",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Writing is no longer proof of work",
+        "url": "https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/",
+        "timestamp": "2026-10-19T06:16:38.510882",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Perplexity offers free reverse engineering credits",
+        "url": "https://twitter.com/AskPerplexity/status/2111120664543596957",
+        "timestamp": "2026-10-19T06:16:38.510957",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+        "timestamp": "2026-10-19T06:16:38.510995",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Composite objects and C++26 the std:polymorphic type",
+        "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+        "timestamp": "2026-10-19T06:16:38.511029",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic and the Changing Nature of Work",
+        "url": "https://surfingcomplexity.blog/2026/10/18/anthropic-and-the-changing-nature-of-work/",
+        "timestamp": "2026-10-19T06:16:38.511062",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Answering ASL questions: Argon leads a 21-question pilot",
+        "url": "https://huggingface.co/datasets/salqadri/argon-asl-question-understanding-eval",
+        "timestamp": "2026-10-19T06:16:38.511095",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Amelia Earharts Plane search expedition's Taraia Object hypothesis fails",
+        "url": "https://www.purdue.edu/newsroom/2026/Q4/search-for-amelia-earharts-plane-continues-after-taraia-object-expedition-on-nikumaroro-rules-out-latest-hypothesis/",
+        "timestamp": "2026-10-19T06:16:38.511128",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Open Mailto Links in Gmail",
+        "url": "https://sindresorhus.com/mailway",
+        "timestamp": "2026-10-19T06:16:38.511193",
+        "source": "Hacker News"
+    },
+    {
+        "title": "An Artist Who Built Japanese Animation",
+        "url": "https://animationobsessive.substack.com/p/an-artist-who-built-japanese-animation",
+        "timestamp": "2026-10-19T06:16:38.511224",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I made a combined snake-tron game using free AI",
+        "url": "https://steeltoe777.github.io/snakegame/",
+        "timestamp": "2026-10-19T06:16:38.511260",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: The Lion King (SNES, 1994), running as a native PC program",
+        "url": "https://github.com/kinduff/TLKRecomp",
+        "timestamp": "2026-10-19T06:16:38.511293",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Library of Short Stories",
+        "url": "https://www.libraryofshortstories.com/authors",
+        "timestamp": "2026-10-19T06:16:38.511326",
+        "source": "Hacker News"
+    },
+    {
+        "title": "From Memory Hits to Answerable Evidence",
+        "url": "https://arxiv.org/abs/2610.23313",
+        "timestamp": "2026-10-19T06:16:38.511359",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Flatpak – An Insecurity Nightmare",
+        "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+        "timestamp": "2026-10-19T06:16:38.511392",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Roadkill – a zombie car game inspired by the original GTA's driving",
+        "url": "https://games.zabaca.com/games/roadkill/",
+        "timestamp": "2026-10-19T06:16:38.511424",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New website reflects OSI's evolving mission",
+        "url": "https://opensource.org/blog/new-website-reflects-osis-evolving-mission",
+        "timestamp": "2026-10-19T06:16:38.511459",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Air: A Python web framework designed for AI to write",
+        "url": "https://airwebframework.org/",
+        "timestamp": "2026-10-19T06:16:38.511491",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Dérive – Urban Exploration App",
+        "url": "https://deriveapp.com/s/v2/",
+        "timestamp": "2026-10-19T06:16:38.511523",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A New Lens on Multi-GPU Comms: API-Level Memory Models for Portable Optimization",
+        "url": "https://arxiv.org/abs/2610.16190",
+        "timestamp": "2026-10-19T06:16:38.511556",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Trmnl-cards – Turn an XTEINK X4 into a tiny frame for rare cards",
+        "url": "https://github.com/mdnahian/trmnl-cards",
+        "timestamp": "2026-10-19T06:16:38.511592",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Nvidia Grace-Blackwell Unified Memory Through Microbenchmarks",
+        "url": "https://arxiv.org/abs/2610.20354",
+        "timestamp": "2026-10-19T06:16:38.511628",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Startup Abby Care raises $82M to turn family members into paid caregivers",
+        "url": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
+        "timestamp": "2026-10-19T06:16:38.511661",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ziyooren/Software-Coupons",
+        "url": "https://github.com/ziyooren/software-coupons",
+        "timestamp": "2026-10-19T06:16:38.511695",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Individual Knowledge in the Internet Age (2010)",
+        "url": "https://er.educause.edu/articles/2010/4/individual-knowledge-in-the-internet-age",
+        "timestamp": "2026-10-19T06:16:38.511748",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Local speech with llamadart: giving Llama Village a voice",
+        "url": "https://dev.to/gde/local-speech-with-llamadart-giving-llama-village-a-voice-5b7m",
+        "timestamp": "2026-10-19T06:16:38.593652",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+        "timestamp": "2026-10-19T13:24:55.220714",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Linux 7.3 Released",
+        "url": "https://lwn.net/Articles/1101143/",
+        "timestamp": "2026-10-19T13:24:55.220772",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "url": "https://100toolkit.com/blog/deslop-model/",
+        "timestamp": "2026-10-19T13:24:55.220877",
+        "source": "Hacker News"
     }
 ]
