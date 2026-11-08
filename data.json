@@ -675814,5 +675814,275 @@
         "url": "https://www.producthunt.com/products/notch-11",
         "timestamp": "2026-11-07T08:04:59-08:00",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "The Reconstruction of Torn Documents",
+        "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+        "timestamp": "2026-11-08T17:56:25.525650",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Writing as a thinking tool",
+        "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+        "timestamp": "2026-11-08T17:56:25.525674",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I'm not a fan of Deno's security model (2024)",
+        "url": "https://goldstein.lol/posts/deno-security/",
+        "timestamp": "2026-11-08T17:56:25.525719",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Porting Android 16 to my blind mother's keypad phone",
+        "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+        "timestamp": "2026-11-08T17:56:25.525741",
+        "source": "Hacker News"
+    },
+    {
+        "title": "OpenAI raises $11B at a $1.25T valuation",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "timestamp": "2026-11-08T17:56:25.525822",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Top Astrophysicist Leaves U.S.",
+        "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+        "timestamp": "2026-11-08T17:56:25.525903",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Quadrillion-parameter transformers and how to train them",
+        "url": "https://qlabs.sh/research/parameters",
+        "timestamp": "2026-11-08T17:56:25.525922",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to prove equations using diagrams, part 1",
+        "url": "https://www.epatters.org/post/e-graphs-1/",
+        "timestamp": "2026-11-08T17:56:25.525942",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+        "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+        "timestamp": "2026-11-08T17:56:25.526017",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Search Everywhere at Once. Instantly",
+        "url": "https://antisoftworks.com/antifind",
+        "timestamp": "2026-11-08T17:56:25.581393",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Free, classroom friendly Seterra replacement for map quizzes",
+        "url": "https://whereisit.earth/",
+        "timestamp": "2026-11-08T17:56:25.581427",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Design Fiction Mood Board",
+        "url": "http://www.chrbutler.com/design-fiction-mood-board",
+        "timestamp": "2026-11-08T17:56:25.581449",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Designing an Always-On Agent",
+        "url": "https://rubriclabs.com/blog/always-on-agents",
+        "timestamp": "2026-11-08T17:56:25.581470",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tricking DeepSeek into Not Hacking Your Website",
+        "url": "https://utkusen.substack.com/p/tricking-deepseek-into-not-hacking",
+        "timestamp": "2026-11-08T17:56:25.581491",
+        "source": "Hacker News"
+    },
+    {
+        "title": "You Can't Speedrun Yourself",
+        "url": "https://blog.cosmos-institute.org/p/you-cant-speedrun-yourself",
+        "timestamp": "2026-11-08T17:56:25.581515",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Self Improving Software Factory",
+        "url": "https://github.com/sis-factory/sis-factory",
+        "timestamp": "2026-11-08T17:56:25.581538",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Running a Language Model on a $35 FPGA",
+        "url": "https://nishtahir.com/running-a-language-model-on-an-fpga/",
+        "timestamp": "2026-11-08T17:56:25.581558",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: psi, a 6.4 MB cross-platform portable coding agent in ANSI C & Lua",
+        "url": "https://psicode.ai/",
+        "timestamp": "2026-11-08T17:56:25.581579",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Claude Code status line, hooks and permissions builders (in-browser)",
+        "url": "https://orbtile.com/tools/claude-code-statusline-builder",
+        "timestamp": "2026-11-08T17:56:25.581599",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Viscerality",
+        "url": "https://map.simonsarris.com/p/viscerality",
+        "timestamp": "2026-11-08T17:56:25.581618",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Build a PC in 3D in the Browser",
+        "url": "https://www.buildcores.com",
+        "timestamp": "2026-11-08T17:56:25.581639",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A proof that Z is Diophantine in Q",
+        "url": "https://github.com/elliotglazer/diophantine-z-q",
+        "timestamp": "2026-11-08T17:56:25.581659",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Russia's combat losses in the data of Rosstat",
+        "url": "https://rosstat-leaks.com/",
+        "timestamp": "2026-11-08T17:56:25.581681",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Weird (but useful) questions to ask startups before joining",
+        "url": "https://nextplayso.substack.com/p/weird-but-useful-questions-to-ask",
+        "timestamp": "2026-11-08T17:56:25.581701",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hold Fire – deep dive on nuclear near-miss incidents and deterrence theory song",
+        "url": "https://holdfire.cc/",
+        "timestamp": "2026-11-08T17:56:25.581721",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
+        "url": "https://www.valueaddedresource.net/etsy-expands-ai-training-rights/",
+        "timestamp": "2026-11-08T17:56:25.581765",
+        "source": "Hacker News"
+    },
+    {
+        "title": "5k-year-old bread loaves go on display in Turkey",
+        "url": "https://www.thehistoryblog.com/archives/77314",
+        "timestamp": "2026-11-08T17:56:25.581785",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I fixed my Mac's window mess with a tiny free app",
+        "url": "https://m-reschreiter.at/en/blog/i-fixed-my-macs-window-mess?utm_source=hn",
+        "timestamp": "2026-11-08T17:56:25.581805",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The New Space Force Special Operations Command, Spacefor-SoC, Formally Activated",
+        "url": "https://taskandpurpose.com/news/space-force-special-operations-command-activated/",
+        "timestamp": "2026-11-08T17:56:25.581828",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: FELF – AppImage-like single binaries without FUSE, root, or a runtime",
+        "url": "https://github.com/Rucadi/FELF",
+        "timestamp": "2026-11-08T17:56:25.581849",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Recap Studio – A Mac screen recorder for clean, polished demos",
+        "url": "https://recap.studio/",
+        "timestamp": "2026-11-08T17:56:25.581870",
+        "source": "Hacker News"
+    },
+    {
+        "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+        "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+        "timestamp": "2026-11-08T17:56:25.581890",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I gave an agent a lakehouse and control of my garden",
+        "url": "https://jatorre.github.io/garden/",
+        "timestamp": "2026-11-08T17:56:25.581910",
+        "source": "Hacker News"
+    },
+    {
+        "title": "US believes Nvidia's Huang had romantic relationship with alleged Chinese spy",
+        "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790",
+        "timestamp": "2026-11-08T17:56:25.581930",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Little Snitch for Windows",
+        "url": "https://packethound.app/",
+        "timestamp": "2026-11-08T17:56:25.581959",
+        "source": "Hacker News"
+    },
+    {
+        "title": "ALPRs show that we need a constitutional amendment for information privacy",
+        "url": "https://www.mercurynews.com/2026/11/08/opinion-flock-cameras-privacy-america/",
+        "timestamp": "2026-11-08T17:56:25.581995",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Maple – Run Gemma 4 26B on a 6GB Laptop GPU at 45 TPS (Sub-2-BPW)",
+        "url": "https://amsach.github.io/maple/",
+        "timestamp": "2026-11-08T17:56:25.582016",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GPT-6 Luna and GPT-6.1 Sol are 90% off the listed price",
+        "url": "https://anyrouter.dev/blog/releases/2026-11-03-llamport",
+        "timestamp": "2026-11-08T17:56:25.582038",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Claude Code was mailing your email address to every website it visited: the User-Agent leak, the 5-month system-prompt issue, and the 5-point check",
+        "url": "https://dev.to/slabb/claude-code-was-mailing-your-email-address-to-every-website-it-visited-the-user-agent-leak-the-12k6",
+        "timestamp": "2026-11-06T08:22:34Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Sage2 by Levanto Labs",
+        "url": "https://www.producthunt.com/products/sagecraft",
+        "timestamp": "2026-11-02T10:04:38-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Zigzag Browser",
+        "url": "https://www.producthunt.com/products/zigzag-browser",
+        "timestamp": "2026-11-07T06:38:06-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Keypause",
+        "url": "https://www.producthunt.com/products/keypause",
+        "timestamp": "2026-11-04T20:38:36-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+        "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "timestamp": "Sun, 08 Nov 2026 17:30:00 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+        "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+        "timestamp": "Sun, 08 Nov 2026 17:02:00 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+        "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+        "timestamp": "Sun, 08 Nov 2026 15:00:00 +0000",
+        "source": "TechCrunch"
     }
 ]
