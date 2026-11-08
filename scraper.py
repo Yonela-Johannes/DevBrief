@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import sys
 from datetime import datetime
 import feedparser
 import subprocess
@@ -244,9 +245,17 @@ def process_and_save(fetched_articles):
             if push_res.returncode == 0:
                 print("[+] Git push successful!")
             else:
-                print("[i] Git push skipped or rejected (local commit preserved).")
+                print(f"[-] Git push failed: {push_res.stderr.strip()}")
+                if os.environ.get("GITHUB_ACTIONS") == "true":
+                    sys.exit(1)
+                else:
+                    print("[i] Local run: git push skipped or rejected (local commit preserved).")
         except (subprocess.CalledProcessError, FileNotFoundError) as e:
-            print(f"[i] Git integration step completed or skipped: {e}")
+            print(f"[-] Git command failed: {e}")
+            if os.environ.get("GITHUB_ACTIONS") == "true":
+                sys.exit(1)
+            else:
+                print(f"[i] Local run: Git integration step skipped.")
     else:
         print("[i] No new items to save or commit.")
 
