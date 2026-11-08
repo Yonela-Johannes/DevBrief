@@ -675280,5 +675280,221 @@
         "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
         "timestamp": "Sat, 07 Nov 2026 21:17:08 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Goodbye Claude, Hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "timestamp": "2026-11-08T05:29:01.995642",
+        "source": "Hacker News"
+    },
+    {
+        "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+        "url": "https://github.com/crmne/zapfast",
+        "timestamp": "2026-11-08T05:29:01.995742",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Kirlian Photography: Building Your Own Equipment",
+        "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+        "timestamp": "2026-11-08T05:29:01.995790",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+        "url": "https://github.com/waywardgeek/ensemble",
+        "timestamp": "2026-11-08T05:29:01.995899",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Amsterdam School",
+        "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+        "timestamp": "2026-11-08T05:29:01.995941",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Consumer brain wave headsets threaten privacy",
+        "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+        "timestamp": "2026-11-08T05:29:01.996317",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+        "url": "https://github.com/AmSach/maple",
+        "timestamp": "2026-11-08T05:29:01.996388",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Where Were We",
+        "url": "https://wherewerewe.app/",
+        "timestamp": "2026-11-08T05:29:01.996578",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Modern LLMs have tiny GPTs hidden inside them",
+        "url": "https://invertedpassion.substack.com/p/modern-llms-have-tiny-gpts-hidden",
+        "timestamp": "2026-11-08T05:29:02.258821",
+        "source": "Hacker News"
+    },
+    {
+        "title": "My parents chose to die together and I was left to grieve alone",
+        "url": "https://www.bbc.com/news/articles/c81dwllzv113o",
+        "timestamp": "2026-11-08T05:29:02.258861",
+        "source": "Hacker News"
+    },
+    {
+        "title": "VindexLLM – Windows Vulkan GPU GGUF LLM inference engine written in Delphi 12",
+        "url": "https://github.com/tinyBigGAMES/VindexLLM",
+        "timestamp": "2026-11-08T05:29:02.258909",
+        "source": "Hacker News"
+    },
+    {
+        "title": "PullDash – Review pull requests in a high-performance UI, driven by keybinds",
+        "url": "https://pulldash.com/",
+        "timestamp": "2026-11-08T05:29:02.258933",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Self-promotion and the Altmetric score (2021)",
+        "url": "https://yoursay.plos.org/2021/09/self-promotion-and-the-altmetric-score/",
+        "timestamp": "2026-11-08T05:29:02.258954",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What It Costs to Run 4 Apps on My Own Servers",
+        "url": "https://akashrajpurohit.com/blog/what-it-costs-to-run-4-apps-on-my-own-servers/",
+        "timestamp": "2026-11-08T05:29:02.258976",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pinot Noir: inside the criminal gangs making fake wine",
+        "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+        "timestamp": "2026-11-08T05:29:02.258996",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How do photonic logic gates work?",
+        "url": "https://www.youtube.com/watch?v=ln0zZcQXv38",
+        "timestamp": "2026-11-08T05:29:02.259017",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The internet has a human slop problem, and AI is exposing it",
+        "url": "https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10",
+        "timestamp": "2026-11-08T05:29:02.259039",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Indirect Change",
+        "url": "https://herbertlui.net/indirect-change/",
+        "timestamp": "2026-11-08T05:29:02.259061",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Next bcachefs release will be 100% Rust",
+        "url": "https://github.com/lxc/incus/issues/213#issuecomment-6716682748",
+        "timestamp": "2026-11-08T05:29:02.259102",
+        "source": "Hacker News"
+    },
+    {
+        "title": "My Two Front Teeth",
+        "url": "https://theamericanscholar.org/my-two-front-teeth/",
+        "timestamp": "2026-11-08T05:29:02.259123",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: We Build Shareable Context Layer for Agent Teams",
+        "url": "https://github.com/volcengine/OpenViking",
+        "timestamp": "2026-11-08T05:29:02.259144",
+        "source": "Hacker News"
+    },
+    {
+        "title": "PolyNotes App",
+        "url": "https://news.ycombinator.com/item?id=50410473",
+        "timestamp": "2026-11-08T05:29:02.259168",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Loss of Positive Friction",
+        "url": "https://cutlefish.substack.com/p/tbm-450-the-loss-of-positive-friction",
+        "timestamp": "2026-11-08T05:29:02.259192",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gimbap – A themeable replacement for the macOS Dock",
+        "url": "https://minho42.github.io/gimbap/",
+        "timestamp": "2026-11-08T05:29:02.259213",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
+        "url": "https://regescode.com/",
+        "timestamp": "2026-11-08T05:29:02.259235",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The SideWinder Game Pad, Microsoft's first game controller",
+        "url": "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
+        "timestamp": "2026-11-08T05:29:02.259255",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Sony World Photography Awards Honors James Barnor, Ghana's First Photojournalist",
+        "url": "https://petapixel.com/2026/11/05/sony-world-photography-awards-honors-james-barnor-ghanas-first-photojournalist/",
+        "timestamp": "2026-11-08T05:29:02.259276",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Are Passkeys a Trap?",
+        "url": "https://jimthefrog.substack.com/p/are-passkeys-a-trap",
+        "timestamp": "2026-11-08T05:29:02.259298",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Our software engineering interviews are changing (a little)",
+        "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+        "timestamp": "2026-11-08T05:29:02.259320",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+        "url": "https://www.mirastacklabs.ai/",
+        "timestamp": "2026-11-08T05:29:02.259341",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New type of architecture for agentic memory",
+        "url": "https://zenodo.org/records/23971266",
+        "timestamp": "2026-11-08T05:29:02.259383",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Bringing Your Muse to Life",
+        "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+        "timestamp": "2026-11-08T05:29:02.259404",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Gossip penalty hits men harder than woman at work",
+        "url": "https://tippie.uiowa.edu/news/2026/10/gossip-penalty-hits-men-harder-woman-work",
+        "timestamp": "2026-11-08T05:29:02.259426",
+        "source": "Hacker News"
+    },
+    {
+        "title": "JobRequester: I built this free Chrome extension that tracks job applications",
+        "url": "https://jobrequester.com/",
+        "timestamp": "2026-11-08T05:29:02.259447",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+        "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+        "timestamp": "2026-11-08T05:29:02.259469",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Your AI Agent Trusts Everything It Reads — A Field Guide to Hijacking Claude, GPT, Gemini & Copilot",
+        "url": "https://dev.to/rudratosh/your-ai-agent-trusts-everything-it-reads-a-field-guide-to-hijacking-claude-gpt-gemini-copilot-1l6k",
+        "timestamp": "2026-11-01T10:03:30Z",
+        "source": "Dev.to"
     }
 ]
