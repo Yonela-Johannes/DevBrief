@@ -78,14 +78,22 @@ const DataService = {
                     const sourceName = this.normalizeSourceName(item.source || '');
                     const category = item.category || this.inferCategory(sourceName);
                     const cleanTitle = String(item.title).trim();
-                    const slug = `art-${id}-${Utils.createSlug(cleanTitle)}`;
+                    const cleanUrl = String(item.url).trim();
+                    let hash = 0;
+                    for (let i = 0; i < cleanUrl.length; i++) {
+                        hash = (hash << 5) - hash + cleanUrl.charCodeAt(i);
+                        hash |= 0;
+                    }
+                    const urlHash = Math.abs(hash).toString(36);
+                    const articleId = `art-${urlHash}`;
+                    const slug = `${articleId}-${Utils.createSlug(cleanTitle)}`;
                     const excerpt = item.description || item.excerpt || `Story reported by ${sourceName}. Explore original context and discussions.`;
 
                     return {
-                        id: `art-${id}`,
+                        id: articleId,
                         slug: slug,
                         title: cleanTitle,
-                        url: String(item.url).trim(),
+                        url: cleanUrl,
                         source: sourceName,
                         category: category,
                         excerpt: excerpt,

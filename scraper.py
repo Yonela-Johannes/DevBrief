@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 import feedparser
 import subprocess
+import archive
 
 # Configuration - Multiple News Sources
 SOURCES = [
@@ -52,6 +53,7 @@ SOURCES = [
     },
 ]
 DATA_FILE = "data.json"
+ARCHIVE_DIR = "archives"
 
 def fetch_data(url, headers=None):
     """Fetch data from URL with proper user agent and timeout"""
@@ -203,7 +205,8 @@ def process_and_save(fetched_articles):
     print(f"\n[*] Processing {len(fetched_articles)} articles...")
     
     existing_data = load_existing_data()
-    existing_urls = {item['url'].strip() for item in existing_data if 'url' in item}
+    # Dedupe against active data.json AND all archive chunks
+    existing_urls = archive.load_existing_urls(DATA_FILE, ARCHIVE_DIR)
     
     new_articles = []
     duplicate_count = 0
@@ -226,13 +229,17 @@ def process_and_save(fetched_articles):
             with open(DATA_FILE, 'w', encoding='utf-8') as f:
                 json.dump(existing_data, f, indent=4, ensure_ascii=False)
             print(f"[+] Saved {len(existing_data)} total articles to {DATA_FILE}")
+
+            # Perform continuous rotation
+            archive.rotate_dataset(DATA_FILE, ARCHIVE_DIR)
         except OSError as e:
             print(f"[-] Failed to write {DATA_FILE}: {e}")
             return
 
         # Handle Git integration safely
         try:
-            subprocess.run(["git", "add", DATA_FILE], check=True, capture_output=True)
+            # Stage both data.json and archives/ in the same commit
+            subprocess.run(["git", "add", DATA_FILE, ARCHIVE_DIR], check=True, capture_output=True)
             commit_msg = f"Add {new_items_count} new articles from aggregator"
             if new_items_count == 1:
                 commit_msg = f"Add article: {new_articles[0]['title'][:60]}"
