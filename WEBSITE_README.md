@@ -130,11 +130,12 @@ DevBrief uses CSS variables defined in `assets/css/styles.css` to manage theme s
 
 ```css
 :root {
-    --bg-app: #090d16;
-    --bg-surface: #111726;
-    --accent-primary: #38bdf8;
-    --text-primary: #f8fafc;
-    --border-subtle: #1e293b;
+    --bg-main: #ffffff;
+    --bg-surface: #ffffff;
+    --bg-subtle: #f8f9fa;
+    --text-main: #000000;
+    --text-muted: #374151;
+    --accent: #DA9D3C;
 }
 ```
 

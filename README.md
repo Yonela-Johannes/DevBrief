@@ -52,11 +52,11 @@ DevBrief currently supports the following configured sources:
 |---|---|---|
 | Hacker News — Top | HTML | Popular technology discussions |
 | Hacker News — Newest | HTML | Recently submitted stories |
-| Reddit — r/programming | JSON API | Programming discussions |
-| Reddit — r/technology | JSON API | General technology news |
 | DEV Community | REST API | Developer articles |
 | Product Hunt | RSS | New products and technology launches |
-| arXiv — Computer Science AI | RSS | Artificial intelligence research |
+| TechCrunch | RSS | Latest tech news & startup coverage |
+| Smashing Magazine | RSS | Web design & front-end development |
+| CSS-Tricks | RSS | Web development & CSS techniques |
 
 Sources are independently configured, allowing individual feeds to be maintained or expanded without changing the overall collection workflow.
 
@@ -314,8 +314,6 @@ The frontend provides:
 - Responsive layouts for different screen sizes.
 
 The interface consumes `data.json` independently of the scraper.
-
-For instructions on launching and using the web interface, see the [Web Interface documentation](README-WEB.md), if maintained separately.
 
 ## Troubleshooting
 
