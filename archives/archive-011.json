@@ -49000,5 +49000,251 @@
         "url": "https://aquariuscomputer.co/multitrack/",
         "timestamp": "2026-10-20T23:11:33.597210",
         "source": "Hacker News"
+    },
+    {
+        "title": "SCOTUS couldn't take up a copyright case because four justices have book deals",
+        "url": "https://news.bloomberglaw.com/ip-law/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum",
+        "timestamp": "2026-10-20T23:11:33.597230",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I've got 99 problems, but making tofu isn't one",
+        "url": "https://gogotofu.vercel.app/",
+        "timestamp": "2026-10-20T23:11:33.597276",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A script that tests whether your network breaks large uploads to the Claude API",
+        "url": "https://github.com/memorykit-maker/claude-net-check",
+        "timestamp": "2026-10-20T23:11:33.597296",
+        "source": "Hacker News"
+    },
+    {
+        "title": "You can't be wrong, you can only be better",
+        "url": "https://github.com/jrusbatch/compilify/commit/4eac1ff1d4a0fd7b634fe14b8fa02af25ba4365b",
+        "timestamp": "2026-10-20T23:11:33.597317",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Upcoming Critical PHP Security Release",
+        "url": "https://externals.io/message/132883",
+        "timestamp": "2026-10-20T23:11:33.597336",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Improved Performance and Resource Usage for XFS Checksumming with Linux 7.4",
+        "url": "https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming",
+        "timestamp": "2026-10-20T23:11:33.597355",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Lox Language Visualizer Based on Crafting Interpreters",
+        "url": "https://www.shivfitzpatrick.com/visualizers/",
+        "timestamp": "2026-10-20T23:11:33.597386",
+        "source": "Hacker News"
+    },
+    {
+        "title": "17k Lines of New Rust Kernel Code Heading into Linux 7.4",
+        "url": "https://www.phoronix.com/news/Linux-7.4-Rust",
+        "timestamp": "2026-10-20T23:11:33.597406",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Synaptics Astra SR200: 400 GOPS Chips Debut (2026)",
+        "url": "https://tech-insider.org/synaptics-astra-sr200-coral-npu-wearable-chips-2026/",
+        "timestamp": "2026-10-20T23:11:33.597427",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Andy Burnham launches campaign against 'headphone dodgers' on public transport",
+        "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+        "timestamp": "2026-10-20T23:11:33.597448",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Reddit owners vs. YouTube reviewers: same 178 products, different verdicts",
+        "url": "https://www.bettascore.ai/research/reddit-vs-youtube",
+        "timestamp": "2026-10-20T23:11:33.597468",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Obituary Cocktail: The 'deadly' drink that symbolises New Orleans",
+        "url": "https://www.bbc.com/travel/article/20261016-the-obituary-cocktail-the-deadly-drink-that-symbolises-new-orleans",
+        "timestamp": "2026-10-20T23:11:33.597489",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Manage multiple data sources with Amytis",
+        "url": "https://www.amytis.io/blog/manage-multiple-data-sources-with-amytis",
+        "timestamp": "2026-10-20T23:11:33.597508",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+        "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+        "timestamp": "2026-10-20T23:11:33.597529",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Fleet of AI agents used httpbin to get past their sandbox",
+        "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
+        "timestamp": "2026-10-20T23:11:33.597548",
+        "source": "Hacker News"
+    },
+    {
+        "title": "TiDB Breached",
+        "url": "https://www.pingcap.com/trust-hub/security/security-update-october-2026/",
+        "timestamp": "2026-10-20T23:11:33.597572",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Visual cdecl – edit a C declaration as English, code, or a graph",
+        "url": "https://github.avestura.dev/visual-cdecl/",
+        "timestamp": "2026-10-20T23:11:33.597592",
+        "source": "Hacker News"
+    },
+    {
+        "title": "PingCap TiDB Leaks",
+        "url": "https://fulcrumsec.vg/pingcap/",
+        "timestamp": "2026-10-20T23:11:33.597612",
+        "source": "Hacker News"
+    },
+    {
+        "title": "WhatsApp Scheduler – Offline-first, hands-free scheduler for Android",
+        "url": "https://play.google.com/store/apps/details?id=com.whatsappscheduler.app&hl=en_US",
+        "timestamp": "2026-10-20T23:11:33.597632",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Melra – pause ambiguous MCP writes instead of blindly retrying",
+        "url": "https://github.com/XAGI-Lab/melra",
+        "timestamp": "2026-10-20T23:11:33.597652",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Agent Economics: Who Keeps the Ledger of AI Labor?",
+        "url": "https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor",
+        "timestamp": "2026-10-20T23:11:33.597676",
+        "source": "Hacker News"
+    },
+    {
+        "title": "At least $963,000 in trading cards stolen from FedEx truck in California",
+        "url": "https://www.espn.com/espn/story/_/id/50229905/at-least-963000-trading-cards-stolen-fedex-truck",
+        "timestamp": "2026-10-20T23:11:33.597697",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Is CoreWeave the Silicon Valley Bank of 2026?",
+        "url": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159",
+        "timestamp": "2026-10-20T23:11:33.597718",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
+        "url": "https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6",
+        "timestamp": "2026-10-20T23:11:33.673717",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+        "url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+        "timestamp": "2026-10-20T23:11:33.673719",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Praex",
+        "url": "https://www.producthunt.com/products/praex",
+        "timestamp": "2026-10-20T23:11:33.826074",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Stage",
+        "url": "https://www.producthunt.com/products/stage-9",
+        "timestamp": "2026-10-20T23:11:33.826090",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "timestamp": "2026-10-20T23:11:33.943207",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "SpaceX and Tesla boards form special committees to review merger",
+        "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+        "timestamp": "2026-10-20T23:11:33.943217",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+        "timestamp": "2026-10-20T23:11:33.943220",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+        "timestamp": "2026-10-20T23:11:33.943222",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "SpaceX’s AI business is beating expectations",
+        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "timestamp": "2026-10-20T23:11:33.943225",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "timestamp": "2026-10-20T23:11:33.943227",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+        "url": "https://research.poh.org/bot-benchmarking-2026/",
+        "timestamp": "2026-10-21T01:36:27.711175",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Microagi: Accelerating Embodied AGI",
+        "url": "https://www.microagi.ai/",
+        "timestamp": "2026-10-21T01:36:27.711229",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Shipping a LaTeX Compiler Behind an Edge App",
+        "url": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
+        "timestamp": "2026-10-21T01:36:27.711282",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Gemma 4 26B at 100 tok/s on a Mac, using the Neural Engine and 2GB RAM",
+        "url": "https://github.com/zw5/ane-fieldfare",
+        "timestamp": "2026-10-21T01:36:27.985054",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Gospel According to Peter (Thiel)",
+        "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+        "timestamp": "2026-10-21T01:36:27.985090",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Cveelo – Turn your CV into a portfolio site, with hand-made templates",
+        "url": "https://www.cveelo.com",
+        "timestamp": "2026-10-21T01:36:27.985112",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+        "url": "https://agentitter.com/",
+        "timestamp": "2026-10-21T01:36:27.985131",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Dataville Takes the Guesswork Out of Data for AI",
+        "url": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
+        "timestamp": "2026-10-21T01:36:27.985151",
+        "source": "Hacker News"
     }
 ]
