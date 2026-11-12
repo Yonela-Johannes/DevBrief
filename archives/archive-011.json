@@ -50326,5 +50326,239 @@
         "url": "https://dev.to/hubedav/im-building-a-hiring-platform-that-starts-with-people-not-job-descriptions-ha6",
         "timestamp": "2026-10-21T17:17:09.094863",
         "source": "Dev.to"
+    },
+    {
+        "title": "Your agent's retry bug isn't an AI problem. It's a distributed-systems problem with an LLM on top.",
+        "url": "https://dev.to/cyclopt_dimitrisk/your-agents-retry-bug-isnt-an-ai-problem-its-a-distributed-systems-problem-with-an-llm-on-top-1i6k",
+        "timestamp": "2026-10-21T17:17:09.094870",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Burrow MacOS",
+        "url": "https://www.producthunt.com/products/burrow-macos",
+        "timestamp": "2026-10-21T17:17:09.235005",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Agent Pets",
+        "url": "https://www.producthunt.com/products/agent-pets",
+        "timestamp": "2026-10-21T17:17:09.235020",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Nimbalyst Wiki",
+        "url": "https://www.producthunt.com/products/nimbalyst-wiki",
+        "timestamp": "2026-10-21T17:17:09.235032",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Notion Auto",
+        "url": "https://www.producthunt.com/products/notion-99",
+        "timestamp": "2026-10-21T17:17:09.235042",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "ilha",
+        "url": "https://www.producthunt.com/products/ilha",
+        "timestamp": "2026-10-21T17:17:09.235048",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "LearnExcel",
+        "url": "https://www.producthunt.com/products/learnexcel",
+        "timestamp": "2026-10-21T17:17:09.235054",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Triage by Chodeberg",
+        "url": "https://www.producthunt.com/products/triage-by-chodeberg",
+        "timestamp": "2026-10-21T17:17:09.235057",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "AskDoozy",
+        "url": "https://www.producthunt.com/products/askdoozy",
+        "timestamp": "2026-10-21T17:17:09.235120",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Flyweel",
+        "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel",
+        "timestamp": "2026-10-21T17:17:09.235125",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Waymo starts offering rides at the Las Vegas airport",
+        "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+        "timestamp": "2026-10-21T17:17:09.299590",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+        "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+        "timestamp": "2026-10-21T17:17:09.299601",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+        "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+        "timestamp": "2026-10-21T17:17:09.299605",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+        "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+        "timestamp": "2026-10-21T17:17:09.299608",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Mach9 raises $34M after pivoting to AI CAD software",
+        "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+        "timestamp": "2026-10-21T17:17:09.299611",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "GitLab CVSS 10.0 Integer Overflow issue",
+        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "timestamp": "2026-10-21T20:39:37.605156",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+        "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+        "timestamp": "2026-10-21T20:39:37.605178",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google's Rust Style Guide",
+        "url": "https://google.github.io/styleguide/rustguide.html",
+        "timestamp": "2026-10-21T20:39:37.605220",
+        "source": "Hacker News"
+    },
+    {
+        "title": "After automation: Solo founding will be the default",
+        "url": "https://every.to/thesis-statements/julian-weisser",
+        "timestamp": "2026-10-21T20:39:37.605280",
+        "source": "Hacker News"
+    },
+    {
+        "title": "EA is shutting down BioWare",
+        "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+        "timestamp": "2026-10-21T20:39:37.605328",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+        "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+        "timestamp": "2026-10-21T20:39:37.605413",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Claude Duet",
+        "url": "https://claude.com/product/claude-duet",
+        "timestamp": "2026-10-21T20:39:37.605490",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Potential third critical PHP CVE",
+        "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+        "timestamp": "2026-10-21T20:39:37.605509",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Place Among the Fiddlers",
+        "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+        "timestamp": "2026-10-21T20:39:37.605528",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Canary Tokens",
+        "url": "https://canarytokens.org/",
+        "timestamp": "2026-10-21T20:39:37.605547",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+        "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+        "timestamp": "2026-10-21T20:39:37.605567",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The bridge to agent-scale Git infrastructure",
+        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+        "timestamp": "2026-10-21T20:39:37.605642",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Plex laid off the whole player team",
+        "url": "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
+        "timestamp": "2026-10-21T20:39:37.605662",
+        "source": "Hacker News"
+    },
+    {
+        "title": "CDC Ignored Request from States to Validate a New Measles Test",
+        "url": "https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html",
+        "timestamp": "2026-10-21T20:39:37.605681",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Claude Duet",
+        "url": "https://claude.com/resources/articles/claude-duet",
+        "timestamp": "2026-10-21T20:39:37.605719",
+        "source": "Hacker News"
+    },
+    {
+        "title": "\"Certificate Expired \" Now What?",
+        "url": "https://www.buoyant.io/blog/certificate-expired-now-what",
+        "timestamp": "2026-10-21T20:39:37.816725",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI and the Enclosure of the Scientific Commons",
+        "url": "https://arxiv.org/abs/2610.27251",
+        "timestamp": "2026-10-21T20:39:37.816755",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Humancrafted",
+        "url": "https://humancrafted.discourse.group/",
+        "timestamp": "2026-10-21T20:39:37.816777",
+        "source": "Hacker News"
+    },
+    {
+        "title": "These Snakes Can Cartwheel Away from Danger",
+        "url": "https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/",
+        "timestamp": "2026-10-21T20:39:37.816797",
+        "source": "Hacker News"
+    },
+    {
+        "title": "My Working Model of Consciousness",
+        "url": "https://federicorcassarino.substack.com/p/my-working-model-of-consciousness",
+        "timestamp": "2026-10-21T20:39:37.816839",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Gave Hermes ears and a mouth, check it out",
+        "url": "https://memoe.app/",
+        "timestamp": "2026-10-21T20:39:37.816859",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Strategic Importance of Cislunar Space [video]",
+        "url": "https://www.youtube.com/watch?v=kdpOdSMzXTA",
+        "timestamp": "2026-10-21T20:39:37.816878",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Programmers vs. Dream's Fake Manhunts – TheStandup",
+        "url": "https://www.youtube.com/watch?v=y2C0Zpnl6p0",
+        "timestamp": "2026-10-21T20:39:37.816901",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ora is joining ClickUp. There's a script to export attachments before 2026-10-31",
+        "url": "https://github.com/bleuetdesign/ora-attachments-exporter",
+        "timestamp": "2026-10-21T20:39:37.816921",
+        "source": "Hacker News"
     }
 ]
