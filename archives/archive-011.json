@@ -52636,5 +52636,245 @@
         "url": "https://inkspo.ai",
         "timestamp": "2026-10-22T23:35:07.111541",
         "source": "Hacker News"
+    },
+    {
+        "title": "Intentionally Down",
+        "url": "https://control.softlayer.com/",
+        "timestamp": "2026-10-22T23:35:07.111573",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Walkman – turn-by-turn routing in the browser, built from vector tiles",
+        "url": "https://walkman.uz/",
+        "timestamp": "2026-10-22T23:35:07.111606",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Noise: Speedrun for Pretraining Without Backpropagation",
+        "url": "https://qlabs.sh/noise#update",
+        "timestamp": "2026-10-22T23:35:07.111638",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Taveo – Split bar and restaurant bills without sign-up",
+        "url": "https://taveo.app/en",
+        "timestamp": "2026-10-22T23:35:07.111676",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+        "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "timestamp": "2026-10-22T23:35:07.501279",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+        "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+        "timestamp": "2026-10-22T23:35:07.501289",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "timestamp": "2026-10-22T23:35:07.501293",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+        "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+        "timestamp": "2026-10-22T23:35:07.501296",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Docker is weird",
+        "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+        "timestamp": "2026-10-23T01:51:56.339685",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The foolishness of \"natural language programming\" (1978)",
+        "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+        "timestamp": "2026-10-23T01:51:56.339754",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI compute is the new oil–and needs a new market",
+        "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+        "timestamp": "2026-10-23T01:51:56.339852",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Secret Life of Circuits is now in stock everywhere",
+        "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+        "timestamp": "2026-10-23T01:51:56.339916",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Mapping the Northern Sky",
+        "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+        "timestamp": "2026-10-23T01:51:56.339948",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Jank – The native Clojure dialect with seamless C++ interop",
+        "url": "https://jank-lang.org/",
+        "timestamp": "2026-10-23T01:51:56.340010",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Color Names",
+        "url": "https://names.color.pizza",
+        "timestamp": "2026-10-23T01:51:56.340057",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Speeding up code review with `small-change`",
+        "url": "https://lethain.com/small-changes/",
+        "timestamp": "2026-10-23T01:51:56.340073",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+        "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601",
+        "timestamp": "2026-10-23T01:51:56.537695",
+        "source": "Hacker News"
+    },
+    {
+        "title": "We Spoke with Entrepreneurs Living the \"7 Vibe 3\" Lifestyle",
+        "url": "https://cadence.moe/blog/2026-09-10-we-spoke-with-entrepreneurs-living-the-7-vibe-3-lifestyle",
+        "timestamp": "2026-10-23T01:51:56.537720",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Humming: Fast, Flexible Kernels for Quantized Inference",
+        "url": "https://vllm.ai/blog/2026-10-21-humming",
+        "timestamp": "2026-10-23T01:51:56.537738",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+        "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+        "timestamp": "2026-10-23T01:51:56.537755",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Offline FairPlay DRM Decryption",
+        "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+        "timestamp": "2026-10-23T01:51:56.537771",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI Keeps Getting Better. Why Is Its Writing Still So Bad?",
+        "url": "https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/",
+        "timestamp": "2026-10-23T01:51:56.537789",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The State of PyTorch 2026",
+        "url": "https://techstrong.ai/articles/the-state-of-pytorch-2026/",
+        "timestamp": "2026-10-23T01:51:56.537806",
+        "source": "Hacker News"
+    },
+    {
+        "title": "XRP Ledger Fixes Lending Code Before the Feature Goes Live",
+        "url": "https://coinmarketcap.com/community/post/380272949/",
+        "timestamp": "2026-10-23T01:51:56.537822",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Intel tour by Dwarkesh: What will computer chips look like in 2045?",
+        "url": "https://www.dwarkesh.com/p/intel-tour",
+        "timestamp": "2026-10-23T01:51:56.537838",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Untold: Iran",
+        "url": "https://www.untoldart.com/venice",
+        "timestamp": "2026-10-23T01:51:56.537856",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Musk Giving Tops $445M in Midterm Election Push for GOP",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-23/musk-giving-tops-445-million-in-midterm-election-push-for-gop",
+        "timestamp": "2026-10-23T01:51:56.537872",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Quest Diagnostics (Hacked)",
+        "url": "https://www.questdiagnostics.com/links/quanum-notice",
+        "timestamp": "2026-10-23T01:51:56.537888",
+        "source": "Hacker News"
+    },
+    {
+        "title": "PointerCam, a screen recorder that zooms on clicks and writes guides",
+        "url": "https://pointercam.com/",
+        "timestamp": "2026-10-23T01:51:56.537904",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A tale of two PHP remote vulnerabilities",
+        "url": "https://calif.io/php2shell.x/",
+        "timestamp": "2026-10-23T01:51:56.537919",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Go++",
+        "url": "https://github.com/jordan-bonecutter/go-plus-plus",
+        "timestamp": "2026-10-23T01:51:56.537935",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Physicists trap a single antimatter particle for a month For the first time",
+        "url": "https://www.yahoo.com/news/science/articles/physicists-trap-single-antimatter-particle-150000058.html",
+        "timestamp": "2026-10-23T01:51:56.537952",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Demis Hassabis shortens AGI timeline from five to two to three years",
+        "url": "https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/",
+        "timestamp": "2026-10-23T01:51:56.537968",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Peter Thiel breaks with Trump over Iran war: 'We should not have done it'",
+        "url": "https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284",
+        "timestamp": "2026-10-23T01:51:56.537984",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Assure – formal verification for every PR",
+        "url": "https://symbolia.ai/",
+        "timestamp": "2026-10-23T01:51:56.538002",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Supastack – Cross-Platform Turborepo for Next.js, Expo, and Tauri",
+        "url": "https://supastack.dev",
+        "timestamp": "2026-10-23T01:51:56.538021",
+        "source": "Hacker News"
+    },
+    {
+        "title": "CVE Tracker",
+        "url": "https://cve.0xosprey.com/",
+        "timestamp": "2026-10-23T01:51:56.538038",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tech's Enshittification, Public Markets, and Business Schools",
+        "url": "https://tomorrowasusual.substack.com/p/techs-enshittification-public-markets",
+        "timestamp": "2026-10-23T01:51:56.538054",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: GrillMyProfile – AI roast of your LinkedIn, scored against a job",
+        "url": "https://www.grillmyprofile.com",
+        "timestamp": "2026-10-23T01:51:56.538070",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Dagger – Automation to build, test and ship; locally, in CI, or in the cloud",
+        "url": "https://github.com/dagger/dagger",
+        "timestamp": "2026-10-23T01:51:56.538086",
+        "source": "Hacker News"
     }
 ]
