@@ -1,239 +1,5 @@
 [
     {
-        "title": "Dessa: the most authentic full-duplex speech model ever built",
-        "url": "https://block.xyz/dessa",
-        "timestamp": "2026-10-23T20:20:16.446459",
-        "source": "Hacker News"
-    },
-    {
-        "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-        "url": "https://twitter.com/robbietilton/status/2111936458923851923",
-        "timestamp": "2026-10-23T20:20:16.446506",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Reforming English Spelling",
-        "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
-        "timestamp": "2026-10-23T20:20:16.446556",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Impossible Machines: declaratively program the physical world",
-        "url": "https://www.impossiblemachines.xyz",
-        "timestamp": "2026-10-23T20:20:16.446606",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Swurf – Swipe through the real web",
-        "url": "https://swurf.org/",
-        "timestamp": "2026-10-23T20:20:16.446845",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Animations for System Builders",
-        "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-        "timestamp": "2026-10-23T20:20:16.446891",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-        "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
-        "timestamp": "2026-10-23T20:20:16.447024",
-        "source": "Hacker News"
-    },
-    {
-        "title": "WTF Is Agent Experience",
-        "url": "https://usecommune.com/n/the-weekly-interface/a/2026-10-15-wtf-is-agent-experience",
-        "timestamp": "2026-10-23T20:20:16.606816",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
-        "url": "https://www.modelcompare.ai/blog/china-open-source-ai",
-        "timestamp": "2026-10-23T20:20:16.606887",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Tell HN: Claude CLI doesn't exit anymore, not even with CTRL-C",
-        "url": "https://news.ycombinator.com/item?id=50214693",
-        "timestamp": "2026-10-23T20:20:16.606916",
-        "source": "Hacker News"
-    },
-    {
-        "title": "SF's shuttered former Westfield Mall has a buyer",
-        "url": "https://www.kron4.com/news/bay-area/sfs-shuttered-former-westfield-mall-has-a-buyer/",
-        "timestamp": "2026-10-23T20:20:16.606943",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Audio Splitter – Split long MP3 files at silence in the browser",
-        "url": "https://audio-splitter.org/",
-        "timestamp": "2026-10-23T20:20:16.606969",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Ask HN: When did you last visit or use stackoverflow?",
-        "url": "https://news.ycombinator.com/item?id=50214645",
-        "timestamp": "2026-10-23T20:20:16.606995",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Crows can evaluate visual info twice as fast as mammals",
-        "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
-        "timestamp": "2026-10-23T20:20:16.607023",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Translate Human Speech into Birdsong",
-        "url": "https://birdspeech.mitpit.com/",
-        "timestamp": "2026-10-23T20:20:16.607049",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Analysis of 'Demon Seed' – Infinite Ocean",
-        "url": "https://mawrgorshin.com/2025/07/12/analysis-of-demon-seed/",
-        "timestamp": "2026-10-23T20:20:16.607075",
-        "source": "Hacker News"
-    },
-    {
-        "title": "AI Coding Agent Security Benchmark",
-        "url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
-        "timestamp": "2026-10-23T20:20:16.607142",
-        "source": "Hacker News"
-    },
-    {
-        "title": "University of Copenhagen hit by cyber attack",
-        "url": "https://news.ku.dk/all_news/2026/10/university-of-copenhagen-hit-by-cyber-attack/",
-        "timestamp": "2026-10-23T20:20:16.607167",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?",
-        "url": "https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks",
-        "timestamp": "2026-10-23T20:20:16.607193",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Open Source Is Dead and I Killed It",
-        "url": "https://espresso.ai/post/self-hosted-grafana",
-        "timestamp": "2026-10-23T20:20:16.607219",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Trump Says He Has 'Right' to Run for Third Term: 'They Cheated Us'",
-        "url": "https://www.newsweek.com/trump-wants-to-run-for-third-term-12608607",
-        "timestamp": "2026-10-23T20:20:16.607246",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The \"AI-Last\" Methodology",
-        "url": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology/",
-        "timestamp": "2026-10-23T20:20:16.607272",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Fine-tune an embedding model on your own search logs",
-        "url": "https://reopenly.com/blog/embedding-projects/",
-        "timestamp": "2026-10-23T20:20:16.607299",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Sillage, a small contemplative game drawn after Haeckel's plates",
-        "url": "https://sillage.denzen.online",
-        "timestamp": "2026-10-23T20:20:16.607325",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-        "url": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-        "timestamp": "2026-10-23T20:20:16.607352",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Distributed Data, Centralized Fixes",
-        "url": "https://miren.dev/blog/distributed-data-centralized-fixes",
-        "timestamp": "2026-10-23T20:20:16.607378",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Build a wonky machine, a pixel-art physics puzzle",
-        "url": "https://wonkygo.com",
-        "timestamp": "2026-10-23T20:20:16.607404",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Interview with Gala Alica",
-        "url": "https://www.les-nouveaux-riches.com/interview-with-gala-alica/",
-        "timestamp": "2026-10-23T20:20:16.607434",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Apple-design-hig agent skill, DocC updater CLI, and MCP server",
-        "url": "https://github.com/mr8lu/apple-design-hig",
-        "timestamp": "2026-10-23T20:20:16.607459",
-        "source": "Hacker News"
-    },
-    {
-        "title": "OpenAI: Securing our frontier model training environment",
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-        "timestamp": "2026-10-23T20:20:16.607486",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The Goose Programming Language",
-        "url": "https://github.com/aardappel/goose",
-        "timestamp": "2026-10-23T20:20:16.607512",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Startup Pursues Palmer Luckey's Vision of Enhanced Military Dogs",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs",
-        "timestamp": "2026-10-23T20:20:16.607541",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: ObsidianYouTubeSync – Sync YouTube History into Obsidian",
-        "url": "https://github.com/mr8lu/ObsidianYouTubeSync",
-        "timestamp": "2026-10-23T20:20:16.607570",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-        "url": "https://corgi.computer/",
-        "timestamp": "2026-10-23T20:20:16.607598",
-        "source": "Hacker News"
-    },
-    {
-        "title": "My chatbot comforted me when I thought I was dying. Was that friendship?",
-        "url": "https://bigthink.com/mini-philosophy/my-chatbot-comforted-me-when-i-thought-i-was-dying-was-that-friendship/",
-        "timestamp": "2026-10-23T20:20:16.607625",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon",
-        "url": "https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806",
-        "timestamp": "2026-10-23T20:20:16.724445",
-        "source": "Dev.to"
-    },
-    {
-        "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-        "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-        "timestamp": "2026-10-23T20:20:17.001868",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-        "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-        "timestamp": "2026-10-23T20:20:17.001879",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-        "timestamp": "2026-10-23T20:20:17.001882",
-        "source": "TechCrunch"
-    },
-    {
         "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
         "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
         "timestamp": "2026-10-23T23:16:05.045257",
@@ -29997,6 +29763,240 @@
         "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
         "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
         "timestamp": "Sat, 14 Nov 2026 16:34:15 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "url": "https://retrocomputing.stackexchange.com/questions/17957",
+        "timestamp": "2026-11-15T00:19:23.578215",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+        "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+        "timestamp": "2026-11-15T00:19:23.578382",
+        "source": "Hacker News"
+    },
+    {
+        "title": "L3Harris statement on the Nov. 13 ground stop",
+        "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+        "timestamp": "2026-11-15T00:19:23.578681",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Write your own kernel optimiser",
+        "url": "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
+        "timestamp": "2026-11-15T00:19:23.578743",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Possible Futures",
+        "url": "https://borretti.me/article/possible-futures",
+        "timestamp": "2026-11-15T00:19:23.578931",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+        "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+        "timestamp": "2026-11-15T00:19:23.579097",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Trolls Among Us I",
+        "url": "https://www.nytimes.com/2008/08/03/magazine/03trolls-t.html",
+        "timestamp": "2026-11-15T00:19:23.654197",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The AI revolution is leaving younger tech workers behind",
+        "url": "https://twitter.com/KobeissiLetter/status/2121689817301819425",
+        "timestamp": "2026-11-15T00:19:23.654241",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Thunder/Lighting Distance Game",
+        "url": "https://five-mississippi.com/",
+        "timestamp": "2026-11-15T00:19:23.654278",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Lazarus: Backdooring LLMs by editing ten neurons",
+        "url": "https://twitter.com/DimitrisPapail/status/2120245027804705121",
+        "timestamp": "2026-11-15T00:19:23.654312",
+        "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+        "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+        "timestamp": "2026-11-15T00:19:23.654370",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How can I simplify using a helper class to pass multiple parameters to co_await?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/",
+        "timestamp": "2026-11-15T00:19:23.654422",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I made a tiny HN-style forum for small communities",
+        "url": "https://github.com/skorokithakis/soliloquy",
+        "timestamp": "2026-11-15T00:19:23.654459",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Single instruction, multiple threads (SIMT)",
+        "url": "https://en.wikipedia.org/wiki/Single_instruction,_multiple_threads",
+        "timestamp": "2026-11-15T00:19:23.654491",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pi-Cam-IR-A",
+        "url": "https://studiowetware.com/pi-cam-ir-a/",
+        "timestamp": "2026-11-15T00:19:23.654527",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Let Me Let You Own Your Data",
+        "url": "https://www.willett.io/posts/data/",
+        "timestamp": "2026-11-15T00:19:23.654561",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100k signatures",
+        "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
+        "timestamp": "2026-11-15T00:19:23.654593",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Can you install two hot-patches if Windows Update checks for existing patches?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/",
+        "timestamp": "2026-11-15T00:19:23.654627",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Flipping Toshiba 110CT Satellites (2023)",
+        "url": "https://dankpads.com/uncategorized/flipping-toshiba-110ct-satellites/",
+        "timestamp": "2026-11-15T00:19:23.654659",
+        "source": "Hacker News"
+    },
+    {
+        "title": "DeepSeek releases API for its apps along with open source front end",
+        "url": "https://twitter.com/deepseek_ai/status/2121247896918253875",
+        "timestamp": "2026-11-15T00:19:23.654696",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Is post-training make AI models dumber?",
+        "url": "https://news.ycombinator.com/item?id=50502344",
+        "timestamp": "2026-11-15T00:19:23.654729",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Bing is the anti-AI search engine you should be using",
+        "url": "https://www.pcworld.com/article/3115405/bing-is-the-anti-ai-search-engine-you-should-be-using.html",
+        "timestamp": "2026-11-15T00:19:23.654762",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Serving Kimi K3 – DigitalOcean",
+        "url": "https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine",
+        "timestamp": "2026-11-15T00:19:23.654794",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Alibaba's Qwen3.8 re-educated with a more Western worldview",
+        "url": "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
+        "timestamp": "2026-11-15T00:19:23.654825",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Phantasialand: Microsoft outage hid pool chlorine fault, 15 guests hurt",
+        "url": "https://pollar.news/en/event/phantasialand-pool-15-guests-hurt",
+        "timestamp": "2026-11-15T00:19:23.654857",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Save the Gronlid Library – What's Up Choiceland",
+        "url": "https://wucland.substack.com/p/gronlid-pushes-to-save-library",
+        "timestamp": "2026-11-15T00:19:23.654892",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Proof of effort: When LLMs destroyed the time for execution",
+        "url": "https://shawnsomething.com/thoughts/proof-of-effort/",
+        "timestamp": "2026-11-15T00:19:23.654924",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Where do we draw the line on what is and isn't Slop Art?",
+        "url": "https://clarkwakeland.com/blog/2026/art/",
+        "timestamp": "2026-11-15T00:19:23.654989",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Big Pharma Can Rival Big Software",
+        "url": "https://www.a16z.news/p/big-pharma-can-rival-big-software",
+        "timestamp": "2026-11-15T00:19:23.655032",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why is there anything at all?",
+        "url": "https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F",
+        "timestamp": "2026-11-15T00:19:23.655065",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Granite 4.2 LLMs: How They're Built",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+        "timestamp": "2026-11-15T00:19:23.655096",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Calculus of Inductive Constructions [pdf]",
+        "url": "https://www.cs.uoregon.edu/research/summerschool/summer11/lectures/oplss-herbelin1.pdf",
+        "timestamp": "2026-11-15T00:19:23.655128",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)",
+        "url": "https://si2.org/",
+        "timestamp": "2026-11-15T00:19:23.655161",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: LetThemBuild – Claude Code, Codex, Gemini and OpenRouter in Parallel",
+        "url": "https://letthembuild.com",
+        "timestamp": "2026-11-15T00:19:23.655193",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+        "url": "https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai",
+        "timestamp": "2026-11-15T00:19:23.655225",
+        "source": "Hacker News"
+    },
+    {
+        "title": "ScreenGo",
+        "url": "https://www.producthunt.com/products/screengo",
+        "timestamp": "2026-11-09T07:57:03-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "FreeFlow Dictation",
+        "url": "https://www.producthunt.com/products/freeflow-dictation",
+        "timestamp": "2026-11-10T00:38:27-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Where was Nvidia’s security team?",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "timestamp": "Sun, 15 Nov 2026 00:08:07 +0000",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "timestamp": "Sat, 14 Nov 2026 21:41:22 +0000",
         "source": "TechCrunch"
     }
 ]
