@@ -54886,5 +54886,257 @@
         "url": "https://www.producthunt.com/products/zcad-ai",
         "timestamp": "2026-10-24T11:20:36.154250",
         "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Penta",
+        "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+        "timestamp": "2026-10-24T11:20:36.154263",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "1Password for Agents",
+        "url": "https://www.producthunt.com/products/1password",
+        "timestamp": "2026-10-24T11:20:36.154268",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "myPip",
+        "url": "https://www.producthunt.com/products/mypip-2",
+        "timestamp": "2026-10-24T11:20:36.154272",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Many Displays",
+        "url": "https://www.producthunt.com/products/many-displays",
+        "timestamp": "2026-10-24T11:20:36.154275",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "AgentValley",
+        "url": "https://www.producthunt.com/products/agentvalley",
+        "timestamp": "2026-10-24T11:20:36.154279",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "How It Went",
+        "url": "https://www.producthunt.com/products/how-it-went",
+        "timestamp": "2026-10-24T11:20:36.154283",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "River Writer",
+        "url": "https://www.producthunt.com/products/river-writer",
+        "timestamp": "2026-10-24T11:20:36.154286",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Shedi",
+        "url": "https://www.producthunt.com/products/shedi",
+        "timestamp": "2026-10-24T11:20:36.154293",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "sideOS.ai",
+        "url": "https://www.producthunt.com/products/sideos-ai",
+        "timestamp": "2026-10-24T11:20:36.154296",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Byter",
+        "url": "https://www.producthunt.com/products/byter",
+        "timestamp": "2026-10-24T11:20:36.154300",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "LinkIntel",
+        "url": "https://www.producthunt.com/products/linkintel",
+        "timestamp": "2026-10-24T11:20:36.154307",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+        "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+        "timestamp": "2026-10-24T14:41:35.581504",
+        "source": "Hacker News"
+    },
+    {
+        "title": "One Must Fall 2097 Remastered",
+        "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+        "timestamp": "2026-10-24T14:41:35.581572",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Appreciating the beauty of all your body's scars and scratches",
+        "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+        "timestamp": "2026-10-24T14:41:35.581639",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+        "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+        "timestamp": "2026-10-24T14:41:35.581991",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+        "url": "https://github.com/Zagitta/gpu-unlock",
+        "timestamp": "2026-10-24T14:41:35.582181",
+        "source": "Hacker News"
+    },
+    {
+        "title": "All Abstractions Are the Same",
+        "url": "https://t3.at/blog/everything-is-everything/",
+        "timestamp": "2026-10-24T14:41:35.805662",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What the U.S. Is Doing in Venezuela",
+        "url": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/",
+        "timestamp": "2026-10-24T14:41:35.805721",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google illegally cut down 250K trees in Finland for data center",
+        "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+        "timestamp": "2026-10-24T14:41:35.805758",
+        "source": "Hacker News"
+    },
+    {
+        "title": "With recent eMudra case, learning Cryptography well is more important that",
+        "url": "https://news.ycombinator.com/item?id=50221673",
+        "timestamp": "2026-10-24T14:41:35.805792",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: TenseMem – deterministic memory for AI agents",
+        "url": "https://github.com/tensemem/tensemem",
+        "timestamp": "2026-10-24T14:41:35.805827",
+        "source": "Hacker News"
+    },
+    {
+        "title": "BeNice Closing the Inference-Memory Gap of Looped Models with KV-Sharing",
+        "url": "https://sandyresearch.github.io/benice/",
+        "timestamp": "2026-10-24T14:41:35.805864",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I created this because I wanted to",
+        "url": "https://avanelsas.github.io/foggy-glasses/i-created-this-because-i-wanted-to/",
+        "timestamp": "2026-10-24T14:41:35.805897",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Group in San Francisco graftng fruit-bearing branches onto street trees",
+        "url": "https://twitter.com/JasonBassler1/status/2113745277416771830",
+        "timestamp": "2026-10-24T14:41:35.805931",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Under a Cloud: How was slavery justified?",
+        "url": "https://www.lrb.co.uk/the-paper/v48/n19/alexander-bevilacqua/under-a-cloud",
+        "timestamp": "2026-10-24T14:41:35.805962",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Firefighter.sh – an insane solution to the current CVE apocalypse",
+        "url": "https://firefighter.sh/",
+        "timestamp": "2026-10-24T14:41:35.805995",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Visual Studio extension that shows decimal and hex in the debugger",
+        "url": "https://github.com/JochenBaier/AlwaysHex",
+        "timestamp": "2026-10-24T14:41:35.806032",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How Much Does Custom Software Development Cost in the UK?",
+        "url": "https://www.bitechnology.co.uk/",
+        "timestamp": "2026-10-24T14:41:35.806065",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Human Brain Owes Its Existence to a Prehistoric Pandemic",
+        "url": "https://www.psychologytoday.com/us/blog/the-new-brain/202610/the-human-brain-owes-its-existence-to-a-prehistoric-pandemic",
+        "timestamp": "2026-10-24T14:41:35.806132",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New Critical Television",
+        "url": "https://openvault.wgbh.org/exhibits/new-critical-television",
+        "timestamp": "2026-10-24T14:41:35.806164",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Bellman – rooms where agents from different providers work together",
+        "url": "https://github.com/bellman-sh/bellman",
+        "timestamp": "2026-10-24T14:41:35.806197",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A phone lock I can't undo on impulse because I never learn the code",
+        "url": "https://tryscreenfasting.com/",
+        "timestamp": "2026-10-24T14:41:35.806229",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Prusa Breach Their Own GPLv3 License for over a Week",
+        "url": "https://danb.me/blog/prusa-gplv3-firmware/",
+        "timestamp": "2026-10-24T14:41:35.806260",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Free Online Image Tools",
+        "url": "https://imgimage.com/",
+        "timestamp": "2026-10-24T14:41:35.806291",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
+        "url": "https://github.com/Aldyernesto/shotstash",
+        "timestamp": "2026-10-24T14:41:35.806326",
+        "source": "Hacker News"
+    },
+    {
+        "title": "HelixSync – Self-hosted, end-to-end encrypted browser sync",
+        "url": "https://github.com/ghaziAlibi/helixsync",
+        "timestamp": "2026-10-24T14:41:35.806376",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Suspending idle Streamlit compute pools in Snowflake with a nightly task [video]",
+        "url": "https://www.youtube.com/shorts/1gVAoeIRDbQ",
+        "timestamp": "2026-10-24T14:41:35.806413",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI gets about 10x cheaper every year",
+        "url": "https://stevekrouse.com/10x",
+        "timestamp": "2026-10-24T14:41:35.806447",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Did you know you can link to a timestamp in a plain video file?",
+        "url": "https://www.autodidacts.io/how-to-deeplink-to-specific-part-of-text-audio-video-pdf-image/",
+        "timestamp": "2026-10-24T14:41:35.806479",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Abandoned Popcorn Time app exposed devices to RCE attacks",
+        "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+        "timestamp": "2026-10-24T14:41:35.806512",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Please Don't Mess with Links",
+        "url": "https://maurycyz.com/misc/real_links/",
+        "timestamp": "2026-10-24T14:41:35.806544",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Curse of Soldered RAM",
+        "url": "https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/",
+        "timestamp": "2026-10-24T14:41:35.806576",
+        "source": "Hacker News"
     }
 ]
