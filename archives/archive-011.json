@@ -55138,5 +55138,269 @@
         "url": "https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/",
         "timestamp": "2026-10-24T14:41:35.806576",
         "source": "Hacker News"
+    },
+    {
+        "title": "Raspberry Pi Desktop proves old PCs aren't past it",
+        "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
+        "timestamp": "2026-10-24T14:41:35.806609",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Tempis the Canvas Timeline Component",
+        "url": "https://tempis.dev/",
+        "timestamp": "2026-10-24T14:41:35.806641",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I want my Wednesday back",
+        "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+        "timestamp": "2026-10-24T14:41:35.806673",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
+        "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg",
+        "timestamp": "2026-10-24T14:41:36.075518",
+        "source": "Dev.to"
+    },
+    {
+        "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+        "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+        "timestamp": "2026-10-24T14:41:36.319197",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "timestamp": "2026-10-24T14:41:36.319206",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Roku developer repositories moved from GitHub to GitLab",
+        "url": "https://blog.roku.com/developer/gitlab-move",
+        "timestamp": "2026-10-24T17:36:50.531167",
+        "source": "Hacker News"
+    },
+    {
+        "title": "FreeDNS",
+        "url": "https://freedns.afraid.org/",
+        "timestamp": "2026-10-24T17:36:50.531201",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+        "url": "https://de.numista.com/9866",
+        "timestamp": "2026-10-24T17:36:50.531220",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Neural chip decodes interactions between brain regions",
+        "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+        "timestamp": "2026-10-24T17:36:50.531237",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Argus- open source security platform to protect against agentic attacks",
+        "url": "https://github.com/thomasunise/argus",
+        "timestamp": "2026-10-24T17:36:50.531254",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'",
+        "url": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
+        "timestamp": "2026-10-24T17:36:50.531357",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+        "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+        "timestamp": "2026-10-24T17:36:50.531386",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Parsing EDIFACT in Python with syntax trees",
+        "url": "https://github.com/AmadeusITGroup/Edison",
+        "timestamp": "2026-10-24T17:36:50.531441",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tiling Noise – Procedural GPU Patterns",
+        "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+        "timestamp": "2026-10-24T17:36:50.531524",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Root shell on Samsung TV",
+        "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+        "timestamp": "2026-10-24T17:36:50.531617",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Political History of SF",
+        "url": "http://www.catb.org/~esr/writings/sf-history.html",
+        "timestamp": "2026-10-24T17:36:50.717370",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Batchplan: Plan batches of robot motions, use for execution or training data",
+        "url": "https://github.com/natsuku-lab/batchplan",
+        "timestamp": "2026-10-24T17:36:50.717403",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Utility of Mathematics",
+        "url": "http://www.catb.org/~esr/writings/utility-of-math/",
+        "timestamp": "2026-10-24T17:36:50.717424",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ricuicui 0.5.7: notes, database and 3D",
+        "url": "https://ricuicui.com/en/versions/0-5-7",
+        "timestamp": "2026-10-24T17:36:50.717441",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Art of Unix Programming",
+        "url": "http://www.catb.org/esr/writings/taoup/",
+        "timestamp": "2026-10-24T17:36:50.717460",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Valve Steam Personal Calendar",
+        "url": "https://store.steampowered.com/login/?redir=https%3A%2F%2Fstore.steampowered.com%2Fpersonalcalendar",
+        "timestamp": "2026-10-24T17:36:50.717477",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I turn up late to meetings to dodge small talk. Am I wrong?",
+        "url": "https://www.nature.com/articles/d41586-026-02201-4",
+        "timestamp": "2026-10-24T17:36:50.717494",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Fermi Poker",
+        "url": "https://www.lesswrong.com/posts/JFYvJqMaLw9nhfrur/fermi-poker",
+        "timestamp": "2026-10-24T17:36:50.717509",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+        "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+        "timestamp": "2026-10-24T17:36:50.717526",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
+        "url": "https://botchelor.com/gate?from=%2Fagents",
+        "timestamp": "2026-10-24T17:36:50.717557",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
+        "url": "https://medium.com/@ivan_43200/i-built-a-saas-with-ai-two-months-later-i-have-zero-active-users-1e93436a5b39",
+        "timestamp": "2026-10-24T17:36:50.717571",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Efficiency of Estimators",
+        "url": "https://jechevarria.com/blog/2026/10/24/estimator-efficiency/",
+        "timestamp": "2026-10-24T17:36:50.717586",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
+        "url": "https://x.com/i/trending/2113887405459546296",
+        "timestamp": "2026-10-24T17:36:50.717600",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Is Chocolate Still Chocolate?",
+        "url": "https://www.grubstreet.com/article/chocolate-hersheys-reeses-conspiracy.html",
+        "timestamp": "2026-10-24T17:36:50.717626",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Download: computing's next leap and permafrost's climate threat",
+        "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+        "timestamp": "2026-10-24T17:36:50.717641",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Firefox – Site Isolation (Fission) Goes Live on Android",
+        "url": "https://connect.mozilla.org/t5/discussions/fission-goes-live-on-android-please-share-your-feedback/td-p/133911#M53833",
+        "timestamp": "2026-10-24T17:36:50.717657",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+        "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+        "timestamp": "2026-10-24T17:36:50.717672",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Region: A Lesson in Data Integrity",
+        "url": "https://mydbanotebook.org/posts/region-a-lesson-in-data-integrity/",
+        "timestamp": "2026-10-24T17:36:50.717686",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Bottles creator claims Raven will run windows apps faster than WINE",
+        "url": "https://twitter.com/brombinmirko/status/2113490282213740771",
+        "timestamp": "2026-10-24T17:36:50.717701",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How LLM-Based Penetration Testing Harnesses Work",
+        "url": "https://utkusen.substack.com/p/how-llm-based-penetration-testing",
+        "timestamp": "2026-10-24T17:36:50.717715",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The glorious xkcdRandom Zig builtin",
+        "url": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
+        "timestamp": "2026-10-24T17:36:50.717730",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Symbools: An archive of symbols, marks, and visual identities",
+        "url": "https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/",
+        "timestamp": "2026-10-24T17:36:50.717745",
+        "source": "Hacker News"
+    },
+    {
+        "title": "ChatGPT and others often cite national news outlets on local queries",
+        "url": "https://pressgazette.co.uk/news/ai-answer-engines-bypass-local-news-outlets-going-straight-to-official-sources/",
+        "timestamp": "2026-10-24T17:36:50.717774",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What the singer Tems's rise taught me about careers",
+        "url": "https://coached.com/essays/what-the-singer-tems-rise-taught-me-about-careers/",
+        "timestamp": "2026-10-24T17:36:50.717788",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: L4ES – Linux sandboxes powered by the seL4 microkernel",
+        "url": "https://l4es.dev/",
+        "timestamp": "2026-10-24T17:36:50.717802",
+        "source": "Hacker News"
+    },
+    {
+        "title": "An Ancient Virus Explains Why the Human Brain Is Special",
+        "url": "https://www.404media.co/an-ancient-virus-explains-why-the-human-brain-is-special/",
+        "timestamp": "2026-10-24T17:36:50.717818",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to take back your voice",
+        "url": "https://newsletter.openhomefoundation.org/how-to-take-back-your-voice/",
+        "timestamp": "2026-10-24T17:36:50.717832",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What Makes Us Human",
+        "url": "https://itsnotyouits.ai/",
+        "timestamp": "2026-10-24T17:36:50.717847",
+        "source": "Hacker News"
     }
 ]
