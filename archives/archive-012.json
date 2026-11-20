@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Show HN: Clai.chat – Agents as JSON, config and (multi-vendor) transcript sync",
+        "url": "https://www.clai.chat/",
+        "timestamp": "2026-10-27T18:59:28.312591",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Jog – GitHub runners for 80% less",
+        "url": "https://usejog.com/",
+        "timestamp": "2026-10-27T18:59:28.312634",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Will Open Source force companies like Anthropic to shift their focus?",
+        "url": "https://news.ycombinator.com/item?id=50263936",
+        "timestamp": "2026-10-27T18:59:28.312663",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New Ways of Seeing [video]",
+        "url": "https://www.youtube.com/watch?v=SZP4QH1tdJg",
+        "timestamp": "2026-10-27T18:59:28.312691",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Woman with epilepsy dies after taking ChatGPT medical advice",
+        "url": "https://finance.yahoo.com/healthcare/articles/social-media-victims-law-center-170100749.html",
+        "timestamp": "2026-10-27T18:59:28.312719",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Discord will soon let anyone find public server messages through Google",
+        "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+        "timestamp": "2026-10-27T18:59:28.312746",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Six questions about political polarization",
+        "url": "https://statmodeling.stat.columbia.edu/2026/10/27/six-questions-about-political-polarization-and-my-responses/",
+        "timestamp": "2026-10-27T18:59:28.312773",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Advantages of Mobile Linux over AOSP (LineageOS, CrDroid, GrapheneOS, etc.)",
+        "url": "https://amosbbatto.wordpress.com/2026/10/19/the-advantages-of-mobile-linux-over-aosp/",
+        "timestamp": "2026-10-27T18:59:28.312799",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Breaking the Open Web Won't Stop the Bad Bots",
+        "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+        "timestamp": "2026-10-27T18:59:28.312828",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Methane Hotspot Explorer",
+        "url": "https://atmosphere.copernicus.eu/ghg-services/cams-methane-hotspot-explorer",
+        "timestamp": "2026-10-27T18:59:28.312854",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI Can Save the Public Sphere",
+        "url": "https://www.persuasion.community/p/ai-can-save-the-public-sphere",
+        "timestamp": "2026-10-27T18:59:28.312879",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Smartphone data order faces first constitutional test in Japan",
+        "url": "https://www.asahi.com/ajw/articles/16997453",
+        "timestamp": "2026-10-27T18:59:28.312905",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Nobody Tells You How Funny It Is When Your AI Agents Start Fighting",
+        "url": "https://medium.com/@donkan168/nobody-tells-you-how-funny-it-is-when-your-ai-agents-start-fighting-f76e2a2e1ff4",
+        "timestamp": "2026-10-27T18:59:28.312933",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Securing sensitive data in the AI era",
+        "url": "https://blog.piotrnalepa.pl/en/2026/10/27/shadow-ai-in-a-development-team-how-to-keep-your-clients-code-out-of-the-chat/",
+        "timestamp": "2026-10-27T18:59:28.312962",
+        "source": "Hacker News"
+    },
+    {
+        "title": "\"Find Your Falls\": Greenville, SC and the Return to Human Scale",
+        "url": "https://www.inferterra.com/find-your-falls/",
+        "timestamp": "2026-10-27T18:59:28.312988",
+        "source": "Hacker News"
+    },
+    {
+        "title": "No Limit, a bot-building tournament hosted by Citadel, Sequoia and OpenAI",
+        "url": "https://pokerbot.sequoiacap.com/",
+        "timestamp": "2026-10-27T18:59:28.313014",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GPT-6.1 Terra now available in Microsoft Foundry",
+        "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/gpt-6-1-terra-now-generally-available-in-microsoft-foundry-build-agents-that-see/4567769",
+        "timestamp": "2026-10-27T18:59:28.313039",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built flightdeck – Observability and control plane for AI agents",
+        "url": "https://flightdeck-hq.com/",
+        "timestamp": "2026-10-27T18:59:28.313065",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Three TLS Bugs in GoAhead",
+        "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+        "timestamp": "2026-10-27T18:59:28.313091",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Trump says he will ban everyone from using the phrase 'artificial intelligence'",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html",
+        "timestamp": "2026-10-27T18:59:28.313117",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Making documentation pages agent friendly",
+        "url": "https://idratherbewriting.com/blog/make-documentation-agent-friendly",
+        "timestamp": "2026-10-27T18:59:28.313143",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New CodeRabbit Features: Security Agents for Multi-Repo Deep Scans",
+        "url": "https://www.coderabbit.ai/blog/coderabbit-secure-cross-repository-security",
+        "timestamp": "2026-10-27T18:59:28.313170",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Private plane carrying Bolsonaro detained in Argentina after runoff loss",
+        "url": "https://www.local10.com/news/world/2026/10/27/private-plane-believed-to-be-carrying-bolsonaro-detained-in-argentina-after-presidential-runoff-loss/",
+        "timestamp": "2026-10-27T18:59:28.313195",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Responsible Disclosure in the Age of Vulnpocalypse",
+        "url": "https://www.redhat.com/en/blog/responsible-disclosure-age-vulnpocalypse",
+        "timestamp": "2026-10-27T18:59:28.313248",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I found a more accurate upcoming LLM Benchmarks leaderboard",
+        "url": "https://www.llmverifications.com/",
+        "timestamp": "2026-10-27T18:59:28.313276",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Your DEV posts have a beautiful new share card ✨",
+        "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
+        "timestamp": "2026-10-27T18:59:28.738634",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+        "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+        "timestamp": "2026-10-27T18:59:28.738645",
+        "source": "Dev.to"
+    },
+    {
+        "title": "The Most Embarrassing Private Key in Web PKI History",
+        "url": "https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b",
+        "timestamp": "2026-10-27T18:59:28.738647",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Nuvio 5.0",
+        "url": "https://www.producthunt.com/products/nuvio",
+        "timestamp": "2026-10-27T18:59:28.925465",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+        "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+        "timestamp": "2026-10-27T18:59:29.051181",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+        "timestamp": "2026-10-27T18:59:29.051192",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "timestamp": "2026-10-27T18:59:29.051195",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "timestamp": "2026-10-27T18:59:29.051198",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+        "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+        "timestamp": "2026-10-27T18:59:29.051201",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "US government says hackers are now exploiting critical PHP web bugs",
+        "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+        "timestamp": "2026-10-27T18:59:29.051205",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+        "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+        "timestamp": "2026-10-27T18:59:29.051207",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+        "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+        "timestamp": "2026-10-27T18:59:29.051210",
+        "source": "TechCrunch"
+    }
+]
