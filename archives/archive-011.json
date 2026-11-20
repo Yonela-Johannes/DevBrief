@@ -59560,5 +59560,311 @@
         "url": "https://play.google.com/store/apps/details?id=com.sentiomind&hl=en_US",
         "timestamp": "2026-10-27T07:54:08.415862",
         "source": "Hacker News"
+    },
+    {
+        "title": "DoveORM – Small, security-hardened Python ORM with built-in migrations",
+        "url": "https://github.com/imaradesk/doveorm",
+        "timestamp": "2026-10-27T07:54:08.415896",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Open Source TradingView-style charts, TPO market profile, footprint, liquidation",
+        "url": "https://news.ycombinator.com/item?id=50255655",
+        "timestamp": "2026-10-27T07:54:08.415929",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Broadcom WPS flaw leaves routers exposed to over-the-air takeover",
+        "url": "https://meridian.news/p/8039333079430032961/",
+        "timestamp": "2026-10-27T07:54:08.415967",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Localhosting with Yggdrasil",
+        "url": "https://medium.com/@peterretief/localhosting-with-yggdrasil-or-how-the-internet-was-supposed-to-work-5441fdf44cc3",
+        "timestamp": "2026-10-27T07:54:08.415999",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Python on My Wrist",
+        "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+        "timestamp": "2026-10-27T07:54:08.416034",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Stop Explaining Yourself to AI",
+        "url": "https://www.chele.bi/videos/stop-explaining-yourself-to-ai",
+        "timestamp": "2026-10-27T07:54:08.416068",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: University of Malta LaTeX dissertation template, easily adapted",
+        "url": "https://github.com/jp-um/university_of_malta_LaTeX_dissertation_template",
+        "timestamp": "2026-10-27T07:54:08.416103",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hello, Graphite: Performance",
+        "url": "https://wcandillon.dev/article/hello-graphite-performance",
+        "timestamp": "2026-10-27T07:54:08.416136",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The 3DS Oracle: Bin Attack via the Network",
+        "url": "https://arxiv.org/abs/2610.32206",
+        "timestamp": "2026-10-27T07:54:08.416175",
+        "source": "Hacker News"
+    },
+    {
+        "title": "ThreatLens v2.3 Is Now Live Introducing Privacy Controls, IOC Watchlist",
+        "url": "https://github.com/AbdaullahAG/ThreatLens",
+        "timestamp": "2026-10-27T07:54:08.416208",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Make Quizzes with Your Friends",
+        "url": "https://www.instagram.com/reel/DdpRlfdpBpk/",
+        "timestamp": "2026-10-27T07:54:08.416241",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI Rap Video",
+        "url": "https://www.memeaivideo.com",
+        "timestamp": "2026-10-27T07:54:08.416278",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New Python security updates explicitly block the eMudhra certificates by SPKI",
+        "url": "https://news.ycombinator.com/item?id=50255510",
+        "timestamp": "2026-10-27T07:54:08.416313",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Copyparty – file sharing server in a single Python file",
+        "url": "https://copyparty.eu/",
+        "timestamp": "2026-10-27T07:54:08.416346",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Sweden: Europe's most useful electric vehicle test case",
+        "url": "https://omev.se/2026/10/27/sweden-europes-most-useful-electric-vehicle-test-case/",
+        "timestamp": "2026-10-27T07:54:08.416382",
+        "source": "Hacker News"
+    },
+    {
+        "title": "More additional blog posts and articles",
+        "url": "https://terrytao.wordpress.com/2026/10/26/more-additional-blog-posts-and-articles/",
+        "timestamp": "2026-10-27T07:54:08.416420",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Overmind",
+        "url": "https://www.producthunt.com/products/overmind-2",
+        "timestamp": "2026-10-27T07:54:08.699797",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Off Grid AI",
+        "url": "https://www.producthunt.com/products/off-grid-ai",
+        "timestamp": "2026-10-27T07:54:08.699812",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Orbit",
+        "url": "https://www.producthunt.com/products/orbit-app-blocker",
+        "timestamp": "2026-10-27T07:54:08.699816",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "NuPlay",
+        "url": "https://www.producthunt.com/products/nuplay",
+        "timestamp": "2026-10-27T07:54:08.699818",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Paddock",
+        "url": "https://www.producthunt.com/products/paddock-2",
+        "timestamp": "2026-10-27T07:54:08.699833",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Arcade Controller Pro",
+        "url": "https://www.producthunt.com/products/bluetooth-snes-controller",
+        "timestamp": "2026-10-27T07:54:08.699836",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "SavorApp_AI",
+        "url": "https://www.producthunt.com/products/savor-3",
+        "timestamp": "2026-10-27T07:54:08.699839",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Revix AI",
+        "url": "https://www.producthunt.com/products/revix-ai-2",
+        "timestamp": "2026-10-27T07:54:08.699841",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "TheySaid 4.0",
+        "url": "https://www.producthunt.com/products/theysaid",
+        "timestamp": "2026-10-27T07:54:08.699844",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "fswitcher",
+        "url": "https://www.producthunt.com/products/fswitcher",
+        "timestamp": "2026-10-27T07:54:08.699847",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Spacesheep",
+        "url": "https://www.producthunt.com/products/spacesheep",
+        "timestamp": "2026-10-27T07:54:08.699849",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "OpenRadView",
+        "url": "https://www.producthunt.com/products/openradview",
+        "timestamp": "2026-10-27T07:54:08.699854",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "PulseDev",
+        "url": "https://www.producthunt.com/products/pulsedev",
+        "timestamp": "2026-10-27T07:54:08.699859",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+        "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+        "timestamp": "2026-10-27T07:54:08.753470",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Ask HN: Will There Be Another iPhone Mini?",
+        "url": "https://news.ycombinator.com/item?id=50259219",
+        "timestamp": "2026-10-27T13:44:40.208703",
+        "source": "Hacker News"
+    },
+    {
+        "title": "SqueakJS – A Squeak VM in JavaScript",
+        "url": "https://squeak.js.org/demo/simple.html",
+        "timestamp": "2026-10-27T13:44:40.208753",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Expericencing an issue in Gmail where emails do not delete in Firefox",
+        "url": "https://news.ycombinator.com/item?id=50259191",
+        "timestamp": "2026-10-27T13:44:40.208794",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Model Salt, fixing the pelican problem in LLMs by adding entropy",
+        "url": "https://modelsalt.com/",
+        "timestamp": "2026-10-27T13:44:40.208828",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Upvote Dilemma",
+        "url": "https://herman.bearblog.dev/the-upvote-dilemma/",
+        "timestamp": "2026-10-27T13:44:40.208861",
+        "source": "Hacker News"
+    },
+    {
+        "title": "PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)",
+        "url": "https://github.com/vishwakulkarni/PoseForge",
+        "timestamp": "2026-10-27T13:44:40.208898",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: EquiReason – a research department running as software",
+        "url": "https://equireason.com",
+        "timestamp": "2026-10-27T13:44:40.208935",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Extracting \"Ocarina of Time: Master Quest\" ROM from the Wind Waker Bonus Disc",
+        "url": "https://sethmlarson.dev/extracting-n64-roms-from-wind-waker-bonus-disk",
+        "timestamp": "2026-10-27T13:44:40.208967",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Chat Brawlers",
+        "url": "https://chat-brawlers.kottos.ai/",
+        "timestamp": "2026-10-27T13:44:40.209000",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Give our AI coding runner a real task and watch it until merge",
+        "url": "https://mcptask.online/live?language=en",
+        "timestamp": "2026-10-27T13:44:40.209032",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Was Dracula a Tax Dodger?",
+        "url": "https://www.rte.ie/brainstorm/2026/1027/1596462-dracula-ireland-revenue-commissioners-tax-legislation-evasion/",
+        "timestamp": "2026-10-27T13:44:40.209065",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+        "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+        "timestamp": "2026-10-27T13:44:40.209097",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Dear Open Source Developers: It's OK Not to Embargo",
+        "url": "https://opensourcesecurity.io/2026/10-embargo/",
+        "timestamp": "2026-10-27T13:44:40.209132",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: How do you get new readers for your blog",
+        "url": "https://news.ycombinator.com/item?id=50259066",
+        "timestamp": "2026-10-27T13:44:40.209163",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Alleged Israeli spy company targeted Starlink users",
+        "url": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/",
+        "timestamp": "2026-10-27T13:44:40.209194",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Company data from official French and European registers, paid per call",
+        "url": "https://api.sirenic.eu/en",
+        "timestamp": "2026-10-27T13:44:40.209226",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Helium-3 mining on the lunar surface",
+        "url": "https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/Energy/Helium-3_mining_on_the_lunar_surface",
+        "timestamp": "2026-10-27T13:44:40.209257",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Understanding Iceberg CDC costs on S3: requests, not bytes",
+        "url": "https://etleap.com/blog/understanding-iceberg-cdc-costs-on-s3-requests-not-bytes",
+        "timestamp": "2026-10-27T13:44:40.209289",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Valen – Open multimodal decision models for text, images and video",
+        "url": "https://valen-team.github.io/",
+        "timestamp": "2026-10-27T13:44:40.209320",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Foldocs, turn a shared Google Drive or Nextcloud folder into a website",
+        "url": "https://github.com/graus/foldocs",
+        "timestamp": "2026-10-27T13:44:40.209354",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: AuditReady – 12 deterministic HTML checks, honest about what they miss",
+        "url": "https://feaefe371424d0725b266468856c9101.ctonew.app/",
+        "timestamp": "2026-10-27T13:44:40.209387",
+        "source": "Hacker News"
     }
 ]
