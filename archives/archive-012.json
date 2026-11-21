@@ -664,5 +664,329 @@
         "url": "https://manishrjain.com/egres/",
         "timestamp": "2026-10-28T01:54:40.946635",
         "source": "Hacker News"
+    },
+    {
+        "title": "247A, Notes 3: Singular integral operators",
+        "url": "https://terrytao.wordpress.com/2026/10/27/247a-notes-3-singular-integral-operators/",
+        "timestamp": "2026-10-28T01:54:40.946659",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Billion-query-per-second lookup tables in C++",
+        "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+        "timestamp": "2026-10-28T01:54:40.946682",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A little directory of small, weird websites",
+        "url": "https://culdesac.site/",
+        "timestamp": "2026-10-28T01:54:40.946706",
+        "source": "Hacker News"
+    },
+    {
+        "title": "VibeScout",
+        "url": "https://play.google.com/store/apps/details?id=com.kennethwahl.vibescout&hl=en_US",
+        "timestamp": "2026-10-28T01:54:40.946729",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Millions Use Antidepressants. We Still Don't Understand How They Work",
+        "url": "https://www.nytimes.com/2026/10/27/science/how-antidepressants-ssri-work.html",
+        "timestamp": "2026-10-28T01:54:40.946751",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Workshop on Modular forms around string theory (2013)",
+        "url": "https://www.fields.utoronto.ca/programs/scientific/13-14/calabi-yau/modular/index.html",
+        "timestamp": "2026-10-28T01:54:40.946772",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google can now use your Gmail data for ads: How to turn it off",
+        "url": "https://proton.me/blog/gmail-ads",
+        "timestamp": "2026-10-28T01:54:40.946795",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Women, Work and Caregiving Through the Arc of Family Life",
+        "url": "https://www.pewresearch.org/social-trends/2026/10/22/women-work-and-caregiving-through-the-arc-of-family-life/",
+        "timestamp": "2026-10-28T01:54:40.946818",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Starship Telemetry",
+        "url": "https://telemetry.starshipspaceprogram.com/",
+        "timestamp": "2026-10-28T01:54:40.946840",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Stealing a Trick from Nuclear Physics to Solve a Puzzle",
+        "url": "https://cezarcocu.com/blog/stealing-a-physics-trick/",
+        "timestamp": "2026-10-28T01:54:40.946862",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A calculator for gas costs and road trip expenses",
+        "url": "https://gettripcost.com/",
+        "timestamp": "2026-10-28T01:54:40.946885",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Building Slack at Salesforce. Part one",
+        "url": "https://buildingslack.com/salesforce-part-one/",
+        "timestamp": "2026-10-28T01:54:40.946933",
+        "source": "Hacker News"
+    },
+    {
+        "title": "America Needs Explosives for Its Drones. Odin Energetics Is Making Them",
+        "url": "https://www.wsj.com/politics/national-security/america-needs-explosives-for-its-drones-this-startup-is-making-them-7f9d77f8",
+        "timestamp": "2026-10-28T01:54:40.946956",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Microsoft offers voluntary buyouts as AI leads to efficiency push",
+        "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+        "timestamp": "2026-10-28T01:54:40.946996",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tiny model, full provenance – Apache Sourcelume",
+        "url": "https://rai.apache.org/blog/tiny-model-full-provenance.html",
+        "timestamp": "2026-10-28T01:54:40.947067",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Misery in America",
+        "url": "https://sightspinner.ai/blog/misery-in-america-2026-10-28.html",
+        "timestamp": "2026-10-28T01:54:40.947113",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built Trvlrr, home for all your travels",
+        "url": "https://trvlrr.app/",
+        "timestamp": "2026-10-28T01:54:40.947135",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Amazon defines the role of the developer in the age of AI",
+        "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+        "timestamp": "2026-10-28T01:54:40.947157",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Shitty Screenshare",
+        "url": "https://shittyscreenshare.com/",
+        "timestamp": "2026-10-28T01:54:40.947180",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Can Gambia vs. Myanmar Help Establish Genocidal Intent in Russia's Ukraine War?",
+        "url": "https://www.justsecurity.org/161466/icj-myanmar-genocidal-intent-russias-war-ukraine/",
+        "timestamp": "2026-10-28T01:54:40.947204",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How to Make RAG Show Its Evidence: Claim Verification at 15M-Document Scale",
+        "url": "https://dev.to/rudratosh/a-correct-answer-and-a-confident-lie-look-identical-heres-how-i-made-rag-tell-them-apart-2n45",
+        "timestamp": "2026-10-28T01:54:41.074512",
+        "source": "Dev.to"
+    },
+    {
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "timestamp": "2026-10-28T01:54:41.432318",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "timestamp": "2026-10-28T01:54:41.432331",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "timestamp": "2026-10-28T01:54:41.432334",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+        "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "timestamp": "2026-10-28T07:43:13.174431",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Love Letter to the Super Dimension Fortress",
+        "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+        "timestamp": "2026-10-28T07:43:13.174445",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+        "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+        "timestamp": "2026-10-28T07:43:13.174532",
+        "source": "Hacker News"
+    },
+    {
+        "title": "State of ARM Support for Puget Bench",
+        "url": "https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/",
+        "timestamp": "2026-10-28T07:43:13.174546",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Artificial Analysis Intelligence Index v5",
+        "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+        "timestamp": "2026-10-28T07:43:13.174590",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Bitter Lesson for Humans",
+        "url": "https://gfrm.in/posts/bitter-lesson-for-persons/",
+        "timestamp": "2026-10-28T07:43:13.376911",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Amazon EC2 I7i instances are now available in Amazon Web Services China regions",
+        "url": "https://www.amazonaws.cn/en/new/2026/amazon-ec2-i7i-instances/",
+        "timestamp": "2026-10-28T07:43:13.376947",
+        "source": "Hacker News"
+    },
+    {
+        "title": "UniFi Long-Range Poe Switching",
+        "url": "https://blog.ui.com/article/introducing-unifi-long-range-switching",
+        "timestamp": "2026-10-28T07:43:13.376966",
+        "source": "Hacker News"
+    },
+    {
+        "title": "NoFlo 2.x Is Coming",
+        "url": "https://bergie.iki.fi/blog/noflo-20-prep/",
+        "timestamp": "2026-10-28T07:43:13.376983",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pell Puzzles Review",
+        "url": "https://dles.gg/reviews/pell-puzzles",
+        "timestamp": "2026-10-28T07:43:13.377001",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NoVul – Open-source Mac app to Find and fix vulnerabilities on your Mac",
+        "url": "https://github.com/misbahsy/novul",
+        "timestamp": "2026-10-28T07:43:13.377018",
+        "source": "Hacker News"
+    },
+    {
+        "title": "IanVisits turns twenty – two decades of exploring London",
+        "url": "https://www.ianvisits.co.uk/articles/ianvisits-turns-twenty-two-decades-of-exploring-london-93536/",
+        "timestamp": "2026-10-28T07:43:13.377034",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI is the real Soylent Green",
+        "url": "https://www.danaco.se/ai-is-the-real-soylent-green/",
+        "timestamp": "2026-10-28T07:43:13.377048",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: NoVul – Find and Fix Vulnerabilities On",
+        "url": "https://news.ycombinator.com/item?id=50270234",
+        "timestamp": "2026-10-28T07:43:13.377063",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A Lego-like composable Framework for RSI",
+        "url": "https://rsi-gear.github.io/",
+        "timestamp": "2026-10-28T07:43:13.377080",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Earithmetic – multiply in your head when digits are notes or rhythms",
+        "url": "https://vernetit.github.io/earithmetic/",
+        "timestamp": "2026-10-28T07:43:13.377096",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Hackerscad – Code-first CAD with MCP server for AI agents",
+        "url": "https://hackerscad.com/",
+        "timestamp": "2026-10-28T07:43:13.377112",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Best thing I read today, \"how open is your software factory\"",
+        "url": "https://tessl.io/blog/how-open-is-your-software-factory",
+        "timestamp": "2026-10-28T07:43:13.377126",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The piano test for program verification (2011)",
+        "url": "https://blog.regehr.org/archives/364",
+        "timestamp": "2026-10-28T07:43:13.377141",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Dhwani: A self-hosted voice notes app built with Whistle by Cactus Compute",
+        "url": "https://github.com/snehaldutta/Dhwani",
+        "timestamp": "2026-10-28T07:43:13.377157",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I use it to find ideas and figure out direction",
+        "url": "https://seekstar.app",
+        "timestamp": "2026-10-28T07:43:13.377172",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Discovering and exploiting vulnerabilities in critical software with Claude",
+        "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+        "timestamp": "2026-10-28T07:43:13.377188",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A QE Q&A [pdf]",
+        "url": "https://www.hks.harvard.edu/sites/default/files/centers/mrcbg/files/PSheardQEQAAugust2014.pdf",
+        "timestamp": "2026-10-28T07:43:13.377203",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Second Look at Apple's Secure Kernel",
+        "url": "https://www.antid0te.com/blog/secure-kernel-first-look-erratum.html",
+        "timestamp": "2026-10-28T07:43:13.377217",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Spatial Reality Display ELF-MN1 Developer Site",
+        "url": "https://xyn.sony.net/en/developer/spatial-reality-display-mini",
+        "timestamp": "2026-10-28T07:43:13.377231",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Mathematics of the Future [pdf]",
+        "url": "https://math.mit.edu/~etingof/futuremath.pdf",
+        "timestamp": "2026-10-28T07:43:13.377246",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Weibel Labs",
+        "url": "https://weibellabs.com/",
+        "timestamp": "2026-10-28T07:43:13.377261",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Each filter was right; together they let through two sentences a day",
+        "url": "https://iampneuma.com/each-filter-was-right/",
+        "timestamp": "2026-10-28T07:43:13.377279",
+        "source": "Hacker News"
+    },
+    {
+        "title": "zzz.com – Jason's Page",
+        "url": "https://zzz.com/",
+        "timestamp": "2026-10-28T07:43:13.377296",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Soda Honey Boost ReviEwS (2026): We Tried It My Honest Review",
+        "url": "https://prezi.com/i/ak3xz3qui1ai/soda-honey-boost-reviews-2026-we-tried-it-my-honest-review",
+        "timestamp": "2026-10-28T07:43:13.377311",
+        "source": "Hacker News"
     }
 ]
