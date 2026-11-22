@@ -2440,5 +2440,311 @@
         "url": "https://www.aiseesoft.com/pads/anock-for-mac.xml",
         "timestamp": "2026-10-29T08:57:35.606878",
         "source": "Hacker News"
+    },
+    {
+        "title": "Search engine aggregator with a comprehensive plugin/extension system",
+        "url": "https://github.com/degoog-org/degoog",
+        "timestamp": "2026-10-29T08:57:35.606897",
+        "source": "Hacker News"
+    },
+    {
+        "title": "UK's small power plants face higher cyber risk into 2030s – Iran-linked hack",
+        "url": "https://www.theguardian.com/business/2026/aug/27/uk-small-power-plants-risk-cyber-attacks-iran-hack",
+        "timestamp": "2026-10-29T08:57:35.606916",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Write All the Things",
+        "url": "https://asbedb.dev/musings/write-all-the-things",
+        "timestamp": "2026-10-29T08:57:35.606935",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A free 16-point check for how AI assistants see your website",
+        "url": "https://checker.visiblebyagents.com/self-check.html",
+        "timestamp": "2026-10-29T08:57:35.606954",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Lonewolf 0.2 – A standalone XMPP server written in Rust",
+        "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.2.0",
+        "timestamp": "2026-10-29T08:57:35.606974",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Discord to let search engines index public server messages",
+        "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+        "timestamp": "2026-10-29T08:57:35.606993",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Ask HN: Techniques for productive AI use in the workspace",
+        "url": "https://news.ycombinator.com/item?id=50285795",
+        "timestamp": "2026-10-29T08:57:35.607017",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔",
+        "url": "https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g",
+        "timestamp": "2026-10-29T08:57:35.784000",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Notch Metrics",
+        "url": "https://www.producthunt.com/products/notch-metrics",
+        "timestamp": "2026-10-29T08:57:35.888076",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Gologin Cloud Browser",
+        "url": "https://www.producthunt.com/products/gologin",
+        "timestamp": "2026-10-29T08:57:35.888089",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "ChatInbox",
+        "url": "https://www.producthunt.com/products/chatinbox-2",
+        "timestamp": "2026-10-29T08:57:35.888096",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Scape",
+        "url": "https://www.producthunt.com/products/scape-4",
+        "timestamp": "2026-10-29T08:57:35.888099",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "StoreLocale",
+        "url": "https://www.producthunt.com/products/storelocale",
+        "timestamp": "2026-10-29T08:57:35.888101",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Intrascope 2.0",
+        "url": "https://www.producthunt.com/products/intrascope-app",
+        "timestamp": "2026-10-29T08:57:35.888104",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Empacer",
+        "url": "https://www.producthunt.com/products/empacer",
+        "timestamp": "2026-10-29T08:57:35.888106",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Voxel51 Multimodal",
+        "url": "https://www.producthunt.com/products/voxel51",
+        "timestamp": "2026-10-29T08:57:35.888113",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Confetti",
+        "url": "https://www.producthunt.com/products/confetti-5",
+        "timestamp": "2026-10-29T08:57:35.888115",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Viggle JST-2",
+        "url": "https://www.producthunt.com/products/viggle-ai",
+        "timestamp": "2026-10-29T08:57:35.888118",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "OutreachGuy",
+        "url": "https://www.producthunt.com/products/outreachguy",
+        "timestamp": "2026-10-29T08:57:35.888120",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+        "url": "https://mistral.ai/news/mistral-large-4-oss/",
+        "timestamp": "2026-10-29T15:49:10.293448",
+        "source": "Hacker News"
+    },
+    {
+        "title": "DoorDash is acquiring Instacart for $17B",
+        "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+        "timestamp": "2026-10-29T15:49:10.293505",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+        "timestamp": "2026-10-29T15:49:10.293545",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+        "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+        "timestamp": "2026-10-29T15:49:10.293582",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Finland investigate Google over destruction of 250k trees",
+        "url": "https://yle.fi/a/74-20254086",
+        "timestamp": "2026-10-29T15:49:10.293617",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+        "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+        "timestamp": "2026-10-29T15:49:10.293653",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Only 40% of AI-cited statistics trace back to a study",
+        "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+        "timestamp": "2026-10-29T15:49:10.293687",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Java's new AOT cache feature is in a rough state",
+        "url": "https://xpipe.io/blog/java-aot-cache",
+        "timestamp": "2026-10-29T15:49:10.293721",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google determines the names for bodies of water in Google Earth (2008)",
+        "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+        "timestamp": "2026-10-29T15:49:10.293853",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Keplearn: Extract Equations from Data in Seconds",
+        "url": "https://github.com/owls-on-wires/keplearn",
+        "timestamp": "2026-10-29T15:49:10.293940",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+        "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+        "timestamp": "2026-10-29T15:49:10.293974",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hackers expose the identities of more than 40k DHS employees",
+        "url": "https://text.npr.org/nx-s1-6021497",
+        "timestamp": "2026-10-29T15:49:10.294006",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
+        "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
+        "timestamp": "2026-10-29T15:49:10.294072",
+        "source": "Hacker News"
+    },
+    {
+        "title": "NetBSD adds a new beginner-friendly text editor called atto",
+        "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+        "timestamp": "2026-10-29T15:49:10.294204",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Requests, Please",
+        "url": "https://morronel.github.io/requests_please/",
+        "timestamp": "2026-10-29T15:49:10.294366",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
+        "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+        "timestamp": "2026-10-29T15:49:10.294430",
+        "source": "Hacker News"
+    },
+    {
+        "title": "If IPv4 Were Land",
+        "url": "https://iptrust.co/blog/if-ipv4-were-land",
+        "timestamp": "2026-10-29T15:49:10.294462",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Stars' criminal histories could reshape estimates of their magnetic fields",
+        "url": "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.htm",
+        "timestamp": "2026-10-29T15:49:10.538482",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I'm building my toddler a game wall, and Google's dead Stadia controller runs it",
+        "url": "https://www.xydac.com/blog/toddler-game-wall-stadia-controller/",
+        "timestamp": "2026-10-29T15:49:10.538533",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Running Self-Hosted AI Agents on Oxide",
+        "url": "https://oxide.computer/blog/self-hosted-ai-agents",
+        "timestamp": "2026-10-29T15:49:10.538568",
+        "source": "Hacker News"
+    },
+    {
+        "title": "An Al Breakthrough Has Made Decades of Computer Science Research 'Irrelevant'",
+        "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+        "timestamp": "2026-10-29T15:49:10.538602",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Witchat – Windows/Linux client for the bitchat Bluetooth mesh",
+        "url": "https://github.com/BarefootJoey/witchat",
+        "timestamp": "2026-10-29T15:49:10.538636",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+        "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+        "timestamp": "2026-10-29T15:49:10.538668",
+        "source": "Hacker News"
+    },
+    {
+        "title": "MCP tools should disclose LLM and external API dependencies",
+        "url": "https://santurcesoftware.com/mcp-tools-should-disclose-llm-and-api-calls",
+        "timestamp": "2026-10-29T15:49:10.538701",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Give your coding agent a verification harness to check its code",
+        "url": "https://www.heal.dev/verification-harness",
+        "timestamp": "2026-10-29T15:49:10.538733",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Wavefunction – a minimal, open-source desktop coding agent for Mac",
+        "url": "https://www.wavefunction.si/",
+        "timestamp": "2026-10-29T15:49:10.538765",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GeDefense TV – local-first security console for Android TV / Google TV",
+        "url": "https://github.com/visiongaiatechnology/gedefense_androidtv",
+        "timestamp": "2026-10-29T15:49:10.538797",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Investors turn on Alphabet after profit miss, ad slowdown and high spending",
+        "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
+        "timestamp": "2026-10-29T15:49:10.538832",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Seed Phrase",
+        "url": "https://news.ycombinator.com/item?id=50290844",
+        "timestamp": "2026-10-29T15:49:10.538864",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Industry Standard Tools: The default products in each profession",
+        "url": "https://industrystandard.tools/",
+        "timestamp": "2026-10-29T15:49:10.538915",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I tested 39 LLMs on solving Rubik's cubes with no tools",
+        "url": "https://brianbriscoe.dev/blog/i-tested-39-llms-on-solving-rubiks-cubes",
+        "timestamp": "2026-10-29T15:49:10.538950",
+        "source": "Hacker News"
+    },
+    {
+        "title": "From 22 GB to 5.3 GB: all of Hacker News, searchable offline",
+        "url": "https://discuss.ai.google.dev/t/searching-all-of-hacker-news-with-embeddinggemma-2-on-a-laptop-49-3m-items-5-3-gb/196641",
+        "timestamp": "2026-10-29T15:49:10.538990",
+        "source": "Hacker News"
     }
 ]
