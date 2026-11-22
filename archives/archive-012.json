@@ -2746,5 +2746,311 @@
         "url": "https://discuss.ai.google.dev/t/searching-all-of-hacker-news-with-embeddinggemma-2-on-a-laptop-49-3m-items-5-3-gb/196641",
         "timestamp": "2026-10-29T15:49:10.538990",
         "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: StrictLLM – For when you need human-in-the-loop",
+        "url": "https://strictllm.com",
+        "timestamp": "2026-10-29T15:49:10.539053",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Evil Qwen",
+        "url": "https://ziva.sh/blogs/evil-qwen",
+        "timestamp": "2026-10-29T15:49:10.539123",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What's new in Android developer tools and performance",
+        "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+        "timestamp": "2026-10-29T15:49:10.539185",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Endurance Map for Runners, Cyclists and Swimmers",
+        "url": "https://zafiri.com/",
+        "timestamp": "2026-10-29T15:49:10.539217",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+        "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+        "timestamp": "2026-10-29T15:49:10.539248",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Prompt Layering",
+        "url": "https://agentpatterns.ai/context-engineering/prompt-layering/",
+        "timestamp": "2026-10-29T15:49:10.539279",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Your Cryptography Conspiracy Theory Is Wrong",
+        "url": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
+        "timestamp": "2026-10-29T15:49:10.539309",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Meta loses appeals against interim measures imposed by French regulators",
+        "url": "https://www.reuters.com/world/meta-loses-appeals-against-interim-measures-imposed-by-french-regulators-2026-10-29/",
+        "timestamp": "2026-10-29T15:49:10.539341",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Pokerbots.dev – Competitive Algorithmic Poker",
+        "url": "https://pokerbots.dev/",
+        "timestamp": "2026-10-29T15:49:10.539371",
+        "source": "Hacker News"
+    },
+    {
+        "title": "14.4B medical insurance claims refines our understanding of long Covid",
+        "url": "https://news.stanford.edu/stories/2026/10/long-covid-health-affects-study-design",
+        "timestamp": "2026-10-29T15:49:10.539403",
+        "source": "Hacker News"
+    },
+    {
+        "title": "My Students Can't Read",
+        "url": "https://chronicleofhighereducation.substack.com/p/my-students-cant-read",
+        "timestamp": "2026-10-29T15:49:10.539435",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Point your camera at a landscape to learn about its geology",
+        "url": "https://outcrop.rocks/",
+        "timestamp": "2026-10-29T15:49:10.539471",
+        "source": "Hacker News"
+    },
+    {
+        "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
+        "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
+        "timestamp": "2026-10-29T15:49:10.801702",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Last Witness: an AI detective for a dead 1999 website, graded on its ghosts",
+        "url": "https://dev.to/p0rt/last-witness-an-ai-detective-for-a-dead-1999-website-graded-on-its-ghosts-4bbe",
+        "timestamp": "2026-10-29T15:49:10.801710",
+        "source": "Dev.to"
+    },
+    {
+        "title": "I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.",
+        "url": "https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm",
+        "timestamp": "2026-10-29T15:49:10.801726",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Never Put a Pet on an AWS Spot Instance",
+        "url": "https://dev.to/maame-codes/never-put-a-pet-on-an-aws-spot-instance-em3",
+        "timestamp": "2026-10-29T15:49:10.801727",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Reset Alerts",
+        "url": "https://www.producthunt.com/products/reset-alerts",
+        "timestamp": "2026-10-29T15:49:10.900028",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "TopAgent",
+        "url": "https://www.producthunt.com/products/topmessage",
+        "timestamp": "2026-10-29T15:49:10.900031",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Arco",
+        "url": "https://www.producthunt.com/products/arco-4",
+        "timestamp": "2026-10-29T15:49:10.900040",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Enclave",
+        "url": "https://www.producthunt.com/products/enclave-2",
+        "timestamp": "2026-10-29T15:49:10.900049",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+        "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+        "timestamp": "2026-10-29T15:49:10.977763",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+        "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+        "timestamp": "2026-10-29T15:49:10.977772",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+        "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+        "timestamp": "2026-10-29T15:49:10.977775",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "DoorDash to acquire Instacart for $17B",
+        "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+        "timestamp": "2026-10-29T15:49:10.977778",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+        "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+        "timestamp": "2026-10-29T15:49:10.977781",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+        "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+        "timestamp": "2026-10-29T15:49:10.977785",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
+        "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
+        "timestamp": "2026-10-29T15:49:10.977788",
+        "source": "TechCrunch"
+    },
+    {
+        "title": "The Frankenstein Table",
+        "url": "https://css-tricks.com/the-frankenstein-table/",
+        "timestamp": "2026-10-29T15:49:12.406814",
+        "source": "CSS-Tricks"
+    },
+    {
+        "title": "Patrick Stewart has died",
+        "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+        "timestamp": "2026-10-29T20:40:15.386709",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The importance of communities around software",
+        "url": "https://lumi.codeberg.page/blog/software-community.html",
+        "timestamp": "2026-10-29T20:40:15.386789",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+        "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+        "timestamp": "2026-10-29T20:40:15.386817",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+        "url": "https://github.com/johncassil/dontallow",
+        "timestamp": "2026-10-29T20:40:15.386842",
+        "source": "Hacker News"
+    },
+    {
+        "title": "H.264 Is Magic (2016)",
+        "url": "https://sidbala.com/h-264-is-magic/",
+        "timestamp": "2026-10-29T20:40:15.386867",
+        "source": "Hacker News"
+    },
+    {
+        "title": "After 28 years walking across the globe, he's almost home",
+        "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+        "timestamp": "2026-10-29T20:40:15.386890",
+        "source": "Hacker News"
+    },
+    {
+        "title": "LLM Voice",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "timestamp": "2026-10-29T20:40:15.386913",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Duet is the future of chatbot interaction",
+        "url": "https://fig.blue/posts/duet-is-the-future/",
+        "timestamp": "2026-10-29T20:40:15.386935",
+        "source": "Hacker News"
+    },
+    {
+        "title": "One reviewer per layer: splitting code review by the way code is read",
+        "url": "https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/",
+        "timestamp": "2026-10-29T20:40:15.386982",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Edit an SQLite database in your browser",
+        "url": "https://editsqlite.com/",
+        "timestamp": "2026-10-29T20:40:15.387004",
+        "source": "Hacker News"
+    },
+    {
+        "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+        "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+        "timestamp": "2026-10-29T20:40:15.387028",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+        "url": "https://github.com/emmilco/us-tax-model",
+        "timestamp": "2026-10-29T20:40:15.387063",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+        "url": "https://news.ycombinator.com/item?id=50291116",
+        "timestamp": "2026-10-29T20:40:15.387091",
+        "source": "Hacker News"
+    },
+    {
+        "title": "16colo.rs – ANSI/ASCII art archive",
+        "url": "https://16colo.rs/",
+        "timestamp": "2026-10-29T20:40:15.387180",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+        "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+        "timestamp": "2026-10-29T20:40:15.387202",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+        "url": "https://github.com/lonthq/overtone-captions",
+        "timestamp": "2026-10-29T20:40:15.387223",
+        "source": "Hacker News"
+    },
+    {
+        "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+        "url": "https://github.com/theconsensuslabs/noalloc",
+        "timestamp": "2026-10-29T20:40:15.387315",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google Search is now less than half of Alphabet’s revenue",
+        "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+        "timestamp": "2026-10-29T20:40:15.387383",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The tragedy of losing your Wikipedia page",
+        "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+        "timestamp": "2026-10-29T20:40:15.387406",
+        "source": "Hacker News"
+    },
+    {
+        "title": "If-then-else had to be invented (2020)",
+        "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
+        "timestamp": "2026-10-29T20:40:15.387427",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Comments on any web page that your AI agent can read and reply to",
+        "url": "https://www.npmjs.com/package/pipeup",
+        "timestamp": "2026-10-29T20:40:15.532571",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Cross-species representation learning aligns mouse and human neural dynamics",
+        "url": "https://arxiv.org/abs/2610.11222",
+        "timestamp": "2026-10-29T20:40:15.532614",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Squishling 0.5.0 – hybrid LLM/Ruby code classes",
+        "url": "https://coolhand-labs.github.io/squishling/",
+        "timestamp": "2026-10-29T20:40:15.532648",
+        "source": "Hacker News"
     }
 ]
