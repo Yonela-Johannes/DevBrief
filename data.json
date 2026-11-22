@@ -1,329 +1,5 @@
 [
     {
-        "title": "The Quiet Part – a lesson on AI and jobs, built and narrated by AI",
-        "url": "https://thequietpart.ai/?src=hn",
-        "timestamp": "2026-10-29T02:48:35.958460",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Deep Learning Alchemy – Stanford CS 312",
-        "url": "https://deep-learning-alchemy.github.io/",
-        "timestamp": "2026-10-29T02:48:35.958476",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Agentic CI/CD with Azure Cosmos DB: Isolated Envs for a Swarm of AI Agents",
-        "url": "https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/",
-        "timestamp": "2026-10-29T02:48:35.958492",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Design Is Not the Moat for Hypersonics",
-        "url": "https://foxandlion.pub/analysis/design-is-not-the-moat-for-hypersonics",
-        "timestamp": "2026-10-29T02:48:35.958507",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Epileptic woman dies after going to ChatGPT for medical advice",
-        "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853",
-        "timestamp": "2026-10-29T02:48:35.958522",
-        "source": "Hacker News"
-    },
-    {
-        "title": "OpenAI API Credits of 100/200/500 on Pro Plans",
-        "url": "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions#credit-amounts",
-        "timestamp": "2026-10-29T02:48:35.958539",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Admin",
-        "url": "https://admin.google.com/ac/accountchooser?continue=https://admin.google.com/ac/home?hl%3Den%26rapt%3DAEjHL4NxbCMHkFxszj47-UntWuSmHgkCTKHbbvwDwxxFObtoeGFWyDqmDVvUWceB1faJTSFcszHD_YVCmKSdNp_pCWD-e6HC6gv4WvfI02cneXQcOPgj7jE",
-        "timestamp": "2026-10-29T02:48:35.958554",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Declaring a National Emergency to Secure the United States Bulk-Power System",
-        "url": "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/",
-        "timestamp": "2026-10-29T02:48:35.958569",
-        "source": "Hacker News"
-    },
-    {
-        "title": "How Big Is a Billion Dollars?",
-        "url": "https://www.realworth.io/how-big-is-a-billion-dollars",
-        "timestamp": "2026-10-29T02:48:35.958601",
-        "source": "Hacker News"
-    },
-    {
-        "title": "I built a Chrome extension that shows you a web page the way AI crawlers see it",
-        "url": "https://lumi-geo.pages.dev/",
-        "timestamp": "2026-10-29T02:48:35.958615",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Continuous Engineering: Automating almost everything, but what do humans do?",
-        "url": "https://fleetbridge.run/continuous-engineering",
-        "timestamp": "2026-10-29T02:48:35.958629",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Intranasal Administration of Mebufotenin for Treatment-Resistant Depression",
-        "url": "https://jamanetwork.com/journals/jama/article-abstract/2855796",
-        "timestamp": "2026-10-29T02:48:35.958643",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Vibegif – 750 GIFs and animated WebP made by Opus 5.5 (public domain)",
-        "url": "https://vibegif.direct-img.link/",
-        "timestamp": "2026-10-29T02:48:35.958699",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Turn the prompts you keep retyping into slash commands",
-        "url": "https://github.com/kishormorol/cli-faq-shortcuts",
-        "timestamp": "2026-10-29T02:48:35.958733",
-        "source": "Hacker News"
-    },
-    {
-        "title": "EU tells countries to make plans to cope with 3C of global warming",
-        "url": "https://www.ft.com/content/9640cae1-98bb-4509-adb1-729ca6a5f2a8",
-        "timestamp": "2026-10-29T02:48:35.958765",
-        "source": "Hacker News"
-    },
-    {
-        "title": "HLock: Harness Portability for Agent Configs",
-        "url": "https://docs.hlock.ai/",
-        "timestamp": "2026-10-29T02:48:35.958780",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
-        "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9",
-        "timestamp": "2026-10-29T02:48:35.958795",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Tangled.org ongoing outage (>= 7 hours) due to AT protocol",
-        "url": "https://status.tangled.org",
-        "timestamp": "2026-10-29T02:48:35.958864",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The Fastest (long) ilog10 in the West",
-        "url": "https://duplexsystem.org/blog/the-fastest-ilog10-in-the-west/",
-        "timestamp": "2026-10-29T02:48:35.958892",
-        "source": "Hacker News"
-    },
-    {
-        "title": "A historical timeline of Show HN",
-        "url": "https://www.worldintimelines.com/t/hacker-news-show-hn",
-        "timestamp": "2026-10-29T02:48:35.958913",
-        "source": "Hacker News"
-    },
-    {
-        "title": "3pm – A private desktop calendar for people living with a mental disorder",
-        "url": "https://3pm.ninja/",
-        "timestamp": "2026-10-29T02:48:35.958929",
-        "source": "Hacker News"
-    },
-    {
-        "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
-        "url": "https://ai-agent-antivirus.space/",
-        "timestamp": "2026-10-29T02:48:35.958944",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The campaign to push the Northstar browser into Linux distributions",
-        "url": "https://lwn.net/SubscriberLink/1102738/e124c97f934a717e/",
-        "timestamp": "2026-10-29T02:48:35.958973",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: A Prolog-powered reverse WAF logic perimeter with SIMD acceleration",
-        "url": "https://prologwaf.site/",
-        "timestamp": "2026-10-29T02:48:35.958994",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Major Updates to Cloudflare Observability",
-        "url": "https://blog.cloudflare.com/one-observability-platform/",
-        "timestamp": "2026-10-29T02:48:35.959014",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Latency, energy and memory of π0.5, GR00T, SmolVLA and more on Jetson boards)",
-        "url": "https://ixian.zetic.ai/models/compare",
-        "timestamp": "2026-10-29T02:48:35.959035",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Zest",
-        "url": "https://www.producthunt.com/products/zest-6",
-        "timestamp": "2026-10-29T02:48:36.336659",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "licenseal",
-        "url": "https://www.producthunt.com/products/licenseal",
-        "timestamp": "2026-10-29T02:48:36.336660",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
-        "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
-        "timestamp": "2026-10-29T08:57:35.351266",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-        "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-        "timestamp": "2026-10-29T08:57:35.351333",
-        "source": "Hacker News"
-    },
-    {
-        "title": "A new faster algorithm to compute 64-bit signed floor division",
-        "url": "https://www.benjoffe.com/fast-floordiv",
-        "timestamp": "2026-10-29T08:57:35.351436",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Claude Code regularly sends each background agent’s transcript to its model",
-        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-        "timestamp": "2026-10-29T08:57:35.351457",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Zero click, silent, remote Android DoS",
-        "url": "https://smsofdeath.com/",
-        "timestamp": "2026-10-29T08:57:35.351478",
-        "source": "Hacker News"
-    },
-    {
-        "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-        "url": "https://dmux.github.io/minilake/",
-        "timestamp": "2026-10-29T08:57:35.351590",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Treap (Cartesian Tree)",
-        "url": "https://cp-algorithms.com/data_structures/treap.html",
-        "timestamp": "2026-10-29T08:57:35.351610",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Zillow to pay $212.5M to settle class action for real estate venture",
-        "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
-        "timestamp": "2026-10-29T08:57:35.351749",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
-        "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-        "timestamp": "2026-10-29T08:57:35.606438",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The work we can't delegate",
-        "url": "https://www.mozestudio.com/journal/the-work-we-cant-delegate",
-        "timestamp": "2026-10-29T08:57:35.606502",
-        "source": "Hacker News"
-    },
-    {
-        "title": "I Created an MMO (AI Slop?)",
-        "url": "https://aetheriammorpg.online/",
-        "timestamp": "2026-10-29T08:57:35.606541",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Cache Me If You Can: XSS in Cloudflare's /CDN-CGI/Image/",
-        "url": "https://www.slcyber.io/research/cache-me-if-you-can-xss-in-cloudflares-cdn-cgi-image",
-        "timestamp": "2026-10-29T08:57:35.606561",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: MealWords – Show waiters what you can't eat, in their language",
-        "url": "https://mealwords.com/",
-        "timestamp": "2026-10-29T08:57:35.606593",
-        "source": "Hacker News"
-    },
-    {
-        "title": "How teachers are remaking classrooms for the AI age",
-        "url": "https://www.reuters.com/world/how-teachers-are-remaking-classrooms-ai-age-2026-10-28/",
-        "timestamp": "2026-10-29T08:57:35.606617",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Ask HN: What YouTube channels should I let my kids watch?",
-        "url": "https://news.ycombinator.com/item?id=50286037",
-        "timestamp": "2026-10-29T08:57:35.606638",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Ask HN: Are Apple app reviewers sharing app ideas?",
-        "url": "https://news.ycombinator.com/item?id=50286034",
-        "timestamp": "2026-10-29T08:57:35.606660",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Oil Spill on Dubai's Beaches via Satellite",
-        "url": "https://twitter.com/sabman/status/2115604266232737881",
-        "timestamp": "2026-10-29T08:57:35.606702",
-        "source": "Hacker News"
-    },
-    {
-        "title": "S.Korea AI chip startup raises $620M at a $2.9B valuation",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
-        "timestamp": "2026-10-29T08:57:35.606722",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Does Running an E-Paper Display at 30 FPS Destroy It?",
-        "url": "https://hackaday.com/2026/10/28/does-running-an-e-paper-display-at-30-fps-destroy-it/",
-        "timestamp": "2026-10-29T08:57:35.606742",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Mist – a tool pairing SAST and Fuzzing for smarter Bug Hunting",
-        "url": "https://github.com/alessandroPalazzolo/mist",
-        "timestamp": "2026-10-29T08:57:35.606761",
-        "source": "Hacker News"
-    },
-    {
-        "title": "YourOwnWeigh – Sync your Withings scales anywhere you want (for free)",
-        "url": "https://www.tomanthony.co.uk/blog/withings-yow-free-wifi-sync/",
-        "timestamp": "2026-10-29T08:57:35.606781",
-        "source": "Hacker News"
-    },
-    {
-        "title": "What \"ten sorts in ten languages\" say about the abstraction we're living through",
-        "url": "https://george.mand.is/2026/10/you-already-dont-understand-your-code/",
-        "timestamp": "2026-10-29T08:57:35.606800",
-        "source": "Hacker News"
-    },
-    {
-        "title": "What Wall Street Thinks About the AI Trade Now",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-29/what-wall-street-really-thinks-about-the-ai-trade-now",
-        "timestamp": "2026-10-29T08:57:35.606819",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Ask HN: Is cloudfare workers better than Vercel? (free tier)",
-        "url": "https://news.ycombinator.com/item?id=50285896",
-        "timestamp": "2026-10-29T08:57:35.606839",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Ask HN: Why not AI assisted ZFS rewrite?",
-        "url": "https://news.ycombinator.com/item?id=50285879",
-        "timestamp": "2026-10-29T08:57:35.606858",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Aiseesoft Anock for Mac",
-        "url": "https://www.aiseesoft.com/pads/anock-for-mac.xml",
-        "timestamp": "2026-10-29T08:57:35.606878",
-        "source": "Hacker News"
-    },
-    {
         "title": "Search engine aggregator with a comprehensive plugin/extension system",
         "url": "https://github.com/degoog-org/degoog",
         "timestamp": "2026-10-29T08:57:35.606897",
@@ -29998,5 +29674,329 @@
         "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
         "timestamp": "Sat, 21 Nov 2026 21:37:10 +0000",
         "source": "TechCrunch"
+    },
+    {
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "timestamp": "2026-11-22T08:42:25.304439",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Engineering Manager's role is under attack (again)",
+        "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+        "timestamp": "2026-11-22T08:42:25.304507",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: The Riemann Proof Handbook",
+        "url": "https://github.com/tamnd/riemann-handbook",
+        "timestamp": "2026-11-22T08:42:25.304591",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Notes on the discrete Fourier transform (DFT)",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+        "timestamp": "2026-11-22T08:42:25.304613",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Data Processing Incidents on Inference Providers",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "timestamp": "2026-11-22T08:42:25.304672",
+        "source": "Hacker News"
+    },
+    {
+        "title": "If tiny 'primordial' black holes exist",
+        "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+        "timestamp": "2026-11-22T08:42:25.304716",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Mythology of Conscious AI",
+        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+        "timestamp": "2026-11-22T08:42:25.304819",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Split Radiance Cascades",
+        "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+        "timestamp": "2026-11-22T08:42:25.304838",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+        "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+        "timestamp": "2026-11-22T08:42:25.304859",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+        "url": "https://github.com/EL4CTEO/fast-anything",
+        "timestamp": "2026-11-22T08:42:25.304919",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Compile the same source for GPUs and CPUs",
+        "url": "https://github.com/ThrudTheBarbarian/xc",
+        "timestamp": "2026-11-22T08:42:25.305080",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Power harvesting from living solar panels",
+        "url": "https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.70295",
+        "timestamp": "2026-11-22T08:42:25.480332",
+        "source": "Hacker News"
+    },
+    {
+        "title": "German unions are fighting to defend the 35-hour week",
+        "url": "https://www.economist.com/business/2026/09/24/german-unions-are-fighting-to-defend-the-35-hour-week",
+        "timestamp": "2026-11-22T08:42:25.480356",
+        "source": "Hacker News"
+    },
+    {
+        "title": "First Concrete Evidence for String Theory",
+        "url": "https://www.math.columbia.edu/~woit/wordpress/?p=16009",
+        "timestamp": "2026-11-22T08:42:25.480377",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Comcast: At peak, GTA 6 accounted for nearly a quarter of all internet traffic",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+        "timestamp": "2026-11-22T08:42:25.480398",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI Riemann hypothesis proof is true, independent mathematicians confirm",
+        "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+        "timestamp": "2026-11-22T08:42:25.480418",
+        "source": "Hacker News"
+    },
+    {
+        "title": "From screens in class to smart glasses, Norway rethinks new technologies",
+        "url": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html",
+        "timestamp": "2026-11-22T08:42:25.480439",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: File search for Windows. Finds any file by name in about a millisecond",
+        "url": "https://hrih.si/projects/scry/",
+        "timestamp": "2026-11-22T08:42:25.480460",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I counted the MCP servers on my laptop: 43, and 9 are in no config file",
+        "url": "https://regulai-security.com/research/43-mcp-servers-on-one-laptop",
+        "timestamp": "2026-11-22T08:42:25.480482",
+        "source": "Hacker News"
+    },
+    {
+        "title": "If we stop reading the code, what do we read?",
+        "url": "https://thenewstack.io/ai-agent-code-review/",
+        "timestamp": "2026-11-22T08:42:25.480503",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a newspaper for white-collar crime that paints every portrait",
+        "url": "https://financialcrimes.fyi/",
+        "timestamp": "2026-11-22T08:42:25.480523",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Gaming in Streaming: Moonlight TvOS Pyrowave Implementation (Sub 2ms Latency)",
+        "url": "https://github.com/JKGiova/moonlight-tvos-pyrowave",
+        "timestamp": "2026-11-22T08:42:25.480548",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Jj-musubi: live sync for Jujutsu",
+        "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
+        "timestamp": "2026-11-22T08:42:25.480571",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: RealEditPDF – 100% client-side PDF editor with zero server uploads",
+        "url": "https://realeditpdf.com/",
+        "timestamp": "2026-11-22T08:42:25.480592",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Samsara, and the way out",
+        "url": "https://samsara.pauoliver.net/",
+        "timestamp": "2026-11-22T08:42:25.480614",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: MemFiddle",
+        "url": "https://memalign.github.io/m/memfiddle/index.html",
+        "timestamp": "2026-11-22T08:42:25.480634",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Wayland Apps Composited in the Browser",
+        "url": "https://wland.vercel.app/",
+        "timestamp": "2026-11-22T08:42:25.480667",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: I built a Rick and Morty explainer video generator (It's Paid)",
+        "url": "https://usediorama.com/rick-and-morty",
+        "timestamp": "2026-11-22T08:42:25.480688",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Is prompt tuning still a thing today? Anybody still using the likes of DSPy?",
+        "url": "https://news.ycombinator.com/item?id=50597235",
+        "timestamp": "2026-11-22T08:42:25.480708",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Local Only Encrypted Journal",
+        "url": "https://private-journal.netlify.app/",
+        "timestamp": "2026-11-22T08:42:25.480728",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Draft-tree decoding on Apple Silicon: M4 vs. M5/M6 and bit-exact Metal",
+        "url": "https://blog.yuhuachen.com/blog/2ArXyvXoSTOQ9nFQtp3Fz",
+        "timestamp": "2026-11-22T08:42:25.480748",
+        "source": "Hacker News"
+    },
+    {
+        "title": "MotherDuck, Meet Excel",
+        "url": "https://motherduck.com/blog/motherduck-duckdb-meet-excel/",
+        "timestamp": "2026-11-22T08:42:25.480768",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why we're blind to the color blue (2021)",
+        "url": "https://calebkruse.com/10-projects/seeing-blue/",
+        "timestamp": "2026-11-22T08:42:25.480788",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Inkling 2 Small on Nvidia B300: 5.1x to 7.5x faster expert GEMMs, same bits",
+        "url": "https://www.rightnowai.co/blog/bit-identical-fp4-moe-kernels-on-blackwell",
+        "timestamp": "2026-11-22T08:42:25.480808",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Three-way translation merge: keeping translated pages in sync with an LLM",
+        "url": "https://maxmart.github.io/posts/three-way-translation-merge/",
+        "timestamp": "2026-11-22T08:42:25.480828",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Cloud-drift-report – an open-source driftctl alternative for AWS",
+        "url": "https://github.com/orchesterra/cloud-drift-report",
+        "timestamp": "2026-11-22T08:42:25.480849",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+        "url": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+        "timestamp": "2026-11-22T08:42:25.480870",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Gemini: Can't prevent training or review even with no history retained",
+        "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/#:~:text=Google%20to%20keep%20Gemini%20chats%20for%202,security%20as%20AI%20systems%20become%20more%20capable.",
+        "timestamp": "2026-11-22T08:42:25.480893",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Hex Marks the Spot",
+        "url": "https://www.museumofplay.org/blog/hex-marks-the-spot/",
+        "timestamp": "2026-11-22T08:42:25.480914",
+        "source": "Hacker News"
+    },
+    {
+        "title": "A History of Clojure (2020)",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3386321",
+        "timestamp": "2026-11-22T08:42:25.480936",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can Predict",
+        "url": "https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g",
+        "timestamp": "2026-11-20T20:01:04Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Daymaker",
+        "url": "https://www.producthunt.com/products/daymaker",
+        "timestamp": "2026-10-19T11:41:04-07:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "DeNotch",
+        "url": "https://www.producthunt.com/products/denotch",
+        "timestamp": "2026-11-18T23:57:34-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Yoroll",
+        "url": "https://www.producthunt.com/products/yoroll",
+        "timestamp": "2026-11-05T19:24:04-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Raccoon Kids",
+        "url": "https://www.producthunt.com/products/raccoon-kids",
+        "timestamp": "2026-11-19T02:33:05-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Copy Haste",
+        "url": "https://www.producthunt.com/products/copy-haste",
+        "timestamp": "2026-11-15T09:16:10-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "TeaserKit",
+        "url": "https://www.producthunt.com/products/teaserkit",
+        "timestamp": "2026-11-19T07:08:42-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Leapdeck",
+        "url": "https://www.producthunt.com/products/leapdeck",
+        "timestamp": "2026-11-16T05:09:26-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Mockreel",
+        "url": "https://www.producthunt.com/products/mockreel",
+        "timestamp": "2026-11-19T18:04:14-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Webless Agents",
+        "url": "https://www.producthunt.com/products/webless",
+        "timestamp": "2026-11-06T18:49:47-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Slotify",
+        "url": "https://www.producthunt.com/products/slotify-2",
+        "timestamp": "2026-11-09T05:55:35-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Ulika",
+        "url": "https://www.producthunt.com/products/ulika",
+        "timestamp": "2026-11-17T11:23:36-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Pushback: Flight Tracker",
+        "url": "https://www.producthunt.com/products/pushback-flight-tracker",
+        "timestamp": "2026-11-19T15:48:07-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Omi CLI",
+        "url": "https://www.producthunt.com/products/omi-cli",
+        "timestamp": "2026-11-21T00:05:31-08:00",
+        "source": "Product Hunt — The best new products, every day"
     }
 ]
