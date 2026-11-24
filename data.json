@@ -1,305 +1,5 @@
 [
     {
-        "title": "In Praise of the Dilettante",
-        "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
-        "timestamp": "2026-10-30T12:43:22.250879",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Is Tech Actually Welcoming to Beginners, or Do We Just Say It Is?",
-        "url": "https://dev.to/sizzlebop/is-tech-actually-welcoming-to-beginners-or-do-we-just-say-it-is-3d6p",
-        "timestamp": "2026-10-30T12:43:22.432673",
-        "source": "Dev.to"
-    },
-    {
-        "title": "SparkBots AI (Powered by Jev)",
-        "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
-        "timestamp": "2026-10-30T12:43:22.524982",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Cluinn",
-        "url": "https://www.producthunt.com/products/cluinn",
-        "timestamp": "2026-10-30T12:43:22.524996",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Norah Studio",
-        "url": "https://www.producthunt.com/products/norah-studio",
-        "timestamp": "2026-10-30T12:43:22.525001",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "ilse",
-        "url": "https://www.producthunt.com/products/ilse",
-        "timestamp": "2026-10-30T12:43:22.525004",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Faylee",
-        "url": "https://www.producthunt.com/products/faylee",
-        "timestamp": "2026-10-30T12:43:22.525008",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "iSurge",
-        "url": "https://www.producthunt.com/products/isurge",
-        "timestamp": "2026-10-30T12:43:22.525012",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Chopstick",
-        "url": "https://www.producthunt.com/products/chopstick",
-        "timestamp": "2026-10-30T12:43:22.525015",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "StereoLift Live",
-        "url": "https://www.producthunt.com/products/stereolift-live",
-        "timestamp": "2026-10-30T12:43:22.525018",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Knocket AI",
-        "url": "https://www.producthunt.com/products/knocket-ai",
-        "timestamp": "2026-10-30T12:43:22.525024",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "MCP Server by XWiki",
-        "url": "https://www.producthunt.com/products/xwiki",
-        "timestamp": "2026-10-30T12:43:22.525033",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Vaani Developer Platform",
-        "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
-        "timestamp": "2026-10-30T12:43:22.525037",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "fastbrowse",
-        "url": "https://www.producthunt.com/products/fastbrowse",
-        "timestamp": "2026-10-30T12:43:22.525040",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Axonnic",
-        "url": "https://www.producthunt.com/products/axonnic",
-        "timestamp": "2026-10-30T12:43:22.525044",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Kestrix",
-        "url": "https://www.producthunt.com/products/kestrix",
-        "timestamp": "2026-10-30T12:43:22.525047",
-        "source": "Product Hunt — The best new products, every day"
-    },
-    {
-        "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-        "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-        "timestamp": "2026-10-30T12:43:22.584336",
-        "source": "TechCrunch"
-    },
-    {
-        "title": "Northflank Breached",
-        "url": "https://status.northflank.com",
-        "timestamp": "2026-10-30T18:13:48.186710",
-        "source": "Hacker News"
-    },
-    {
-        "title": "My favourite PowerMac is a Nintendo Wii",
-        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-        "timestamp": "2026-10-30T18:13:48.186750",
-        "source": "Hacker News"
-    },
-    {
-        "title": "GitHub Incident with Actions, Pages, and Webhooks",
-        "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
-        "timestamp": "2026-10-30T18:13:48.186775",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "timestamp": "2026-10-30T18:13:48.186798",
-        "source": "Hacker News"
-    },
-    {
-        "title": "A Working Nintendo in ~1GB of Qwen Weights",
-        "url": "https://github.com/dbreunig/nesformer",
-        "timestamp": "2026-10-30T18:13:48.186819",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The federated code forge",
-        "url": "https://tangled.org/blog/forge/",
-        "timestamp": "2026-10-30T18:13:48.186841",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Florilegium: Procedural Flowers in LaTeX",
-        "url": "https://github.com/kevinraymond/florilegium",
-        "timestamp": "2026-10-30T18:13:48.186862",
-        "source": "Hacker News"
-    },
-    {
-        "title": "AI isn't replacing SREs, it's deskilling them",
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-        "timestamp": "2026-10-30T18:13:48.186901",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-        "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-        "timestamp": "2026-10-30T18:13:48.186922",
-        "source": "Hacker News"
-    },
-    {
-        "title": "US tech stocks see sharp falls over AI cost fears",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "timestamp": "2026-10-30T18:13:48.186963",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
-        "url": "https://github.com/spinfinc/spinf-serve",
-        "timestamp": "2026-10-30T18:13:48.186984",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-        "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-        "timestamp": "2026-10-30T18:13:48.187004",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-        "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-        "timestamp": "2026-10-30T18:13:48.187045",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-        "url": "https://catcopter.com",
-        "timestamp": "2026-10-30T18:13:48.187064",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Tracks along the longest drive on another world",
-        "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-        "timestamp": "2026-10-30T18:13:48.187084",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Building an AI-native engineering org",
-        "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-        "timestamp": "2026-10-30T18:13:48.187104",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Compile-Time Dependent Types",
-        "url": "https://thenumb.at/Syl-Intro/",
-        "timestamp": "2026-10-30T18:13:48.187125",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-        "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-        "timestamp": "2026-10-30T18:13:48.187145",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
-        "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
-        "timestamp": "2026-10-30T18:13:48.187166",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-        "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
-        "timestamp": "2026-10-30T18:13:48.187284",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Geist Serif",
-        "url": "https://vercel.com/blog/introducing-geist-serif",
-        "timestamp": "2026-10-30T18:13:48.187303",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Commodore 1600 VICmodem",
-        "url": "https://dfarq.homeip.net/commodore-1600-vicmodem/",
-        "timestamp": "2026-10-30T18:13:48.187323",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: MCP for Your Mac Hardware",
-        "url": "https://github.com/primemindai/macmonitor",
-        "timestamp": "2026-10-30T18:13:48.422580",
-        "source": "Hacker News"
-    },
-    {
-        "title": "ExLisp: A Lisp implementation running on Elixir / BEAM",
-        "url": "https://github.com/nakagami/exlisp",
-        "timestamp": "2026-10-30T18:13:48.422619",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Giant eagles once ruled the skies",
-        "url": "https://www.bbc.com/future/article/20261028-predatory-birds-the-size-of-a-small-aircraft-once-flocked-the-skies-some-of-them-ate-humans",
-        "timestamp": "2026-10-30T18:13:48.422641",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Bend 2: Is formal verification the future of AI coding? [video]",
-        "url": "https://www.youtube.com/watch?v=9ahgxINOJlo",
-        "timestamp": "2026-10-30T18:13:48.422663",
-        "source": "Hacker News"
-    },
-    {
-        "title": "AI \"Ghost Students\" Steal Millions in Student Loans, DOJ Says",
-        "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-        "timestamp": "2026-10-30T18:13:48.422684",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Robert Caro: The master biographer reflects at 91 [video]",
-        "url": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
-        "timestamp": "2026-10-30T18:13:48.422703",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Show HN: Bot_board – A message board for code harnesses collaboration",
-        "url": "https://github.com/jalemieux/bot_board",
-        "timestamp": "2026-10-30T18:13:48.422725",
-        "source": "Hacker News"
-    },
-    {
-        "title": "The Developer Productivity Illusion",
-        "url": "https://ishanm.org/blog/the-developer-productivity-illusion",
-        "timestamp": "2026-10-30T18:13:48.422746",
-        "source": "Hacker News"
-    },
-    {
-        "title": "Literary Museum Prize \"400 Years of History\"",
-        "url": "https://www.mnhn.fr/fr/concours-litteraire-artistes",
-        "timestamp": "2026-10-30T18:13:48.422766",
-        "source": "Hacker News"
-    },
-    {
-        "title": "An open-source firewall for the next LiteLLM attack",
-        "url": "https://www.strix.ai/blog/firewall-announcement",
-        "timestamp": "2026-10-30T18:13:48.422787",
-        "source": "Hacker News"
-    },
-    {
-        "title": "How we detect frontier model misalignment",
-        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
-        "timestamp": "2026-10-30T18:13:48.422808",
-        "source": "Hacker News"
-    },
-    {
         "title": "Survivor",
         "url": "https://news.ycombinator.com/item?id=50307768",
         "timestamp": "2026-10-30T18:13:48.422828",
@@ -29998,5 +29698,305 @@
         "url": "https://css-tricks.com/dev-material-archive/",
         "timestamp": "Mon, 23 Nov 2026 14:18:50 +0000",
         "source": "CSS-Tricks"
+    },
+    {
+        "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+        "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+        "timestamp": "2026-11-24T06:52:23.397710",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Drone Maps of Salvage Yards",
+        "url": "https://salvageyarddrone.wordpress.com/",
+        "timestamp": "2026-11-24T06:52:23.397745",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Modernizing iperf/iperf3 and introducing fireperf",
+        "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+        "timestamp": "2026-11-24T06:52:23.397780",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Lowering Perplexity Without Scaling",
+        "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+        "timestamp": "2026-11-24T06:52:23.397814",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Making a dumb TV just smart enough",
+        "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+        "timestamp": "2026-11-24T06:52:23.397847",
+        "source": "Hacker News"
+    },
+    {
+        "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+        "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+        "timestamp": "2026-11-24T06:52:23.397914",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The search for a top dark matter candidate",
+        "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+        "timestamp": "2026-11-24T06:52:23.398098",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Freeing the iPod Nano 5G",
+        "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+        "timestamp": "2026-11-24T06:52:23.398134",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Declare is a UI language for you and your AI",
+        "url": "https://davidtemkin.github.io/declarelang/",
+        "timestamp": "2026-11-24T06:52:23.398197",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Power of GraphQL, Without GraphQL",
+        "url": "https://cobalt27.dev/",
+        "timestamp": "2026-11-24T06:52:23.398259",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How photos were transmitted by wire in the 1930s (2024)",
+        "url": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s",
+        "timestamp": "2026-11-24T06:52:23.398322",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Rune: Rust VM for Emacs",
+        "url": "https://github.com/CeleritasCelery/rune",
+        "timestamp": "2026-11-24T06:52:23.398353",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+        "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+        "timestamp": "2026-11-24T06:52:23.398414",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+        "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+        "timestamp": "2026-11-24T06:52:23.398477",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+        "url": "https://github.com/GenesisAgentInfra/genesis",
+        "timestamp": "2026-11-24T06:52:23.398573",
+        "source": "Hacker News"
+    },
+    {
+        "title": "AI tutoring outperforms in-class active learning",
+        "url": "https://www.nature.com/articles/s41598-025-97652-6",
+        "timestamp": "2026-11-24T06:52:23.471820",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Ant – A scripting language with goroutines and static types",
+        "url": "https://ant-lang.org/",
+        "timestamp": "2026-11-24T06:52:23.471870",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Amazon CloudFront Announces HTTP/2 Support for Connections to Origins",
+        "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/",
+        "timestamp": "2026-11-24T06:52:23.471911",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GPTZero 5.0",
+        "url": "https://gptzero.me/news/introducing-gptzero-5",
+        "timestamp": "2026-11-24T06:52:23.471946",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Frantic White House Push to Get Jensen Huang Back",
+        "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961",
+        "timestamp": "2026-11-24T06:52:23.471982",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Can an LLM Grade Objective Facts Without Favoring Itself?",
+        "url": "https://blog.logcat.ai/2026/11/23/can-an-llm-grade-objective-facts-without-favoring-itself/",
+        "timestamp": "2026-11-24T06:52:23.472016",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Cyber Security Certification Roadmap 2026 Edition",
+        "url": "https://tools.hackhouse.com/roadmap/",
+        "timestamp": "2026-11-24T06:52:23.472067",
+        "source": "Hacker News"
+    },
+    {
+        "title": "2035 Came Early",
+        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "timestamp": "2026-11-24T06:52:23.472105",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What the Typical American Has in a 401(k), by age and state",
+        "url": "https://insurancedimes.com/2026/11/09/what-the-typical-american-has-in-a-401k-by-age-and-state/",
+        "timestamp": "2026-11-24T06:52:23.472140",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Iranian singer and four others receive lashes after performance without hijab",
+        "url": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
+        "timestamp": "2026-11-24T06:52:23.472214",
+        "source": "Hacker News"
+    },
+    {
+        "title": "The Agent Memory Tarpit: ~8k GitHub Repos and Counting",
+        "url": "https://morethanamachine.com/posts/agent-memory-tarpit/",
+        "timestamp": "2026-11-24T06:52:23.472248",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+        "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+        "timestamp": "2026-11-24T06:52:23.472281",
+        "source": "Hacker News"
+    },
+    {
+        "title": "GL.iNet Security Incident 2026",
+        "url": "https://github.com/RemoteToHome-io/gl-security-incident-2026",
+        "timestamp": "2026-11-24T06:52:23.472314",
+        "source": "Hacker News"
+    },
+    {
+        "title": "After cyberattack, Hugendubel, Tolino Cloud and eBook.de are disrupted",
+        "url": "https://www.heise.de/en/news/After-cyberattack-Hugendubel-Tolino-Cloud-and-eBook-de-are-disrupted-11534318.html",
+        "timestamp": "2026-11-24T06:52:23.472347",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Why Is There Something, Rather Than Nothing?",
+        "url": "https://preposterousuniverse.com/blog/2018/02/08/why-is-there-something-rather-than-nothing-2/",
+        "timestamp": "2026-11-24T06:52:23.472380",
+        "source": "Hacker News"
+    },
+    {
+        "title": "CVE-2026-96805: Unauthorized Control of Trailer Braking System / CVSS 9.6",
+        "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
+        "timestamp": "2026-11-24T06:52:23.472413",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Humanity's Last System: Coding agents building inference systems from scratch",
+        "url": "https://hlsbench.com/blog/introducing-hls/",
+        "timestamp": "2026-11-24T06:52:23.472444",
+        "source": "Hacker News"
+    },
+    {
+        "title": "How much is one CEO worth?",
+        "url": "https://12gramsofcarbon.com/p/tech-things-how-much-is-one-ceo-worth",
+        "timestamp": "2026-11-24T06:52:23.472476",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Google has uncovered an autonomous AI cyber attack",
+        "url": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
+        "timestamp": "2026-11-24T06:52:23.472508",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Crowdsrike Acquires Zscaler",
+        "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+        "timestamp": "2026-11-24T06:52:23.472540",
+        "source": "Hacker News"
+    },
+    {
+        "title": "VP and VNP are different [OpenAI] [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/VP-and-VNP-are-different-November-23-2026/paper.pdf",
+        "timestamp": "2026-11-24T06:52:23.472572",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Export of Machine Thinking: How Artificial Intelligence a Standard of Language",
+        "url": "https://medium.com/@smoking2man/the-export-of-machine-thinking-how-artificial-intelligence-shapes-a-global-standard-of-language-57ee0303075e",
+        "timestamp": "2026-11-24T06:52:23.472603",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Bagels",
+        "url": "https://midcode.org/bagel/",
+        "timestamp": "2026-11-24T06:52:23.472639",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Seniors embrace Tesla automated driving technology",
+        "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+        "timestamp": "2026-11-24T06:52:23.472673",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Anthropic proved VP \\neq NVP for every field [pdf]",
+        "url": "https://github.com/anthropics/formal-math/blob/main/vp-vnp/paper.pdf",
+        "timestamp": "2026-11-24T06:52:23.472706",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What a CEO, a war and a video game taught me about reading power",
+        "url": "https://sidelinesnews.github.io/reading-power.html",
+        "timestamp": "2026-11-24T06:52:23.472739",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Protium – Valve's Proton Ported Natively to Apple Silicon macOS",
+        "url": "https://github.com/0xLeathery/protium",
+        "timestamp": "2026-11-24T06:52:23.472771",
+        "source": "Hacker News"
+    },
+    {
+        "title": "What Dawkins, Graham and Hickey Agree On",
+        "url": "https://sites.kistrl.com/sidi/blog/one-of-the-most-underrated-skill/",
+        "timestamp": "2026-11-24T06:52:23.472803",
+        "source": "Hacker News"
+    },
+    {
+        "title": "Show HN: Everything Is Outdated (Game)",
+        "url": "https://everythingisoutdated.dev/",
+        "timestamp": "2026-11-24T06:52:23.472835",
+        "source": "Hacker News"
+    },
+    {
+        "title": "I Made My RAG Safer. It Got Worse Under Load",
+        "url": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm",
+        "timestamp": "2026-11-22T05:23:14Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
+        "url": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9",
+        "timestamp": "2026-11-23T15:10:00Z",
+        "source": "Dev.to"
+    },
+    {
+        "title": "Snowly",
+        "url": "https://www.producthunt.com/products/snowly-2",
+        "timestamp": "2026-11-17T18:11:19-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Branchery",
+        "url": "https://www.producthunt.com/products/branchery",
+        "timestamp": "2026-11-22T13:29:23-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Jot",
+        "url": "https://www.producthunt.com/products/jot-15",
+        "timestamp": "2026-11-21T01:34:42-08:00",
+        "source": "Product Hunt — The best new products, every day"
+    },
+    {
+        "title": "Figma employee sues, alleging company forced her to confront harassers",
+        "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+        "timestamp": "Mon, 23 Nov 2026 23:07:49 +0000",
+        "source": "TechCrunch"
     }
 ]
